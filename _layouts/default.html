@@ -1,0 +1,103 @@
+<!doctype html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <meta name="description" content="{{ site.description }}" />
+    <meta name="author" content="{{ site.author }}" />
+    <meta name="robots" content="index, follow" />
+    <meta name="viewport" content="user-scalable=no,width=device-width" />
+    <meta name="keywords" content="Fatih Arslan, Farslan, Arslanlar Şehri, Ftharsln" />
+    <link href="http://feeds.feedburner.com/arsln" rel="alternate" title="Fatih Arslan" type="application/rss+xml" />
+    <link href="http://blog.arsln.org/" rel="home" />
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+    <link type="text/css" rel="stylesheet" media="screen, projection" href="/css/screen.css" /> 
+    <link type="text/css" rel="stylesheet" media="all" href="/css/custom.css" />
+    <script src="http://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" ></script>
+	<script type="text/javascript">
+			WebFontConfig = {
+			  custom: { families: ['DroidSansRegular', 'YanoneKaffeesatzRegular'],
+				urls: [ 'http://blog.arsln.org/css/screen.css' ] }
+			};
+
+	      (function() {
+	        document.getElementsByTagName("html")[0].className += " wf-loading";
+	        var wf = document.createElement('script');
+	        wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+			'://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+	        wf.type = 'text/javascript';
+	        wf.async = 'true';
+	        var s = document.getElementsByTagName('script')[0];
+	        s.parentNode.insertBefore(wf, s);
+	      })();
+	</script>
+
+  </head>
+  <body>
+    <div class="container">
+      <header class="span-21 last" id="header">
+        <h1><a href="{{ site.url }}" rel="home bookmark">{{ site.title }}</a></h1>
+      </header>
+
+      <div class="span-16" id="content">
+        {{ content }}
+      </div>
+      <div class="span-5 last" id="sidebar">
+        <div class="sidebarbox"> 
+          <h4>Sayfalar</h4> 
+          <ul id="pages">
+	        <li>
+              <a rel="bookmark" title="Home" href="{{ site.url }}/">Ana Sayfa</a>
+            </li>
+            <li>
+              <a rel="bookmark" title="About" href="{{ site.url }}/about">Hakkımda</a>
+            </li>
+            <li>
+              <a rel="bookmark" title="Archives" href="{{ site.url }}/archives" id="archives">Arşiv</a> 
+            </li>
+          </ul>
+        </div>
+        <div class="sidebarbox"> 
+          <h4>Üye ol</h4> 
+          <ul> 
+            <li> 
+              <a title="RSS Feed" href="{{ site.url }}/feed" class="icon-link" id="feed-link">RSS</a> 
+            </li> 
+          </ul> 
+        </div> 
+        <div class="sidebarbox"> 
+          <h4>Enfüs</h4> 
+          <ul> 
+            <li> 
+              <a rel="bookmark" title="Flickr" href="http://flickr.com/ftharsln" class="icon-link" id="flickr-link">Flickr</a> 
+            </li> 
+            <li> 
+              <a rel="bookmark" title="Twitter" href="http://twitter.com/ftharsln" class="icon-link" id="twitter-link">Twitter</a> 
+            </li> 
+            <li> 
+              <a rel="bookmark" title="GitHub" href="http://github.com/farslan" class="icon-link" id="github-link">GitHub</a> 
+            </li> 
+          </ul> 
+        </div>
+        <div class="sidebarbox"> 
+          <h4>İletişim</h4> 
+          <ul> 
+            <li> 
+              <a rel="bookmark" title="Email" href="mailto:&#098;&#108;&#111;&#103;&#064;&#097;&#114;&#115;&#108;&#110;&#046;&#111;&#114;&#103;" class="icon-link" id="gmail-link">Gmail</a> 
+            </li> 
+          </ul> 
+        </div> 
+      </div>
+
+      <footer class="span-21 last" id="footer">
+      Fatih Arslan. <a href="http://github.com/mojombo/jekyll" title="The Jekyll (static site generator) code repository" rel="external" target="_blank">Jekyll</a> altyapısı ile güçlendirilmiştir.
+      </footer>
+    </div>
+
+    {% include disqus.html %}
+
+	<script src="/js/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+  </body>
+</html>

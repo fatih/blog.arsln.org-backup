@@ -1,6 +1,20 @@
+title: "Fatih Arslan"
+url: "http://blog.arsln.org"
+author: "Fatih Arslan"
+email: "blog@arsln.org"
+description: "Yekpare zamanın parçalanmaz anıları..."
+
 auto: true
-markdown: rdiscount
+paginate: 5
+paginate_files:
+ - index.html
+
 #permalink: /:year/:month/:day/:title
 permalink: /:title/
-rdiscount
-  extensions: [smart]
+markdown: rdiscount
+pygments: true
+
+exclude:
+ - README.markdown
+ - _drafts
+

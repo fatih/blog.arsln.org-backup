@@ -1,14 +1,38 @@
 ---
-layout: layout
-title: Fatih Arslan
+layout: default
+title: Home
 ---
 
-<div id="home">
-  <h1>Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+{% for post in paginator.posts %}
+  <article class="post">
 
+    <h3><a href="{{ site.url }}{{ post.url }}" rel="bookmark permalink" title="Permanent link to this post">{{ post.title }}</a></h3>
+
+    {{ post.content }}
+
+  <div class="meta">
+   <div class="published">
+      Published: {{ post.date | date: "%Y-%m-%d" }}
+      &mdash;
+      <a href="{{ site.url }}{{ post.url }}#disqus_thread" title="Comments">Yorumlar</a>
+   </div>
+  </div>
+
+
+  </article>
+{% endfor %}
+
+<div class='paging'>
+{% if paginator.previous_page %}
+  {% if paginator.previous_page == 1 %}
+    <a href='/' class='newer'><h1>Yeni Yazılar</h1></a>
+  {% else %}
+    <a href='/page{{paginator.previous_page}}' class='newer'><h1>Yeni Yazılar</h1></a>
+  {% endif %}
+{% endif %}
+{% if paginator.next_page %}
+  <a href='/page{{paginator.next_page}}' class='older'><h1>Eski Yazılar</h1></a>
+{% endif %}
+  
+  <div class='clear'></div>
 </div>
