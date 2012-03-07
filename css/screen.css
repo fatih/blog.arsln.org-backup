@@ -11,18 +11,7 @@ html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, a,
 article, aside, dialog, figure, footer, header, hgroup, nav, section {
     display: block;
 }
-@font-face {
-    font-family: "DroidSansRegular";
-    font-style: normal;
-    font-weight: normal;
-    src: local("☺"), url("/fonts/DroidSans-webfont.woff") format("woff"), url("/fonts/DroidSans-webfont.ttf") format("truetype"), url("/fonts/DroidSans-webfont.svg#webfontw7zqO19G") format("svg");
-}
-@font-face {
-    font-family: "YanoneKaffeesatzRegular";
-    font-style: normal;
-    font-weight: normal;
-    src: local("☺"), url("/fonts/YanoneKaffeesatz-Regular-webfont.woff") format("woff"), url("/fonts/YanoneKaffeesatz-Regular-webfont.ttf") format("truetype"), url("/fonts/YanoneKaffeesatz-Regular-webfont.svg#webfont1BSMunJa") format("svg");
-}
+
 body {
     line-height: 2.0em;
 }
@@ -50,16 +39,16 @@ html {
     font-size: 100.01%;
 }
 body {
-    background: url("/images/bg.png") repeat-x scroll 0 0 #FFFFFF;
+    /* background: url("/images/bg.png") repeat-x scroll 0 0 #FFFFFF; */
     color: #444444;
-    font-family: DroidSansRegular,Arial,Helvetica,sans-serif;
+    font-family: 'Noticia Text',Arial,Helvetica,sans-serif;
     font-size: 75%;
     overflow-x: hidden;
     overflow-y: scroll;
 }
 h1, h2, h3, h4, h5, h6 {
     color: #111111;
-    font-family: YanoneKaffeesatzRegular,Arial,Helvetica,sans-serif;
+    font-family: 'Bree Serif',Arial,Helvetica,sans-serif;
     font-weight: normal;
 }
 .wf-loading body, .wf-loading h1, .wf-loading h2, .wf-loadingh3, .wf-loading h4, .wf-loading h5, .wf-loading h6 {
