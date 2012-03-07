@@ -1,0 +1,323 @@
+<!DOCTYPE html
+     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2009 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.com/ and http://typo3.org/
+-->
+
+<base href="http://www.real.de/" />
+
+
+<meta name="generator" content="TYPO3 4.3 CMS" />
+
+<link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_b466924c54.css" media="all" />
+
+
+<script src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js" type="text/javascript"></script>
+<script src="typo3temp/javascript_a18ca034a9.js" type="text/javascript"></script>
+
+
+<title>404 Fehler&nbsp;- real.de</title>
+        
+        <link rel="shortcut icon" href='/fileadmin/images/construct/favicon.ico' />
+        <link href="https://plus.google.com/110827309934161424964" rel="publisher" />
+        <meta http-equiv="imagetoolbar" content="false" />
+        <meta property="og:site_name" content="real.de" />
+        <meta property="og:url" content="http://www.real.de/" />
+        <meta property="og:type" content="company" />
+        <meta property="og:image" content="http://www.real.de/fileadmin/images/construct/real_logo_75x75.gif" />
+        <meta property="og:title" content="Einmal hin. Alles drin." />
+        <meta property="og:description" content="Aktuelle Informationen zu Wochenangeboten, Aktionen, Events und &Ouml;ffnungszeiten der real,- SB Warenh&auml;user." />
+        <!-- JavaScript-Dateien -->
+    <script type="text/javascript" src="fileadmin/js/jquery.min.js"></script>
+    <script type="text/javascript" src="fileadmin/js/jquery-ui-1.8.2.custom.min.js"></script>
+    <script type="text/javascript" src="fileadmin/js/jquery.tools.min.js"></script>
+    <script type="text/javascript" src="fileadmin/js/jquery.fancybox-1.3.1.pack.js"></script>
+    <script type="text/javascript" src="fileadmin/js/jquery.mousewheel-3.0.2.pack.js"></script>
+    <script type="text/javascript" src="fileadmin/js/jquery.url.packed.js"></script>
+    <script type="text/javascript" src="fileadmin/js/jquery.scrollTo-min.js"></script>
+    <script type="text/javascript" src="fileadmin/js/jquery.cookie.js"></script>
+    <script type="text/javascript" src="fileadmin/js/libs/jquery.phpdate.js"></script>
+
+    <script type="text/javascript" src="fileadmin/js/real.js"></script>
+
+    <script type="text/javascript" src="typo3conf/ext/wfp2_real_maerkte/Resources/JS/highlightOeffnungszeiten.js"></script>
+    <script type="text/javascript" src="typo3conf/ext/wfp2_real_maerkte/Resources/JS/ajax_functions.js"></script>
+    <script type="text/javascript" src="typo3conf/ext/wfp2_real_maerkte/Resources/JS/oeffnungszeitenTooltip.js"></script>    <!-- Stylesheets -->
+    <link rel="stylesheet" href="fileadmin/css/real.css?v=3" type="text/css" media="screen" />
+    <link rel="stylesheet" href="fileadmin/css/jquery.fancybox-1.3.1.css" type="text/css" media="screen" />
+    <!--[if IE]>
+        <link rel="stylesheet" href="fileadmin/css/real_ie.css" type="text/css" media="screen" />
+    <![endif]-->
+    <!--[if lt IE 7]>
+        <link rel="stylesheet" href="fileadmin/css/real_ltie_7.css?v=2" type="text/css" media="screen" />
+        <script type="text/javascript" src="fileadmin/js/real_ltie7.js"></script>
+        <script type="text/javascript" src="fileadmin/js/iepngfix_tilebg.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" href="fileadmin/css/real_print.css" type="text/css" media="print" /><link rel="stylesheet" href="fileadmin/css/unterseiten/404_seite.css" type="text/css" media="screen" />    <!-- Stylesheet - 2011 Blaetterkatalog -->
+    <link rel="stylesheet" href="fileadmin/css/2011_blaetterkatalog.css" type="text/css" media="screen" />
+
+
+</head>
+<body id="body362">
+
+
+        <!--TYPO3SEARCH_end-->
+        <div id="real_nav">
+<div id="real_nav_wrapper">
+    <ul>
+        <li class="link_onlineshop"><a href="http://www.real-onlineshop.de/realstore/Welcome.html?campaign=realde%20Startseite/CorporateBar" target="_blank">real,- Onlineshop</a></li>
+                <li class="link_filialen"><a href="http://www.real.de" class="active">real,- Filialen</a></li>
+    </ul>
+    <div id="real_nav_logo">&nbsp;</div>
+    <div class="clear">&nbsp;</div>
+</div>
+
+</div>
+        <div id="wrapper">
+            <div id="header"><h1 class="real_logo hide_text"><a href="startseite.html" >real,-</a></h1><a href="payback.html" class="payback_logo hide_text">Official Partner: PAYBACK</a><div class="tx-macinasearchbox-pi1">
+		
+<script type="text/javascript">
+    var keyPressDelay = null;
+    function liveSearchDoSearch(suchwort, limit)
+    {
+        $.ajax({
+            type: "POST",
+            url: "index.php",
+            //data: ({eID : 'search_result', tx_indexedsearch[sword] : suchwort}),
+            data: 'eID=search_result&tx_wfp2realsearch_pi1[sword]=' + suchwort + '&limit=' + limit, //({eID : 'search_result', tx_indexedsearch[sword] : suchwort}),
+            beforeSend: function(){
+                $('.search_overlay').remove();
+                $('.suche').append('<div class="loading_image"><img src="fileadmin/images/construct/ajax-loader-grey.gif" /></div>');
+                
+                $('body').prepend('<div class="search_overlay">&nbsp;</div>');
+                
+                var overlayHeight = $(document).height();
+                $('.search_overlay').height(overlayHeight);
+                $('body').addClass('active_search');
+            },
+            success: function(msg){
+                $('#ajax_search_result').html(msg);
+                $('.loading_image').remove();
+                $('#suche_button').css("display","block");
+                $('#suche_button').attr("href", "suche.html?tx_indexedsearch[sword]=" + suchwort);
+                
+                /* Removes Search by click on white Background */
+            }
+        });
+    }
+    function get_search_results(suchwort, limit)
+    {
+        if (keyPressDelay)
+        {
+            window.clearTimeout(keyPressDelay);
+        }
+
+        if (suchwort.length >= 3)
+        {
+            keyPressDelay = window.setTimeout(function(){liveSearchDoSearch(suchwort, limit)}, 800);
+        }
+    }
+    /* Removes white Search-Overlay on Click */
+    $(document).ready(function() {    
+        $('div.search_overlay').click(function () {
+            $(this).fadeOut();
+        });
+    });
+</script>
+<div id="ajax_search_result"></div>
+<div class="suche">
+    <input onkeyup="get_search_results($('#suchwort').val(), '5');return false;" class="suche_input" name="tx_wfp2realsearch_pi1[sword]" id="suchwort" type="text" alt="Geben Sie hier Ihren Suchbegriff ein." autocomplete="off" />
+    <a id="suche_button" style="display:none" href="">Alle Suchergebnisse anzeigen</a>
+    <div class="clear_input hidden">&nbsp;</div>
+</div>
+
+	</div>
+	<div class="clear">&nbsp;</div><div class="driveBadge"><a href="http://www.real-drive.de" target="_blank" rel="nofollow"></a></div></div>
+            <div id="marktauswahl">    
+                
+    <!-- URL is used as base URL in at least 3 places: in ajax_functions.js for the markt list and for the markt search
+         and in pideutschlandkarte for the marker URLs
+    -->
+    <a id="marktSelectActionJSTargetURL" href="404-fehler.html?bkz=0" style="display:none;"></a>
+    <span class="marktauswahl_label"><span class="hide_text">&nbsp;</span>
+        Bitte wählen Sie ihren Markt:
+    </span>
+
+    <ul>
+        <li class="markt_direkt_wahl"><a href="javascript:void(0)"><span>Markt direkt wählen</span></a></li>
+        <li class="markt_plz_ort"><a href="javascript:void(0)"><span>nach PLZ oder Ort suchen</span></a></li>
+        <li class="markt_deutschlandkarte"><a href="deutschlandkarte-mit-allen-real-maerkten.html?vorherigePid=362&amp;cHash=02b76ed7ededb08df415944eb8151c04"><span>Deutschlandkarte mit allen Märkten öffnen</span></a></li>
+    </ul>
+    <div class="clear">&nbsp;</div>
+
+                
+    <div style="display:none" class="markt_direkt_wahl_content">
+        <div class="markt_liste" id="ajax_marktliste_result">
+
+        </div>
+        <input type="hidden" name="vorherigePid" id="marktliste_vorherigePid" value="362" />
+        <div class="deutschlandkarte">&nbsp;</div>
+        <p class="info">Bitte suchen Sie Ihren Markt in der nebenstehenden, alphabetisch sortierten Liste. Ein Klick auf Ihren Markt genügt zur Auswahl!</p>
+        <div class="corner">&nbsp;</div>
+    </div>
+
+                
+    <div style="display:none" class="markt_plz_ort_content">
+        <div class="plz_ort_form">
+            <div class="plz_ort_form_wrapper">
+                <div class="plz_ort_form_left">
+                    <input type="hidden" name="vorherigePid" id="umkreissuche_vorherigePid" value="362" />
+                    <div class="form_item form_item_text">
+                        <label class="text" for="plz_ort">Ihre Postleitzahl  / Ihr Wohnort:</label>
+                        <span class="input_text"><input type="text" id="suchEingabe" name="suchEingabe" value="" class="text" /></span>
+                    </div>
+                    <div class="form_item form_item_select" style="display:none;">
+                        <label class="select" for="suchUmkreis">Umkreis</label>
+                        <select id="suchUmkreis" name="suchUmkreis" class="select">
+                            <option value="15">15 km</option>
+                            <option value="25">25 km</option>
+                            <option value="50">50 km</option>
+                            <option value="100" selected>100 km</option>
+                        </select>
+                    </div>
+                    <button type="button" class="button_input marktfinden_link" onclick="doUmkreissuche('','');">Markt finden</button>
+                </div>
+                <div id="ajax_umkreissuche_result"></div>
+            </div>
+        </div>
+
+        <div class="deutschlandkarte">&nbsp;</div>
+        <p class="info">Bitte geben Sie in das nebenstehende Feld entweder Ihre Postleitzahl oder Ihren Ort an (bitte nicht kombinieren) und klicken Sie anschließend auf „Märkte finden“.</p>
+        <div class="corner">&nbsp;</div>
+    </div>
+
+                
+                        
+
+            
+            
+        
+
+                    
+        </div>
+            <div style="display:none" class="marktauswahl_expanded_footer hide_text">&nbsp;</div>
+            <div id="content_wrapper">    <div class="content_box_404">
+        <h2>Es ist ein Fehler aufgetreten</h2>
+        <p>Aufgrund technischer Probleme kann die von Ihnen gew&auml;hlte Seite momentan nicht angezeigt werden, wof&uuml;r wir um Entschuldigung bitten. Wir tun alles, um das Problem so schnell wie m&ouml;glich zu beheben.</p>
+    </div>
+    </div>    
+            <div id="footer_bar">
+                <div class="breadcrumb"><a href="startseite.html" class="active first active_first"><span>Startseite</span></a><a href="404-fehler.html"  class="current"><span>404 Fehler</span></a></div>
+                <div class="footer_bar_links">
+                    <a href="javascript:window.print()" class="button_link print_link"><span>Seite drucken</span></a>
+                    <div class="weitersagen_box">
+                        <div class="addthis_toolbox addthis_default_style">
+                            <a href="http://www.addthis.com/bookmark.php?v=250&username=xa-4b51d3b90b4620fc" class="addthis_button_compact" addthis:services_compact="email, facebook, twitter, blogger, delecious, favorites, googlereader, meinvz, studivz, tumblr, more" addthis:services_exclude="print">
+                                <span>Social Media <span class="addthis_toolbox_icons">&nbsp;</span></span>
+                            </a>
+                            <a class="addthis_button_facebook_like"></a>
+                        </div>
+                        <script type="text/javascript" src="fileadmin/js/addthis_widget.js?pub=username=xa-4bd942e75d7f780d"></script>
+                    </div>
+                    <div class="googlePlusWidget">
+                        <!-- google plus +1 button -->
+                        <g:plusone href="http://www.real.de"></g:plusone>
+                    </div>
+                </div>
+            </div>
+            <div id="meta_bar"><ul><li class="meta_bar_item_6"><a href="http://www.real-hypermarket.com/de/startseite.html#2" target="_blank" >Unternehmen</a></li><li class="meta_bar_item_1619"><a href="handeln-aus-verantwortung.html" >Handeln aus Verantwortung</a></li><li class="meta_bar_item_52"><a href="http://www.real-hypermarket.com/de/presse.html" target="_blank" >Presse</a></li><li class="meta_bar_item_1286"><a href="jobs-karriere/startseite.html" >Jobs &amp; Karriere</a></li><li class="meta_bar_item_433"><a href="impressum.html" >Impressum</a></li><li class="meta_bar_item_454"><a href="rechtliche-hinweise.html" >Rechtliche Hinweise</a></li><li class="meta_bar_item_55"><a href="agb.html" >AGB</a></li><li class="meta_bar_item_56"><a href="kundenservice/ihre-meinung.html" >Kontakt</a></li></ul></div>
+            <div id="meta_nav"><ul id="meta_nav_items"><li class="meta_nav_item meta_nav_item_7"><a href="http://www.real-onlineshop.de/realstore/Welcome.html" target="_blank" >Onlineshop</a><ul><li class="meta_sub_nav_item"><a href="http://www.real-onlineshop.de/realstore/Multimedia/C/1/EF000000" target="_blank" >Multimedia</a></li><li class="meta_sub_nav_item"><a href="http://www.real-onlineshop.de/realstore/Sport-und-Freizeit/C/1/SF000000" target="_blank" >Sport & Freizeit</a></li><li class="meta_sub_nav_item"><a href="http://www.real-onlineshop.de/realstore/Haus-und-Garten/C/1/HG000000" target="_blank" >Haus & Garten</a></li><li class="meta_sub_nav_item"><a href="http://www.real-onlineshop.de/realstore/Spielwaren/C/1/SW000000" target="_blank" >Spielwaren</a></li><li class="meta_sub_nav_item"><a href="http://www.real-onlineshop.de/realstore/Babys-und-Kleinkinder/C/1/BK000000" target="_blank" >Babywelt</a></li><li class="meta_sub_nav_item"><a href="http://www.real-onlineshop.de/realstore/Drogerie-und-Wellness/C/1/GW000000" target="_blank" >Gesundheit & Wellness</a></li><li class="meta_sub_nav_item"><a href="http://www.real-onlineshop.de/realstore/Genussmittel/C/1/LD000000" target="_blank" >Genussmittel</a></li><li class="meta_sub_nav_item"><a href="http://www.real-onlineshop.de/realstore/Tierwelt/C/1/HG190000" target="_blank" >Tierwelt</a></li><li class="meta_sub_nav_item"><a href="http://www.real-onlineshop.de/realstore/Prozent-Reduziert/C/1/RZ000000" target="_blank" >%-Reduziert</a></li></ul></li></ul><ul id="meta_nav_items"><li class="meta_nav_item meta_nav_item_3"><a href="wochenangebote/lebensmittel/fleisch-wurst.html" >Angebote aus dem Markt</a><ul><li class="meta_sub_nav_item"><a href="wochenangebote/alle-angebote/lebensmittel-drogerie.html" >Alle Angebote</a></li><li class="meta_sub_nav_item"><a href="wochenangebote/lebensmittel/fleisch-wurst.html" >Lebensmittel</a></li><li class="meta_sub_nav_item"><a href="wochenangebote/getraenke/alkoholfreie-getraenke.html" >Getränke</a></li><li class="meta_sub_nav_item"><a href="wochenangebote/waschen-putzen-reinigen.html" >Waschen, putzen, reinigen</a></li><li class="meta_sub_nav_item"><a href="wochenangebote/baby-drogerie-beauty-more/baby.html" >Baby, Drogerie, Beauty &amp; More</a></li><li class="meta_sub_nav_item"><a href="wochenangebote/haushalt-co.html" >Haushalt &amp; Elektro</a></li><li class="meta_sub_nav_item"><a href="wochenangebote/heimwerken-garten-auto.html" >Heimwerken / Garten / Auto</a></li><li class="meta_sub_nav_item"><a href="wochenangebote/spiel-sport.html" >Spiel &amp; Sport</a></li><li class="meta_sub_nav_item"><a href="wochenangebote/textil.html" >Textil</a></li><li class="meta_sub_nav_item"><a href="wochenangebote/angebote-vorschau/alle-angebote.html" >Angebote Vorschau</a></li><li class="meta_sub_nav_item"><a href="wochenangebote/restposten-aktuell/porzellan-deko.html" >Restposten aktuell</a></li><li class="meta_sub_nav_item"><a href="http://www.real-onlineshop.de/realstore/LandingCategory.html?id=Uberschneidung_KW09&amp;campaign=realde%20Startseite/Navigation_Wochenprospekt/Ueberschneidung" target="_blank" >Onlineshop-Angebote</a></li><li class="meta_sub_nav_item"><a href="http://www.google.de/weeklyads/real/home" target="_blank" >real,- Prospekt</a></li></ul></li></ul><ul id="meta_nav_items"><li class="meta_nav_item meta_nav_item_5"><a href="kundenservice/ihre-meinung.html" >Kundenservice</a><ul><li class="meta_sub_nav_item"><a href="kundenservice/ihre-meinung.html" >Ihre Meinung</a></li><li class="meta_sub_nav_item"><a href="kundenservice/unsere-garantien.html" >Unsere Garantien</a></li><li class="meta_sub_nav_item"><a href="kundenservice/service-im-markt.html" >Service im Markt</a></li><li class="meta_sub_nav_item"><a href="kundenservice/haeufig-gestellte-fragen.html" >Häufig gestellte Fragen</a></li><li class="meta_sub_nav_item"><a href="kundenservice/finanzkauf.html" >Finanzkauf</a></li></ul></li><li class="meta_nav_item meta_nav_item_1202"><a href="versicherungsservice.html" >Versicherungsservice</a><ul><li class="meta_sub_nav_item"><a href="versicherungsservice/hundehalterhaftpflicht.html" >Hundehalter-Haftpflicht</a></li><li class="meta_sub_nav_item"><a href="versicherungsservice/privathaftpflicht.html" >Privat-Haftpflicht</a></li><li class="meta_sub_nav_item"><a href="versicherungsservice/fahrraddiebstahl.html" >Fahrraddiebstahl</a></li><li class="meta_sub_nav_item"><a href="versicherungsservice/gesundheit.html" >Gesundheit</a></li><li class="meta_sub_nav_item"><a href="versicherungsservice/hausrat.html" >Hausrat</a></li><li class="meta_sub_nav_item"><a href="versicherungsservice/unfall.html" >Unfall</a></li><li class="meta_sub_nav_item"><a href="versicherungsservice/riester.html" >Riester</a></li><li class="meta_sub_nav_item"><a href="versicherungsservice/reise.html" >Reise</a></li><li class="meta_sub_nav_item"><a href="versicherungsservice/ueber-uns.html" >Über uns</a></li></ul></li></ul><ul id="meta_nav_items"><li class="meta_nav_item meta_nav_item_920"><a href="unsere-marken-rl.html" >Unsere Marken</a><ul><li class="meta_sub_nav_item"><a href="unsere-marken-rl/einstieg.html" >Testen Sie real,- QUALITY</a></li><li class="meta_sub_nav_item"><a href="unsere-marken-rl/tip/tip-sortiment.html" >TiP</a></li><li class="meta_sub_nav_item"><a href="unsere-marken-rl/real-quality/quality-einstieg.html" >real,- QUALITY</a></li><li class="meta_sub_nav_item"><a href="unsere-marken-rl/real-bio/bio-einstieg.html" >real,- BIO</a></li><li class="meta_sub_nav_item"><a href="unsere-marken-rl/real-selection/selection-einstieg.html" >real,- SELECTION</a></li></ul></li><li class="meta_nav_item meta_nav_item_125"><a href="aktionen.html" >Aktionen &amp; Events</a><ul><li class="meta_sub_nav_item"><a href="aktionen/geschenkkorb.html" >Geschenkkorb</a></li><li class="meta_sub_nav_item"><a href="nc/aktionen/real-treue-aktion.html" >real,- Treue-Aktion</a></li><li class="meta_sub_nav_item"><a href="http://www.real.de/shared/jc2011" target="_blank" >real,- junior cup</a></li><li class="meta_sub_nav_item"><a href="aktionen/real-geschenk-karte.html" >real,- Geschenk-Karte</a></li><li class="meta_sub_nav_item"><a href="aktionen/real-kindertage.html" >real,- Kindertage</a></li><li class="meta_sub_nav_item"><a href="aktionen/wir-im-verein-mit-dir.html" >Wir im Verein mit dir</a></li></ul></li></ul><ul id="meta_nav_items"><li class="meta_nav_item meta_nav_item_109"><a href="payback.html" >PAYBACK</a><ul><li class="meta_sub_nav_item"><a href="payback/online-anmelden.html" >Online anmelden</a></li><li class="meta_sub_nav_item"><a href="payback/payback-visa-karte.html" >PAYBACK Visa Karte</a></li><li class="meta_sub_nav_item"><a href="payback/payback-partner.html" >PAYBACK Partner</a></li><li class="meta_sub_nav_item"><a href="payback/mein-payback.html" >Mein PAYBACK</a></li><li class="meta_sub_nav_item"><a href="payback/punkte-einloesen.html" >Punkte einlösen</a></li></ul></li><li class="meta_nav_item meta_nav_item_124"><a href="fahrradfinder.html" >Specials</a><ul><li class="meta_sub_nav_item"><a href="fahrradfinder.html" >Fahrrad-Finder</a></li><li class="meta_sub_nav_item"><a href="online-specials/rezepte.html" >Rezepte</a></li><li class="meta_sub_nav_item"><a href="online-specials/newsletter.html" >real,- Newsletter</a></li></ul></li></ul><div style="clear:both"></div></div>
+            <div id="footer">&nbsp;</div>
+            <div id="marktauswahl_shadow">&nbsp;</div>
+            <div id="main_nav"><ul class="main_nav_items"><li id="nav_item_startseite" class="main_nav_item"><a href="startseite.html" class="main_nav_link">Startseite</a></li></ul><ul class="main_nav_items"><li id="nav_item_onlineshop" class="main_nav_item"><a href="onlineshop.html" target="_blank" onfocus="blurLink(this);"  class=main_nav_link>Onlineshop</a><div class="subnav">
+            <div class="subnav_link">&nbsp;</div>
+            <div class="subnav_header">&nbsp;</div>
+            <div class="subnav_wrapper">
+                <ul><a href="onlineshop.html" target="_blank" class=header_link></a><li class="sub_nav_item sub_nav_item_695 first"><a href="onlineshop/elektro-foto.html" target="_blank" onfocus="blurLink(this);"  >Multimedia</a></li><li class="sub_nav_item sub_nav_item_696"><a href="onlineshop/sport-freizeit.html" target="_blank" onfocus="blurLink(this);"  >Sport & Freizeit</a></li><li class="sub_nav_item sub_nav_item_697"><a href="onlineshop/haus-garten.html" target="_blank" onfocus="blurLink(this);"  >Haus & Garten</a></li><li class="sub_nav_item sub_nav_item_698"><a href="onlineshop/spielwaren.html" target="_blank" onfocus="blurLink(this);"  >Spielwaren</a></li><li class="sub_nav_item sub_nav_item_699"><a href="onlineshop/babys-kleinkinder.html" target="_blank" onfocus="blurLink(this);"  >Babywelt</a></li><li class="sub_nav_item sub_nav_item_700"><a href="onlineshop/gesundheit-wellness.html" target="_blank" onfocus="blurLink(this);"  >Gesundheit & Wellness</a></li><li class="sub_nav_item sub_nav_item_743"><a href="onlineshop/lebensmittel-drogerie.html" target="_blank" onfocus="blurLink(this);"  >Genussmittel</a></li><li class="sub_nav_item sub_nav_item_995"><a href="onlineshop/tierwelt.html" target="_blank" onfocus="blurLink(this);"  >Tierwelt</a></li><li class="sub_nav_item sub_nav_item_701 last"><a href="onlineshop/reduziert.html" target="_blank" onfocus="blurLink(this);"  >%-Reduziert</a></li></a></ul>
+                <div class="clear">&nbsp;</div>
+            </div>
+        </div></li></ul><ul class="main_nav_items"><li id="nav_item_wochenangebote" class="main_nav_item"><a href="wochenangebote/lebensmittel/fleisch-wurst.html" onfocus="blurLink(this);"  class=main_nav_link>Angebote aus dem Markt</a><div class="subnav">
+            <div class="subnav_link">&nbsp;</div>
+            <div class="subnav_header">&nbsp;</div>
+            <div class="subnav_wrapper">
+                <ul><a href="wochenangebote/lebensmittel/fleisch-wurst.html" class=header_link></a><li class="sub_nav_item sub_nav_item_{field:uid} subnav_arrow first"><span class="textWrapper">Alle Angebote</span><ul><li class="first"><a href="wochenangebote/alle-angebote/lebensmittel-drogerie.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Lebensmittel & Drogerie</a></li><li class="last"><a href="wochenangebote/alle-angebote/nonfood.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Nonfood</a></li></ul></li><li class="sub_nav_item sub_nav_item_{field:uid} subnav_arrow"><span class="textWrapper">Lebensmittel</span><ul><li class="first"><a href="wochenangebote/lebensmittel/fleisch-wurst.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Fleisch, Wurst</a></li><li><a href="wochenangebote/lebensmittel/molkereiprodukte.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Molkereiprodukte</a></li><li><a href="wochenangebote/lebensmittel/obst-gemuese-blumen.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Obst, Gemüse, Blumen</a></li><li><a href="wochenangebote/lebensmittel/konserven-saucen-trockensortiment.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Konserven, Saucen & Trockensortiment</a></li><li><a href="wochenangebote/lebensmittel/kaese-brot.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Käse, Brot</a></li><li><a href="wochenangebote/lebensmittel/tiefkuehlkost-kuehltheke.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Tiefkühlkost / Kühltheke</a></li><li><a href="wochenangebote/lebensmittel/suesswaren.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Süßwaren</a></li><li><a href="wochenangebote/lebensmittel/laibhaftig-lecker.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Laibhaftig lecker!</a></li><li><a href="wochenangebote/lebensmittel/bayerische-schmankerln.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Bayerische Schmankerln</a></li><li class="last"><a href="wochenangebote/lebensmittel/tiernahrung.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Tiernahrung</a></li></ul></li><li class="sub_nav_item sub_nav_item_{field:uid} subnav_arrow"><span class="textWrapper">Getränke</span><ul><li class="first"><a href="wochenangebote/getraenke/alkoholfreie-getraenke.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Alkoholfreie Getränke</a></li><li><a href="wochenangebote/getraenke/alkoholische-getraenke.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Alkoholische Getränke</a></li><li class="last"><a href="wochenangebote/getraenke/wein.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Wein</a></li></ul></li><li class="sub_nav_item sub_nav_item_78"><a href="wochenangebote/waschen-putzen-reinigen.html" onfocus="blurLink(this);"  >Waschen, putzen, reinigen</a></li><li class="sub_nav_item sub_nav_item_{field:uid} subnav_arrow"><span class="textWrapper">Baby, Drogerie, Beauty & More</span><ul><li class="first"><a href="wochenangebote/baby-drogerie-beauty-more/baby.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Baby</a></li><li class="last"><a href="wochenangebote/baby-drogerie-beauty-more/drogerie-beauty-more.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Drogerie, Beauty & More</a></li></ul></li><li class="sub_nav_item sub_nav_item_{field:uid} subnav_arrow"><span class="textWrapper">Haushalt & Elektro</span><ul><li class="first"><a href="wochenangebote/haushalt-co/haushaltswaren.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Haushaltswaren</a></li><li><a href="wochenangebote/haushalt-co/elektro-unterhaltung.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Elektro: Unterhaltung</a></li><li><a href="wochenangebote/haushalt-co/elektro-haushalt.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Elektro: Haushalt</a></li><li><a href="wochenangebote/haushalt-co/gesundheitsartikel.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Gesundheitsartikel</a></li><li class="last"><a href="wochenangebote/haushalt-co/moebel.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Möbel</a></li></ul></li><li class="sub_nav_item sub_nav_item_{field:uid} subnav_arrow"><span class="textWrapper">Heimwerken / Garten / Auto</span><ul><li class="first"><a href="wochenangebote/heimwerken-garten-auto/heimwerken-auto.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Heimwerken / Auto</a></li><li class="last"><a href="wochenangebote/heimwerken-garten-auto/garten-camping.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Garten & Camping</a></li></ul></li><li class="sub_nav_item sub_nav_item_{field:uid} subnav_arrow"><span class="textWrapper">Spiel & Sport</span><ul><li class="first"><a href="wochenangebote/spiel-sport/spielwaren.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Spielwaren</a></li><li class="last"><a href="wochenangebote/spiel-sport/sportartikel.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Sportartikel</a></li></ul></li><li class="sub_nav_item sub_nav_item_88"><a href="wochenangebote/textil.html" onfocus="blurLink(this);"  >Textil</a></li><li class="sub_nav_item sub_nav_item_{field:uid} subnav_arrow"><span class="textWrapper">Angebote Vorschau</span><ul><li class="first"><a href="wochenangebote/angebote-vorschau/elektro-unterhaltung.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Elektro: Unterhaltung</a></li><li><a href="wochenangebote/angebote-vorschau/elektro-haushalt.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Elektro: Haushalt</a></li><li><a href="wochenangebote/angebote-vorschau/haushaltswaren.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Haushaltswaren</a></li><li><a href="wochenangebote/angebote-vorschau/heimwerken-auto.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Heimwerken / Auto</a></li><li><a href="wochenangebote/angebote-vorschau/garten-camping.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Garten & Camping </a></li><li><a href="wochenangebote/angebote-vorschau/spielwaren.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Spielwaren</a></li><li><a href="wochenangebote/angebote-vorschau/sportartikel.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Sportartikel</a></li><li class="last"><a href="wochenangebote/angebote-vorschau/textil.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Textil</a></li></ul></li><li class="sub_nav_item sub_nav_item_{field:uid} subnav_arrow"><span class="textWrapper">Restposten aktuell</span><ul><li class="first"><a href="wochenangebote/restposten-aktuell/porzellan-deko.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Porzellan & Deko</a></li><li class="last"><a href="wochenangebote/restposten-aktuell/auto-freizeit.html" onfocus="blurLink(this);"  ><span class="hide_text"></span>Auto & Freizeit</a></li></ul></li><li class="sub_nav_item sub_nav_item_942 last"><a href="wochenangebote/onlineshop.html" target="_blank" onfocus="blurLink(this);"  >Onlineshop-Angebote</a></li></a><a href="/handzettel-blaetterkatalog.html" class="handZettelBadge"><img src="/uploads/pics/kw08_handzettel_badge_01.jpg" width="194" height="89" border="0" alt="" title="" /></a></ul>
+                <div class="clear">&nbsp;</div>
+            </div>
+        </div></li></ul><ul class="main_nav_items"><li id="nav_item_frischeportal" class="main_nav_item"><a href="frischeportal.html" target="_blank" onfocus="blurLink(this);"  class=main_nav_link>Frische</a></li></ul><ul class="main_nav_items"><li id="nav_item_unsere_marken" class="main_nav_item"><a href="unsere-marken-rl.html" onfocus="blurLink(this);"  class=main_nav_link>Unsere Marken</a><div class="subnav">
+            <div class="subnav_link">&nbsp;</div>
+            <div class="subnav_header">&nbsp;</div>
+            <div class="subnav_wrapper">
+                <ul><a href="unsere-marken-rl.html" class=header_link></a><li class="sub_nav_item sub_nav_item_1085 first"><a href="unsere-marken-rl/einstieg.html" onfocus="blurLink(this);"  >Testen Sie real,- QUALITY</a></li><li class="sub_nav_item sub_nav_item_935"><a href="unsere-marken-rl/tip/tip-sortiment.html" onfocus="blurLink(this);"  >TiP</a></li><li class="sub_nav_item sub_nav_item_932"><a href="unsere-marken-rl/real-quality/quality-einstieg.html" onfocus="blurLink(this);"  >real,- QUALITY</a></li><li class="sub_nav_item sub_nav_item_927"><a href="unsere-marken-rl/real-bio/bio-einstieg.html" onfocus="blurLink(this);"  >real,- BIO</a></li><li class="sub_nav_item sub_nav_item_924 last"><a href="unsere-marken-rl/real-selection/selection-einstieg.html" onfocus="blurLink(this);"  >real,- SELECTION</a></li></a></ul>
+                <div class="clear">&nbsp;</div>
+            </div>
+        </div></li></ul><ul class="main_nav_items"><li id="nav_item_real_versicherungsservice" class="main_nav_item"><a href="versicherungsservice.html" onfocus="blurLink(this);"  class=main_nav_link>Versicherungsservice</a><div class="subnav">
+            <div class="subnav_link">&nbsp;</div>
+            <div class="subnav_header">&nbsp;</div>
+            <div class="subnav_wrapper">
+                <ul><a href="versicherungsservice.html" class=header_link></a><li class="sub_nav_item sub_nav_item_1271 first"><a href="versicherungsservice/hundehalterhaftpflicht.html" onfocus="blurLink(this);"  >Hundehalter-Haftpflicht</a></li><li class="sub_nav_item sub_nav_item_1265"><a href="versicherungsservice/privathaftpflicht.html" onfocus="blurLink(this);"  >Privat-Haftpflicht</a></li><li class="sub_nav_item sub_nav_item_1261"><a href="versicherungsservice/fahrraddiebstahl.html" onfocus="blurLink(this);"  >Fahrraddiebstahl</a></li><li class="sub_nav_item sub_nav_item_1225"><a href="versicherungsservice/gesundheit.html" onfocus="blurLink(this);"  >Gesundheit</a></li><li class="sub_nav_item sub_nav_item_1220"><a href="versicherungsservice/hausrat.html" onfocus="blurLink(this);"  >Hausrat</a></li><li class="sub_nav_item sub_nav_item_1214"><a href="versicherungsservice/unfall.html" onfocus="blurLink(this);"  >Unfall</a></li><li class="sub_nav_item sub_nav_item_1208"><a href="versicherungsservice/riester.html" onfocus="blurLink(this);"  >Riester</a></li><li class="sub_nav_item sub_nav_item_1204"><a href="versicherungsservice/reise.html" onfocus="blurLink(this);"  >Reise</a></li><li class="sub_nav_item sub_nav_item_1203 last"><a href="versicherungsservice/ueber-uns.html" onfocus="blurLink(this);"  >Über uns</a></li></a></ul>
+                <div class="clear">&nbsp;</div>
+            </div>
+        </div></li></ul><ul class="main_nav_items"><li id="nav_item_mein_real" class="main_nav_item"><a href="mein-real.html" onfocus="blurLink(this);"  class=main_nav_link>Mein real,-</a></li></ul><div class="hmv"><div><a href="handeln-aus-verantwortung.html" class="button_link_blue">Mehr Informationen</a></div></div><div class="service_channel"><div id="c2484" class="csc-default" ><ul>
+    <li class="link_youtube"><a href="http://www.youtube.com/real" class="active">youtube.com/real</a></li>
+    <li class="link_facebook"><a href="https://www.facebook.com/real" class="active">facebook.com/real</a></li>
+    <li class="link_mobile_apps"><a href="http://www.real.de/mobile-app.html" class="active">Mobile Apps</a></li>
+</ul></div><div class="channels"><div class="youtube"><div id="c2481" class="csc-default" ><div class="block">
+    <span>&nbsp;</span>
+    <p>&nbsp;</p>
+    <a href="http://www.youtube.com/real" target="_blank">Zum real,- YouTube-Channel</a>
+</div>
+<a href="http://www.youtube.com/watch?v=IgLunUlMRUE&feature=plcp&context=C3714a24UDOEgsToPDskLtYqL5tdqx7HrKxvdBh9mI" target="_blank"><img src="fileadmin/images/construct/video_1.png" /></a>
+<a href="http://www.youtube.com/watch?v=RK6g5F5OlTY&feature=plcp&context=C36e53c9UDOEgsToPDskK1P1yaNz5naTza-pEx6V2H" target="_blank"><img src="fileadmin/images/construct/video_2.png" /></a> <!-- max width 266px --></div></div><div class="facebook"><div id="c2482" class="csc-default" ><div class="block">
+    <span>&nbsp;</span>
+    <p>&nbsp;</p>
+    <a target="_blank" href="http://www.facebook.com/real">Zu facebook.com/real</a>
+</div>
+<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Freal&amp;width=270&amp;height=270&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=true&amp;header=false&amp;appId=222033234555192" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:270px; height:270px;" allowTransparency="true"></iframe></div></div><div class="mobile_apps"><div id="c2483" class="csc-default" ><div class="block">
+    <span>&nbsp;</span>
+    <p>Mit der real,- App holen Sie sich viele verschiedene und besonders praktische Funktionen auf Ihr Mobiltelefon: Sie haben &uuml;berall die M&ouml;glichkeit unsere aktuellen Angebote einzusehen, Ihre mobile Einkaufsliste zu erstellen, Rezept-Tipps zu empfangen oder den n&auml;chsten real,- Markt zu finden.</p>
+</div>
+<img src="fileadmin/images/construct/phones.png" />
+<div class="clear">&nbsp;</div>
+<a target="_blank" href="http://itunes.apple.com/de/app/real/id343799347?mt=8" class="itunes hide_text">itunes</a>
+<a target="_blank" href="fileadmin/aktionen/mobile_app/android_market.html" class="android hide_text">androidmarket</a>
+<a target="_blank" href="http://www.windowsphone.com/de-DE/apps/bc47056d-b6ef-4328-95dd-ca5805aa92e9" class="windows hide_text">windowsphone</a>
+</div></div></div></div></div>
+        </div>        
+        <!--###javascript### begin --><div id="javascript">&nbsp;</div><!--###javascript### end -->
+        <!--TYPO3SEARCH_begin-->
+    
+<!-- Plugin: 014/tx_econda_pi1 [begin] -->
+<script type="text/javascript">
+//<![CDATA[
+    window.emosTrackVersion = 2;
+//]]>
+</script>
+<script type="text/javascript" src="fileadmin/template/javascript/emos2.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+    var emospro = {};
+    emospro.siteid = 'real,-';
+    emospro.content = 'Hauptverzeichnis/Navigatorisch nicht erfasste Seiten/404 Fehler';
+    emospro.langid = 'DE';
+    emospro.countryid = 'DE';
+    emospro.pageId = 'a1ccdaa27a4b75951d6d8c053d9c03be';
+//]]>
+</script>
+<!-- Plugin: 014/tx_econda_pi1 [end] -->
+
+
+<script src="fileadmin/js/realFooter.js" type="text/javascript"></script>
+
+
+</body>
+</html>
+<!-- Cached page generated 06.03.12 11:40. Expires 07.03.12 08:26 -->
+<!-- Parsetime: 0 ms-->

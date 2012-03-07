@@ -1,0 +1,14 @@
+---
+date: '2006-11-16 20:24:59'
+layout: post
+slug: biraz-ara
+status: publish
+title: Biraz ara…
+wordpress_id: '89'
+categories:
+- Hayat-Yaşam
+tags:
+- hayat
+---
+
+Sınavlar yaklaştı ve bu yüzden onlara çalışıyorum. Son zamanlar bu yüzden yazmak için zamanım olmuyor. Bir şeyler buluyorum, yazayım diyorum, ama sonra yine vazgeçiyorum. Su sınavlar bir bitsin hele, çok güzel olacak. Şimdilik böyle malesef ...

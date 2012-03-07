@@ -1,0 +1,16 @@
+---
+date: '2006-08-24 02:12:00'
+layout: post
+slug: ilk-yazi
+status: publish
+title: İlk yazı …
+wordpress_id: '36'
+categories:
+- Blog
+- Hayat-Yaşam
+tags:
+- Blog
+- ilk yazı
+---
+
+Şimdi illa bir şeyler yazmak lazım. Yoksa bomboş duracak. Bu benim 3 blog denemem. Bundan önce 3 kere yazıp, karalamıştım. Her türlü konu hakkında da yazıyordum. Gayet güzel, kendim için hazırladığım bir siteydi. Sonra aldığım paketin süresi bitince bende iptal ettirdim. Tabi eski blogdan kalan veritabanını yedek almıştım, ama malesef onu entegre edemedim. Bir sürü hata oluştu, yazılar,harfler,sayılar hepsi birbirine girdi. Ben de en iyisi yeni bir sayfa açıp, herşeyi yeniden yazmak daha iyi olur diye düşündüm. Temayı yedeklemiştim. Bu temayı sevdiğim için aynen devam bununla. Değiştirmeyi de düşünmüyorum. Hayır, düşünmüyorum :) Neyse efendim, ilk yazımız hayırlı olsun ... 

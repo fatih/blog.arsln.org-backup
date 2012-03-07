@@ -1,0 +1,14 @@
+---
+date: '2007-08-14 00:15:16'
+layout: post
+slug: biraz-ara-2
+status: publish
+title: 'Biraz ara '
+wordpress_id: '300'
+categories:
+- Hayat-Yaşam
+---
+
+3-4 haftalığına yokum, buralarda olmayacağım. Geldikten sonra eskisi gibi aynen devam. Sorusu olanlar [hakkimda](http://blog.arsln.org/hakkimda/) sayfasındaki iletişim bilgilerinden bana ulaşabilirler. 
+
+Kendinize iyi bakın ve sağlıcakla kalın. 
