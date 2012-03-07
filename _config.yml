@@ -6,7 +6,7 @@ email: "blog@arsln.org"
 description: "Yekpare zamanın parçalanmaz anıları..."
 
 auto: true
-paginate: 5
+paginate: 4
 paginate_files:
  - index.html
 
