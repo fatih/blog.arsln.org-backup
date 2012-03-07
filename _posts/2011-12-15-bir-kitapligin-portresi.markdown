@@ -26,19 +26,13 @@ Ben hâlâ bu şekilde düşünüyorum.
 
 Fakat **New Yorker**'deki yazı, tam tersi bir bakış açısına yer vermiş. [James Wood](http://en.wikipedia.org/wiki/James_Wood_(critic)), kayınbabasının kitaplıklarını bir yere taşıyamayacağını anladığında satmaya karar verir. Fakat bir yandan kitaplara da göz atıyor, kayınbabası ile ilişkilendirmeye ve **kitaplar üzerinden onun portresini çıkartmaya çalışıyor**. Fakat bunda başarılı olamıyor. Kitapları araştırdıkça çizmek istediği resmin (mecâzı anlamda) aslında kayınbabası ile hiç ilgisi olmadığı ortaya çıkıyor. Bununla ilgili kısmı tekrar dergiden çıkartıp yazdım:
 
+> "We had a couple of breaks. An online bookseller, who deals in rare books and first editions, came and picked through what interested him, and filled his old Volvo with boxes. A few days late, an English bibliophile, who teaches philosophy at Queen's University, did the same. I enjoyed their obvious excitement, my enjoyment tempered by the sensation that the library was suffering death by a thousand cuts
 
+> For in any private library the totality of books is meaningful, while each individual volume is relatively meaningless. Or, rather, once separated from its family, each individual book becomes relatively meaningless in relation to the original collector, but suddenly newly meaningful as the totality of the author's mind..
 
+> **.. In this strange way, our libraries are like certain paintings that, as you get closer to the canvas, become separate and unreadable blobs and daubs of paint.**
 
-
-> _"We had a couple of breaks. An online bookseller, who deals in rare books and first editions, came and picked through what interested him, and filled his old Volvo with boxes. A few days late, an English bibliophile, who teaches philosophy at Queen's University, did the same. I enjoyed their obvious excitement, my enjoyment tempered by the sensation that the library was suffering death by a thousand cuts
-
-For in any private library the totality of books is meaningful, while each individual volume is relatively meaningless. Or, rather, once separated from its family, each individual book becomes relatively meaningless in relation to the original collector, but suddenly newly meaningful as the totality of the author's mind..
-
-**.. In this strange way, our libraries are like certain paintings that, as you get closer to the canvas, become separate and unreadable blobs and daubs of paint.**
-
-And in this way, I began to thinks, our libraries perhaps say nothings very particular about us at all. Each brick in the wall of a library is a borrowed brick"_
-
-
+> And in this way, I began to thinks, our libraries perhaps say nothings very particular about us at all. Each brick in the wall of a library is a borrowed brick"
 
 
 
