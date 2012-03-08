@@ -3,14 +3,22 @@ layout: page
 title: Hakkımda
 ---
 
-Merhaba,
+<img src="/images/ftharsln.png" align="left" style="margin-right:30px; margin-top:7px;"> Merhaba, adım Fatih.  Hacettepe Elektrik-Elektronik Müh. mezunuyum. 2005 yılından beri Linux ve Açık kaynak dünyası ile ilgileniyorum. Ağustos 2010 tarihinden itibaren Türkiye'nin en büyük açık kaynak projelerinden biri olan [Pardus'ta](http://www.pardus.org.tr/) çalışmaya başladım.
 
-<img src="/images/ftharsln.png" align="left" style="margin-right:30px; margin-top:7px;"> Kısaca bahsetmek gerekirse Linux'u severek kullanıyorum. Gündemi takip etmek, bir şeyler öğrenmek, okumak, araştırmak her zaman birinci sırada geliyor.  Teknoloji'yi severim, ama onsuz bir hayat olsa daha iyi olur düşüncesindeyim. Anime sever(_Miyazaki,FMA,Naruto,..._), Bilimkurgu dizilerine bayılırım(_Stargate, BsG, StarTrek...._), Kore Filmlerini(_My Sassy Girl, Infernal Affairs, A Moment To Remember,..._) Hollywood filmlerine tercih ederim.
+Pardus projesinde giriş aygıtları (dokunmatik ekran, fare, klavye, vs.) ve ekran kartı sürücü altyapısı ile ilgileniyorum (X.org bileşeni). Otomatik ekran kartı sürücülerinin yapılandırılabilmesi için C++ ve QT ile [Panda](http://svn.pardus.org.tr/uludag/trunk/panda/) ve [Panda-kde](http://svn.pardus.org.tr/uludag/trunk/kde/panda-kde/) aracını yazdım. 300' yakın uygulamanın paket bakımını üstleniyorum. Ayrıca zaman zaman çeşitli iyileştirmeler ve yeni özellikler ekliyorum. Bunların bir kısmı şu şekilde:
 
-Bunların dışında ciddi bir kitap severim, kitaplıkları severim, kendimce güzel bir kütüphane oluşturmaya çalışırım. Defterleri çok severim. Türlü türlü defterlerim vardır ve aklıma estikçe yazarım. Blog'a yazmadığım zaman [Moleskine](http://blog.arsln.org/moleskine-her-moleskinenin-anlatacak-bir-hikayesi-vardir/)'ye yazmayı çok severim. Fotoğrafları çekmeyi de severim, [çekerim](http://www.flickr.com/photos/ftharsln), bunları Flickr'de [görebilirsiniz](http://www.flickr.com/photos/ftharsln).
+* [kcmkeyboard](http://svn.pardus.org.tr/uludag/trunk/playground/fatih.arslan/kauth_kcmkeyboard/): KAuth kullanarak sistem klavye ayarlarını değiştiren bir yama
+* [kcmlocale](http://svn.pardus.org.tr/uludag/trunk/playground/fatih.arslan/kcmlocale/): KAuth kullanarak sistem yerelini değiştiren iyileştirme bütünü
+* [randr_info](http://svn.pardus.org.tr/uludag/trunk/playground/fatih.arslan/randr_info/): Basit bir glxinfo bilgi alma aracı
+* [xdg-browser](http://svn.pardus.org.tr/uludag/trunk/playground/fatih.arslan/xdg-browser/): Tarayıcı belirlenen ön tanımlı masaüstü yöntemleri ile açan bir betik
+* [texlive_scripts](http://svn.pardus.org.tr/uludag/trunk/scripts/tex/): Tex paketlerini bakımını kolaylaştıran yardımcı betikler
+* [pisi.vim](https://github.com/farslan/pisi-vim): Vim ile pisi paket yapımını hızlandıran ve kolaylıklar sunan bir eklenti
+* [checkelf](http://svn.pardus.org.tr/uludag/trunk/scripts/checkelf): Pisi paketlerinde çalışma bağımlılıklarını gösteren bir betik
 
-Hacettepe Elektrik-Elektronik Müh. mezunuyum. Ağustos 2010 tarihinden beri de Türkiye'nin en büyük açık kaynak projelerinden biri olan [Pardus'ta](http://www.pardus.org.tr/) işe başladım. Güzel ve zeki insanlarla, güzel projelere imza atıyoruz :)
+Paket bakımı sırasında GCC, Make, Autotools gibi inşa sistemleri ile de yakından ilgileniyorum ve gerektiğinde müdahele edip yamalar hazırlıyorum. İşlerimi Vim, Tmux, Mutt, Zsh, Grep, Sed,vs. gibi araçlarla yapmayı da seviyorum :) 
 
-Blog'da her türlü yazılar bulabilirsiniz, fakat çoğunlukla açık kaynak, web dünyası ve bilişim hakkındaki izlenimlerim yer alıyor. Soldaki [arşiv](http://blog.arsln.org/arsiv/) kısmından ise daha önce yazdığım tüm yazılarıma bakabilirsiniz.
+Gündemi takip etmek, bir şeyler öğrenmek, okumak, araştırmak her zaman birinci sırada geliyor. Kitap ve edebiyat dergilerini severek okuyorum. Kendimce kişisel bir kütüphane oluşturma çabasındayım. Türlü türlü defterlerim vardır ve elimden geldiğince yazmaya çalışırım. Bunun dışında Kahve seviyorum ve elimden geldiğince tüm püf noktalarını öğrenmeye çalışıyorum (yapılışı, çekirdekler, yöntemler,vs..).
+
+Bu sitede çoğunlukla yukarıda yazdığım ilgil alanlarımla ilgili yazılar ve makaleler bulabilirsiniz. Soldaki [arşiv](http://blog.arsln.org/archives/) kısmından ise daha önce yazdığım tüm yazılarıma bakabilirsiniz. İletişime geçmek için sol taraftaki **Gmail** bağlantısına tıklayabilirsiniz.
 
 Sağlıcakla kalın Fatih Arslan
