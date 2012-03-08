@@ -4,13 +4,13 @@ layout: post
 slug: internal-server-error-ve-wp-212-turkce
 status: publish
 title: Internal Server Error ve Wp 2.1.2 Türkçe
-wordpress_id: '188'
+wordpressid: '188'
 categories:
 - Blog
 tags:
 - dreamhost
 - hata
-- wordpress türkçe
+- wordpressid türkçe
 - wp 2.1.2
 ---
 

@@ -4,7 +4,7 @@ layout: post
 slug: zimbabve-internetden-kopuk-yasiyor
 status: publish
 title: Zimbabve Internet’den kopuk yaşıyor
-wordpress_id: '54'
+wordpressid: '54'
 categories:
 - Bilişim
 - Hayat-Yaşam

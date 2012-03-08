@@ -4,7 +4,7 @@ layout: post
 slug: neden-wine-64bit-paketi-pardus-2011-depolarinda-yok
 status: publish
 title: Neden Wine 64bit paketi Pardus 2011 depolarında yok ?
-wordpress_id: '969'
+wordpressid: '969'
 categories:
 - Gezegen
 - Linux

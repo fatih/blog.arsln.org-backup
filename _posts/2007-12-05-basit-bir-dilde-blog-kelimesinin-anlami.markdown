@@ -4,7 +4,7 @@ layout: post
 slug: basit-bir-dilde-blog-kelimesinin-anlami
 status: publish
 title: Basit bir dilde "Blog" kelimesinin anlamı
-wordpress_id: '365'
+wordpressid: '365'
 categories:
 - Bilişim
 ---

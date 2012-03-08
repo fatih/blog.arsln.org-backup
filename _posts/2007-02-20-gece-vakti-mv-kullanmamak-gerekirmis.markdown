@@ -4,7 +4,7 @@ layout: post
 slug: gece-vakti-mv-kullanmamak-gerekirmis
 status: publish
 title: Gece vakti mv kullanmamak gerekirmiş...
-wordpress_id: '179'
+wordpressid: '179'
 categories:
 - Hayat-Yaşam
 - Linux

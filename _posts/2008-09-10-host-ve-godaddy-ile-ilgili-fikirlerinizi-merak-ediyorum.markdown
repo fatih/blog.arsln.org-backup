@@ -4,7 +4,7 @@ layout: post
 slug: host-ve-godaddy-ile-ilgili-fikirlerinizi-merak-ediyorum
 status: publish
 title: Host ve Godaddy ile ilgili fikirlerinizi merak ediyorum
-wordpress_id: '471'
+wordpressid: '471'
 categories:
 - Gezegen
 - Hayat-Yaşam

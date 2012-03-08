@@ -4,7 +4,7 @@ layout: post
 slug: kamera-tavsiyesi-fujitsu-finepix-f31d-ve-yeni-bir-mim
 status: publish
 title: Kamera tavsiyesi (Fujitsu Finepix F31d) ve yeni bir mim
-wordpress_id: '294'
+wordpressid: '294'
 categories:
 - Bilişim
 - Hayat-Yaşam

@@ -4,7 +4,7 @@ layout: post
 slug: lubnana-asker-gonderilmesi
 status: publish
 title: Lübnan’a asker gönderilmesi
-wordpress_id: '45'
+wordpressid: '45'
 categories:
 - Hayat-Yaşam
 tags:

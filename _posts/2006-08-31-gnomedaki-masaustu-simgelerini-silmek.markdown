@@ -4,7 +4,7 @@ layout: post
 slug: gnomedaki-masaustu-simgelerini-silmek
 status: publish
 title: Gnome’daki masaüstü simgelerini silmek
-wordpress_id: '40'
+wordpressid: '40'
 categories:
 - Linux
 tags:

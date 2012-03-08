@@ -4,7 +4,7 @@ layout: post
 slug: ne-diyeceginizi-bilemez-olabilirsiniz
 status: publish
 title: Ne diyeceğinizi bilemez olabilirsiniz
-wordpress_id: '53'
+wordpressid: '53'
 categories:
 - Hayat-Yaşam
 tags:

@@ -4,7 +4,7 @@ layout: post
 slug: symbian-yuklu-telefonlarda-altyazili-film-divx-xvid-izlemek
 status: publish
 title: Symbian yüklü telefonlarda altyazili film(divx,xvid) izlemek
-wordpress_id: '257'
+wordpressid: '257'
 categories:
 - Bilişim
 - Gezegen

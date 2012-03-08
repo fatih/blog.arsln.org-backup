@@ -4,7 +4,7 @@ layout: post
 slug: linux-altinda-windows-uygulamalarini-calistirmak
 status: publish
 title: 'Linux altında Windows uygulamalarını çalıştırmak '
-wordpress_id: '170'
+wordpressid: '170'
 categories:
 - Bilişim
 - Linux

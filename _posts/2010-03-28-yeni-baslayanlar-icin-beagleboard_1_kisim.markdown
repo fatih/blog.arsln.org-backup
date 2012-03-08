@@ -4,7 +4,7 @@ layout: post
 slug: yeni-baslayanlar-icin-beagleboard_1_kisim
 status: publish
 title: Yeni başlayanlar için BeagleBoard (1. Kısım)
-wordpress_id: '662'
+wordpressid: '662'
 categories:
 - Bilişim
 - Gezegen

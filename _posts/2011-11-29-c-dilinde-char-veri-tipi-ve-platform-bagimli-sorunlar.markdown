@@ -4,7 +4,7 @@ layout: post
 slug: c-dilinde-char-veri-tipi-ve-platform-bagimli-sorunlar
 status: publish
 title: 'C dilinde "char" veri tipi ve platform bağımlı sorunlar '
-wordpress_id: '1061'
+wordpressid: '1061'
 categories:
 - Gezegen
 - Linux

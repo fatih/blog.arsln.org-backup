@@ -4,7 +4,7 @@ layout: post
 slug: cemil-mericten-bu-ulke
 status: publish
 title: Cemil Meriç'ten Bu Ülke
-wordpress_id: '396'
+wordpressid: '396'
 categories:
 - Hayat-Yaşam
 - Sanat

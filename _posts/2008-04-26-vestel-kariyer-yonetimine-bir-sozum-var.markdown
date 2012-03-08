@@ -4,7 +4,7 @@ layout: post
 slug: vestel-kariyer-yonetimine-bir-sozum-var
 status: publish
 title: Vestel Kariyer yönetimine bir sözüm var
-wordpress_id: '420'
+wordpressid: '420'
 categories:
 - Bilişim
 - Hayat-Yaşam

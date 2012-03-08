@@ -4,7 +4,7 @@ layout: post
 slug: c-ile-en-buyuk-ve-en-kucuk-sayilari-bulma
 status: publish
 title: C ile en büyük ve en küçük sayıları bulma
-wordpress_id: '210'
+wordpressid: '210'
 categories:
 - Programlama
 tags:

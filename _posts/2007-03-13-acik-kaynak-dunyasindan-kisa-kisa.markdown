@@ -4,7 +4,7 @@ layout: post
 slug: acik-kaynak-dunyasindan-kisa-kisa
 status: publish
 title: Açık kaynak dünyasından kısa kısa
-wordpress_id: '197'
+wordpressid: '197'
 categories:
 - Gezegen
 - Linux

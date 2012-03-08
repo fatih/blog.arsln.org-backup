@@ -4,7 +4,7 @@ layout: post
 slug: tarihi-sevdiren-adam-ilber-ortayli
 status: publish
 title: 'Tarihi sevdiren adam: İlber Ortaylı'
-wordpress_id: '333'
+wordpressid: '333'
 categories:
 - Hayat-Yaşam
 tags:

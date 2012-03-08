@@ -4,7 +4,7 @@ layout: post
 slug: amazon-com-dan-nasil-kitap-alinir
 status: publish
 title: Amazon.com'dan nasıl kitap alınır?
-wordpress_id: '435'
+wordpressid: '435'
 categories:
 - Bilişim
 - Gezegen

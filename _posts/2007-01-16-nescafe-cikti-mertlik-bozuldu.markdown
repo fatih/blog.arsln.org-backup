@@ -4,7 +4,7 @@ layout: post
 slug: nescafe-cikti-mertlik-bozuldu
 status: publish
 title: Nescafe çıktı, mertlik bozuldu
-wordpress_id: '136'
+wordpressid: '136'
 categories:
 - Hayat-Yaşam
 - Sanat

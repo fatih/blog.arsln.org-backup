@@ -4,7 +4,7 @@ layout: post
 slug: pidginin-yeni-anasayfasi
 status: publish
 title: Pidgin'in yeni anasayfası
-wordpress_id: '242'
+wordpressid: '242'
 categories:
 - Gezegen
 - Linux

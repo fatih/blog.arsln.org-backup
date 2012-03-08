@@ -4,7 +4,7 @@ layout: post
 slug: orada-yabanci-burada-almanci
 status: publish
 title: Orada yabancı burada almancı
-wordpress_id: '49'
+wordpressid: '49'
 categories:
 - Hayat-Yaşam
 tags:

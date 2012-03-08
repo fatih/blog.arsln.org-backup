@@ -4,7 +4,7 @@ layout: post
 slug: google-bellegi-ile-saklambac-oyunu
 status: publish
 title: Google belleği ile saklambaç oyunu
-wordpress_id: '51'
+wordpressid: '51'
 categories:
 - Bilişim
 - Blog

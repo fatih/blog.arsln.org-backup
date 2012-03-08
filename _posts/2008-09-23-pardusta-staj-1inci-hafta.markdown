@@ -4,7 +4,7 @@ layout: post
 slug: pardusta-staj-1inci-hafta
 status: publish
 title: 'Pardus’ta staj - 1′inci hafta '
-wordpress_id: '491'
+wordpressid: '491'
 categories:
 - Gezegen
 - Hayat-Yaşam

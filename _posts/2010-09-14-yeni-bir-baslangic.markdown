@@ -4,7 +4,7 @@ layout: post
 slug: yeni-bir-baslangic
 status: publish
 title: Yeni bir başlangıç
-wordpress_id: '711'
+wordpressid: '711'
 categories:
 - Hayat-Yaşam
 ---

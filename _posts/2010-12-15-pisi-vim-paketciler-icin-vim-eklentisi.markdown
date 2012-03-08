@@ -4,7 +4,7 @@ layout: post
 slug: pisi-vim-paketciler-icin-vim-eklentisi
 status: publish
 title: Pisi.vim - Paketciler icin Vim eklentisi
-wordpress_id: '845'
+wordpressid: '845'
 categories:
 - Gezegen
 - Linux

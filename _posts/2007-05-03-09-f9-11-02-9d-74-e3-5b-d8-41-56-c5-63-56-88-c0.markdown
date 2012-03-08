@@ -4,7 +4,7 @@ layout: post
 slug: 09-f9-11-02-9d-74-e3-5b-d8-41-56-c5-63-56-88-c0
 status: publish
 title: 09-f9-11-02-9d-74-e3-5b-d8-41-56-c5-63-56-88-c0
-wordpress_id: '232'
+wordpressid: '232'
 categories:
 - Bilişim
 - Linux

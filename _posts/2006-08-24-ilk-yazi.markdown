@@ -4,7 +4,7 @@ layout: post
 slug: ilk-yazi
 status: publish
 title: İlk yazı …
-wordpress_id: '36'
+wordpressid: '36'
 categories:
 - Blog
 - Hayat-Yaşam

@@ -4,7 +4,7 @@ layout: post
 slug: bardagin-yarisi-bos-mu-yoksu-dolu-mu
 status: publish
 title: Bardağın yarısı boş mu yoksu dolu mu?
-wordpress_id: '537'
+wordpressid: '537'
 categories:
 - Gezegen
 - Hayat-Yaşam

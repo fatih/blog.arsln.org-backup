@@ -4,7 +4,7 @@ layout: post
 slug: python-ogrenmek-icin-engel-kalmadi-artik
 status: publish
 title: 'Python öğrenmek için engel kalmadı artık '
-wordpress_id: '235'
+wordpressid: '235'
 categories:
 - Gezegen
 - Programlama

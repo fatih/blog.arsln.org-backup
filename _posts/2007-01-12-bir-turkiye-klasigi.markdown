@@ -4,7 +4,7 @@ layout: post
 slug: bir-turkiye-klasigi
 status: publish
 title: Bir türkiye klasiği
-wordpress_id: '112'
+wordpressid: '112'
 categories:
 - Hayat-Yaşam
 tags:

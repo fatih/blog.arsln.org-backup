@@ -4,7 +4,7 @@ layout: post
 slug: google-blogsearch-nasil-isliyor-ne-ise-yariyor
 status: publish
 title: Google Blogsearch nasıl işliyor, ne işe yarıyor ?
-wordpress_id: '225'
+wordpressid: '225'
 categories:
 - Blog
 - Gezegen

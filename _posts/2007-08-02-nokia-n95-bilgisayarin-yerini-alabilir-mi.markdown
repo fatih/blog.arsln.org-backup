@@ -4,7 +4,7 @@ layout: post
 slug: nokia-n95-bilgisayarin-yerini-alabilir-mi
 status: publish
 title: Nokia N95 bilgisayarın yerini alabilir mi ?
-wordpress_id: '292'
+wordpressid: '292'
 categories:
 - Bilişim
 - Gezegen

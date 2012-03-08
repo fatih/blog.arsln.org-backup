@@ -4,7 +4,7 @@ layout: post
 slug: x-org-bir-sunucu-mu-yoksa-istemci-midir
 status: publish
 title: 'X.org bir sunucu mu yoksa istemci midir ? '
-wordpress_id: '955'
+wordpressid: '955'
 categories:
 - Gezegen
 - Linux

@@ -4,7 +4,7 @@ layout: post
 slug: bir-kelimenin-turkce-olup-olmadigina-nasil-karar-verilir
 status: publish
 title: Bir kelimenin Türkçe olup olmadığına nasıl karar verilir ?
-wordpress_id: '175'
+wordpressid: '175'
 categories:
 - Bilişim
 tags:

@@ -4,7 +4,7 @@ layout: post
 slug: linux-senligindeki-python-semineri
 status: publish
 title: Linux şenliğindeki Python semineri
-wordpress_id: '233'
+wordpressid: '233'
 categories:
 - Gezegen
 - Programlama

@@ -4,7 +4,7 @@ layout: post
 slug: sarap-mucadelesi-nasil-verilir
 status: publish
 title: Sarap mücadelesi nasıl verilir ?
-wordpress_id: '131'
+wordpressid: '131'
 categories:
 - Hayat-Yaşam
 tags:

@@ -4,7 +4,7 @@ layout: post
 slug: mutlu-yillar-ve-mubarek-bayramlar
 status: publish
 title: Mutlu yıllar ve mübarek bayramlar
-wordpress_id: '97'
+wordpressid: '97'
 categories:
 - Hayat-Yaşam
 tags:

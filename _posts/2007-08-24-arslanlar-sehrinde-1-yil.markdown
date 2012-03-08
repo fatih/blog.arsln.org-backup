@@ -4,7 +4,7 @@ layout: post
 slug: arslanlar-sehrinde-1-yil
 status: publish
 title: 1 yılı geride bırakmışız
-wordpress_id: '299'
+wordpressid: '299'
 categories:
 - Bilişim
 - Hayat-Yaşam

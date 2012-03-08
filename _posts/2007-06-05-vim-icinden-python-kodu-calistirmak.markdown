@@ -4,7 +4,7 @@ layout: post
 slug: vim-icinden-python-kodu-calistirmak
 status: publish
 title: Vim içinden Python kodu çalıştırmak
-wordpress_id: '252'
+wordpressid: '252'
 categories:
 - Gezegen
 - Programlama

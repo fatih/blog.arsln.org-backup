@@ -4,7 +4,7 @@ layout: post
 slug: ekle-sil-faciasi-2
 status: publish
 title: Ekle-sil faciası (2)
-wordpress_id: '82'
+wordpressid: '82'
 categories:
 - Hayat-Yaşam
 tags:

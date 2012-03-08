@@ -4,7 +4,7 @@ layout: post
 slug: bebegim-oldu-sagopa-kajmer
 status: publish
 title: Bebeğim Öldü
-wordpress_id: '290'
+wordpressid: '290'
 categories:
 - Hayat-Yaşam
 - Sanat

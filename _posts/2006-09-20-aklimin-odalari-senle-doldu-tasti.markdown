@@ -4,7 +4,7 @@ layout: post
 slug: aklimin-odalari-senle-doldu-tasti
 status: publish
 title: Aklımın odaları senle doldu taştı
-wordpress_id: '52'
+wordpressid: '52'
 categories:
 - Sanat
 tags:

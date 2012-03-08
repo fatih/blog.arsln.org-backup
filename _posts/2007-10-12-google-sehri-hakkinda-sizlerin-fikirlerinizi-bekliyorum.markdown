@@ -4,7 +4,7 @@ layout: post
 slug: google-sehri-hakkinda-sizlerin-fikirlerinizi-bekliyorum
 status: publish
 title: Google Şehri hakkında sizlerin fikirlerinizi bekliyorum
-wordpress_id: '329'
+wordpressid: '329'
 categories:
 - Bilişim
 - Linux

@@ -4,7 +4,7 @@ layout: post
 slug: canon-powershot-g7-hakkinda-fotograflar-ve-bilgiler
 status: publish
 title: Canon PowerShot G7 hakkında fotoğraflar ve bilgiler
-wordpress_id: '308'
+wordpressid: '308'
 categories:
 - Bilişim
 - Hayat-Yaşam

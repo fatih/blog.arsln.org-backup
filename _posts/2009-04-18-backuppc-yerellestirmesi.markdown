@@ -4,7 +4,7 @@ layout: post
 slug: backuppc-yerellestirmesi
 status: publish
 title: BackupPc yerelleştirmesi
-wordpress_id: '632'
+wordpressid: '632'
 categories:
 - Bilişim
 - Gezegen

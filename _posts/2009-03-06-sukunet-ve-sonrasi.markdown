@@ -4,7 +4,7 @@ layout: post
 slug: sukunet-ve-sonrasi
 status: publish
 title: Sükunet ve sonrası
-wordpress_id: '597'
+wordpressid: '597'
 categories:
 - Hayat-Yaşam
 ---

@@ -4,7 +4,7 @@ layout: post
 slug: apple-iphonedaki-eksiklikler
 status: publish
 title: 'Apple iPhone''daki eksiklikler '
-wordpress_id: '171'
+wordpressid: '171'
 categories:
 - Bilişim
 tags:

@@ -4,7 +4,7 @@ layout: post
 slug: yine-yeni-yeniden-arch
 status: publish
 title: Yine, yeni, yeniden Arch
-wordpress_id: '84'
+wordpressid: '84'
 categories:
 - Linux
 tags:

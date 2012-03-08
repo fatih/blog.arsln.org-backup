@@ -4,7 +4,7 @@ layout: post
 slug: gulsem-mi-aglasam-mi
 status: publish
 title: Gülsem mi ağlasam mı ?
-wordpress_id: '354'
+wordpressid: '354'
 categories:
 - Gezegen
 - Hayat-Yaşam

@@ -4,7 +4,7 @@ layout: post
 slug: pardusta-backuppc-kurulumu-1
 status: publish
 title: Pardus'ta BackupPc kurulumu - 1
-wordpress_id: '619'
+wordpressid: '619'
 categories:
 - Bilişim
 - Gezegen

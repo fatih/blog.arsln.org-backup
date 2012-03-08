@@ -4,7 +4,7 @@ layout: post
 slug: windows-kullanirken-kendini-kafeste-hissetmek
 status: publish
 title: Windows kullanırken kendini kafeste hissetmek
-wordpress_id: '260'
+wordpressid: '260'
 categories:
 - Gezegen
 - Hayat-Yaşam

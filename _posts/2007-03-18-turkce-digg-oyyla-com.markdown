@@ -4,7 +4,7 @@ layout: post
 slug: turkce-digg-oyyla-com
 status: publish
 title: Türkçe digg - Oyyla.com
-wordpress_id: '201'
+wordpressid: '201'
 categories:
 - Bilişim
 - Gezegen

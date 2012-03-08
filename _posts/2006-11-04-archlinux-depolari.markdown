@@ -4,7 +4,7 @@ layout: post
 slug: archlinux-depolari
 status: publish
 title: Archlinux depoları
-wordpress_id: '83'
+wordpressid: '83'
 categories:
 - Linux
 tags:

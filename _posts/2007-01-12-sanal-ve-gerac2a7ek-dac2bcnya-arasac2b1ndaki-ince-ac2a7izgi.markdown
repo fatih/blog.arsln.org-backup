@@ -4,7 +4,7 @@ layout: post
 slug: sanal-ve-gera%c2%a7ek-da%c2%bcnya-arasa%c2%b1ndaki-ince-a%c2%a7izgi
 status: publish
 title: Sanal ve gerçek dünya arasındaki ince çizgi
-wordpress_id: '108'
+wordpressid: '108'
 categories:
 - Blog
 - Hayat-Yaşam

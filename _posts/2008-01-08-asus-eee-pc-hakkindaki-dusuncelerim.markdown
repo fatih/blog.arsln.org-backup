@@ -4,7 +4,7 @@ layout: post
 slug: asus-eee-pc-hakkindaki-dusuncelerim
 status: publish
 title: Asus EEE Pc hakkındaki düşüncelerim
-wordpress_id: '376'
+wordpressid: '376'
 categories:
 - Bilişim
 - Gezegen

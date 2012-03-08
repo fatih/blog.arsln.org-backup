@@ -4,7 +4,7 @@ layout: post
 slug: 30-dolarlik-kamera-ile-neler-yapilabilir
 status: publish
 title: '30 dolarlık kamera ile neler yapılabilir? '
-wordpress_id: '528'
+wordpressid: '528'
 categories:
 - Bilişim
 - Gezegen

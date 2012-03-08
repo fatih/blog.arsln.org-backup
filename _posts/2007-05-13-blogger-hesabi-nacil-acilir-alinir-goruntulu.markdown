@@ -4,7 +4,7 @@ layout: post
 slug: blogger-hesabi-nacil-acilir-alinir-goruntulu
 status: publish
 title: Blogger hesabı nacıl açılır, alınır ? (Görüntülü)
-wordpress_id: '238'
+wordpressid: '238'
 categories:
 - Bilişim
 tags:

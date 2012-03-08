@@ -4,7 +4,7 @@ layout: post
 slug: bir-kisa-film-jattendrai-le-suivant
 status: publish
 title: 'Bir kısa film: J''attendrai le suivant'
-wordpress_id: '246'
+wordpressid: '246'
 categories:
 - Gezegen
 - Sanat

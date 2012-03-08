@@ -4,7 +4,7 @@ layout: post
 slug: archlinux-logo-yarismasi
 status: publish
 title: Archlinux Logo Yarışması
-wordpress_id: '347'
+wordpressid: '347'
 categories:
 - Gezegen
 - Linux

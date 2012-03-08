@@ -4,7 +4,7 @@ layout: post
 slug: fatih-arslan-ne-zaman-oldu
 status: publish
 title: Fatih Arslan ne zaman öldü ?
-wordpress_id: '367'
+wordpressid: '367'
 categories:
 - Hayat-Yaşam
 ---

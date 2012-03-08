@@ -4,7 +4,7 @@ layout: post
 slug: vimde-goreceli-numaralar-relative-numbers
 status: publish
 title: Vim'de göreceli numaralar (relative numbers)
-wordpress_id: '738'
+wordpressid: '738'
 categories:
 - Gezegen
 - Programlama

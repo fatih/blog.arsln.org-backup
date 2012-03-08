@@ -4,7 +4,7 @@ layout: post
 slug: hayirli-bayramlar
 status: publish
 title: Hayırlı bayramlar
-wordpress_id: '74'
+wordpressid: '74'
 categories:
 - Hayat-Yaşam
 tags:

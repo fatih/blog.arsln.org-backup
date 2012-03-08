@@ -4,7 +4,7 @@ layout: post
 slug: almanyada-yasam-luks-hayat2
 status: publish
 title: Almanya'da yaşam - Lüks Hayat(2)
-wordpress_id: '305'
+wordpressid: '305'
 categories:
 - Hayat-Yaşam
 ---

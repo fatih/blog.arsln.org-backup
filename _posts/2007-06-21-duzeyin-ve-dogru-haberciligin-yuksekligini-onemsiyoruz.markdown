@@ -4,7 +4,7 @@ layout: post
 slug: duzeyin-ve-dogru-haberciligin-yuksekligini-onemsiyoruz
 status: publish
 title: Düzeyin ve doğru haberciliğin yüksekliğini önemsiyoruz
-wordpress_id: '262'
+wordpressid: '262'
 categories:
 - Hayat-Yaşam
 ---

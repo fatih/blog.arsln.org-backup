@@ -4,7 +4,7 @@ layout: post
 slug: hadi-hayirli-olsun
 status: publish
 title: 'Hadi hayırlı olsun '
-wordpress_id: '96'
+wordpressid: '96'
 categories:
 - Blog
 - Hayat-Yaşam

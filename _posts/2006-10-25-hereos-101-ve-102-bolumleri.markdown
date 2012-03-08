@@ -4,7 +4,7 @@ layout: post
 slug: hereos-101-ve-102-bolumleri
 status: publish
 title: Hereos 1×01 ve 1×02 bölümleri
-wordpress_id: '77'
+wordpressid: '77'
 categories:
 - Sanat
 tags:

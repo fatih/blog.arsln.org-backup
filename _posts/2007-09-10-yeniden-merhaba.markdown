@@ -4,7 +4,7 @@ layout: post
 slug: yeniden-merhaba
 status: publish
 title: Yeniden Merhaba
-wordpress_id: '312'
+wordpressid: '312'
 categories:
 - Hayat-Yaşam
 ---

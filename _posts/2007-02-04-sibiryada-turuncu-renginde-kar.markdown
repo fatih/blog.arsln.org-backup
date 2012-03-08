@@ -4,7 +4,7 @@ layout: post
 slug: sibiryada-turuncu-renginde-kar
 status: publish
 title: Sibirya'da turuncu renginde Kar
-wordpress_id: '164'
+wordpressid: '164'
 categories:
 - Hayat-Yaşam
 - Sanat

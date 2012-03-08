@@ -4,7 +4,7 @@ layout: post
 slug: nasil-bir-blog-yazariyim-mim
 status: publish
 title: Nasıl bir Blog yazarıyım ? (Mim)
-wordpress_id: '366'
+wordpressid: '366'
 categories:
 - Blog
 tags:
@@ -35,4 +35,4 @@ Bekleyiş kime göre neye göre? Reklamları da kaldırdığım için bu konuda 
 Bilmiyorum, bundan önce 3 kez blog girişimim olmuştu. Fakat Arslanlar Şehri bunların arasında en oturaklı olanı(domain ve host kendi üzerime olduğundan). O yüzden zamanım sürdüğü sürece devam edecem. Bunun dışında yazdığım Mürekkep.org da o şekilde devam ediyor. Fakat hatırlayanlar bilir, bir zamanlar Google Şehri adında bir blog açmıştım. Onu ise zamansızlık yüzünden kapatmıştım. 
 
 
-Evet cevaplar bu şekilde, ben de bu pası doğrudan [Heartsmagic](http://www.heartsmagic.net), [Tarık](http://tarikzengin.wordpress.com/) ve [Tutku](http://tutkudalmaz.org/gunluk/)'ya yolluyorum. 
+Evet cevaplar bu şekilde, ben de bu pası doğrudan [Heartsmagic](http://www.heartsmagic.net), [Tarık](http://tarikzengin.wordpressid.com/) ve [Tutku](http://tutkudalmaz.org/gunluk/)'ya yolluyorum. 

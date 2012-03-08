@@ -4,7 +4,7 @@ layout: post
 slug: bir-kore-filmi-keulraesik-the-classic
 status: publish
 title: Bir Kore Filmi - Keulraesik(The Classic)
-wordpress_id: '157'
+wordpressid: '157'
 categories:
 - Hayat-Yaşam
 - Sanat

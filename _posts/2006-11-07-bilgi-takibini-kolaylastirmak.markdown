@@ -4,7 +4,7 @@ layout: post
 slug: bilgi-takibini-kolaylastirmak
 status: publish
 title: Bilgi takibini kolaylaştırmak
-wordpress_id: '85'
+wordpressid: '85'
 categories:
 - Linux
 tags:

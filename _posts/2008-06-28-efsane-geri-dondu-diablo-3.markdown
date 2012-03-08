@@ -4,7 +4,7 @@ layout: post
 slug: efsane-geri-dondu-diablo-3
 status: publish
 title: 'Efsane geri döndü: Diablo 3'
-wordpress_id: '444'
+wordpressid: '444'
 categories:
 - Gezegen
 - Hayat-Yaşam

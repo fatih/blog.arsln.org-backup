@@ -4,7 +4,7 @@ layout: post
 slug: bir-anime-dizisi-naruto-shippuuden
 status: publish
 title: 'Bir Anime dizisi: Naruto Shippuuden'
-wordpress_id: '271'
+wordpressid: '271'
 categories:
 - Hayat-Yaşam
 - Sanat

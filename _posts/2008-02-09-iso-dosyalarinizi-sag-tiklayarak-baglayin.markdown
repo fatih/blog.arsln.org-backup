@@ -4,7 +4,7 @@ layout: post
 slug: iso-dosyalarinizi-sag-tiklayarak-baglayin
 status: publish
 title: Iso dosyalarınızı sağ tıklayarak bağlayın
-wordpress_id: '386'
+wordpressid: '386'
 categories:
 - Gezegen
 - Linux

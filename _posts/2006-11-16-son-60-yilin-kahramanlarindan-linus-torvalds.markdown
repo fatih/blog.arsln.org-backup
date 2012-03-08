@@ -4,7 +4,7 @@ layout: post
 slug: son-60-yilin-kahramanlarindan-linus-torvalds
 status: publish
 title: Son 60 yılın kahramanlarından - Linus Torvalds
-wordpress_id: '88'
+wordpressid: '88'
 categories:
 - Linux
 tags:

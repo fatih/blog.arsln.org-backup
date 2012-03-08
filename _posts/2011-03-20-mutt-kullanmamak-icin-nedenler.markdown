@@ -4,7 +4,7 @@ layout: post
 slug: mutt-kullanmamak-icin-nedenler
 status: publish
 title: Mutt kullanma(ma)k için nedenler
-wordpress_id: '933'
+wordpressid: '933'
 categories:
 - Gezegen
 - Linux

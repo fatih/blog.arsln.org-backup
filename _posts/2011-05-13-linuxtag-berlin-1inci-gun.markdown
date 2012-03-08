@@ -4,7 +4,7 @@ layout: post
 slug: linuxtag-berlin-1inci-gun
 status: publish
 title: LinuxTag Berlin - 1'inci Gün
-wordpress_id: '990'
+wordpressid: '990'
 categories:
 - Gezegen
 - Linux

@@ -4,7 +4,7 @@ layout: post
 slug: google-desktop-linux-vs-beagle
 status: publish
 title: Google Desktop Linux vs. Beagle
-wordpress_id: '268'
+wordpressid: '268'
 categories:
 - Gezegen
 - Linux

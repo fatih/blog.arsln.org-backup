@@ -4,7 +4,7 @@ layout: post
 slug: aska-ayip-oluyor
 status: publish
 title: Aşka ayıp oluyor
-wordpress_id: '72'
+wordpressid: '72'
 categories:
 - Sanat
 tags:

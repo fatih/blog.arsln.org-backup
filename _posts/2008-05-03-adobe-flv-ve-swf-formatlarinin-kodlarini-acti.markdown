@@ -4,7 +4,7 @@ layout: post
 slug: adobe-flv-ve-swf-formatlarinin-kodlarini-acti
 status: publish
 title: 'Adobe FLV ve SWF formatlarının kodlarını açtı '
-wordpress_id: '421'
+wordpressid: '421'
 categories:
 - Bilişim
 - Gezegen

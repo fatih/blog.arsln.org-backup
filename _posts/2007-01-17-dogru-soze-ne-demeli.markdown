@@ -4,7 +4,7 @@ layout: post
 slug: dogru-soze-ne-demeli
 status: publish
 title: Doğru söze ne demeli
-wordpress_id: '137'
+wordpressid: '137'
 categories:
 - Hayat-Yaşam
 - Linux

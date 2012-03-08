@@ -4,7 +4,7 @@ layout: post
 slug: bulutlarda-sanat
 status: publish
 title: Bulutlarda sanat
-wordpress_id: '46'
+wordpressid: '46'
 categories:
 - Sanat
 tags:

@@ -4,7 +4,7 @@ layout: post
 slug: son-zamanlarda-yasananlar
 status: publish
 title: Son zamanlarda yaşananlar
-wordpress_id: '382'
+wordpressid: '382'
 categories:
 - Bilişim
 - Gezegen

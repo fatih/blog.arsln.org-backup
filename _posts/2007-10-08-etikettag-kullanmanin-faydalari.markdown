@@ -4,7 +4,7 @@ layout: post
 slug: etikettag-kullanmanin-faydalari
 status: publish
 title: Etiket(tag) kullanmanın faydaları
-wordpress_id: '327'
+wordpressid: '327'
 categories:
 - Bilişim
 - Gezegen

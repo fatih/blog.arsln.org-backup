@@ -4,7 +4,7 @@ layout: post
 slug: video-dosyalarini-sag-tiklama-ile-tvde-acmak
 status: publish
 title: Video Dosyalarını Sağ Tıklama Ile Tv’de Açmak
-wordpress_id: '92'
+wordpressid: '92'
 categories:
 - Linux
 tags:

@@ -4,7 +4,7 @@ layout: post
 slug: tomboy-notlarinizi-baska-bir-sunucu-ile-senkronize-edin
 status: publish
 title: Tomboy notlarınızı başka bir sunucu ile senkronize edin
-wordpress_id: '389'
+wordpressid: '389'
 categories:
 - Gezegen
 - Linux

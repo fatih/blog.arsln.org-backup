@@ -4,7 +4,7 @@ layout: post
 slug: sinerji-programi
 status: publish
 title: Sinerji programı
-wordpress_id: '468'
+wordpressid: '468'
 categories:
 - Gezegen
 - Linux

@@ -4,7 +4,7 @@ layout: post
 slug: blue-ray-kodlari-kirilmis
 status: publish
 title: Blue-ray kodları kırılmış
-wordpress_id: '144'
+wordpressid: '144'
 categories:
 - Bilişim
 tags:

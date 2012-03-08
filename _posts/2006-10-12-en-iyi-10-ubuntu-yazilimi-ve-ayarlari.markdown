@@ -4,7 +4,7 @@ layout: post
 slug: en-iyi-10-ubuntu-yazilimi-ve-ayarlari
 status: publish
 title: En iyi 10 ubuntu yazılımı ve ayarları
-wordpress_id: '70'
+wordpressid: '70'
 categories:
 - Linux
 tags:

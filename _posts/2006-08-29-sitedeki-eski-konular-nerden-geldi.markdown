@@ -4,7 +4,7 @@ layout: post
 slug: sitedeki-eski-konular-nerden-geldi
 status: publish
 title: Site’deki eski konular nerden geldi ?
-wordpress_id: '39'
+wordpressid: '39'
 categories:
 - Blog
 tags:

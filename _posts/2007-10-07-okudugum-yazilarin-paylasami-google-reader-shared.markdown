@@ -4,7 +4,7 @@ layout: post
 slug: okudugum-yazilarin-paylasami-google-reader-shared
 status: publish
 title: Okuduğum yazıların paylaşamı (Google Reader Shared)
-wordpress_id: '323'
+wordpressid: '323'
 categories:
 - Blog
 - Gezegen

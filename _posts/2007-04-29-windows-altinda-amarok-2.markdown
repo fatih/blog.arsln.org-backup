@@ -4,7 +4,7 @@ layout: post
 slug: windows-altinda-amarok-2
 status: publish
 title: Windows altında Amarok 2
-wordpress_id: '228'
+wordpressid: '228'
 categories:
 - Gezegen
 - Linux

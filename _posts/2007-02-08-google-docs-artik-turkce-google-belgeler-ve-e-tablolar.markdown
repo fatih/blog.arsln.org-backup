@@ -4,7 +4,7 @@ layout: post
 slug: google-docs-artik-turkce-google-belgeler-ve-e-tablolar
 status: publish
 title: Google Docs artık Türkçe (Google Belgeler ve E-Tablolar)
-wordpress_id: '169'
+wordpressid: '169'
 categories:
 - Bilişim
 tags:

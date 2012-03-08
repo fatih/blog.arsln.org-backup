@@ -4,7 +4,7 @@ layout: post
 slug: biraz-ara-2
 status: publish
 title: 'Biraz ara '
-wordpress_id: '300'
+wordpressid: '300'
 categories:
 - Hayat-Yaşam
 ---

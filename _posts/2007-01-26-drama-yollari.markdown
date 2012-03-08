@@ -4,7 +4,7 @@ layout: post
 slug: drama-yollari
 status: publish
 title: Drama Yolları
-wordpress_id: '154'
+wordpressid: '154'
 categories:
 - Hayat-Yaşam
 - Sanat

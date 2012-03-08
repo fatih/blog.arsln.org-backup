@@ -4,7 +4,7 @@ layout: post
 slug: devre-elemanlari-ile-basit-bir-guclendirici-yapmak
 status: publish
 title: Devre elemanları ile basit bir güçlendirici yapmak
-wordpress_id: '441'
+wordpressid: '441'
 categories:
 - Bilişim
 - Gezegen

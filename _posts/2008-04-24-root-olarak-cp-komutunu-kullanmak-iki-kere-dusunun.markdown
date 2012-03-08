@@ -4,7 +4,7 @@ layout: post
 slug: root-olarak-cp-komutunu-kullanmak-iki-kere-dusunun
 status: publish
 title: Root olarak cp komutunu kullanmak ? İki kere düşünün
-wordpress_id: '419'
+wordpressid: '419'
 categories:
 - Gezegen
 - Linux

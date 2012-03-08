@@ -4,7 +4,7 @@ layout: post
 slug: zune-creative-commons-lisansini-ihlal-ediyor
 status: publish
 title: Zune Creative Commons lisansını ihlal ediyor
-wordpress_id: '50'
+wordpressid: '50'
 categories:
 - Bilişim
 - Linux

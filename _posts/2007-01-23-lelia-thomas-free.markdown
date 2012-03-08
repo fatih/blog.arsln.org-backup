@@ -4,7 +4,7 @@ layout: post
 slug: lelia-thomas-free
 status: publish
 title: Lelia Thomas -  "Free"
-wordpress_id: '146'
+wordpressid: '146'
 categories:
 - Sanat
 tags:

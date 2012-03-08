@@ -4,7 +4,7 @@ layout: post
 slug: almanyada-yasam-monotonluk-3
 status: publish
 title: Almanya'da yaşam - Monotonluk (3)
-wordpress_id: '306'
+wordpressid: '306'
 categories:
 - Hayat-Yaşam
 ---

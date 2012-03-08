@@ -5,7 +5,7 @@ slug: bir-kitapligin-portresi
 status: publish
 title: Bir kitaplığın portresi
 comments: true
-wordpress_id: '1085'
+wordpressid: '1085'
 categories:
 - Hayat-Yaşam
 tags:
@@ -16,7 +16,7 @@ tags:
 
 Bundan bir buçuk ay öncesinde [The New Yorker](http://www.newyorker.com/) dergisinde güzel bir [yazıya](http://www.newyorker.com/reporting/2011/11/07/111107fa_fact_wood) denk gelmiştim. Maalesef paylaşılabilir bir yazı olmadığından sizlere sunamadım içeriğini. Yazı, bir süre önce kayınbabasını kaybeden ve ondan geriye kalan devasa bir kitaplık ve kitapları nasıl değerlendirmesi gerektiğini bilmeyen bir [yazarın](http://en.wikipedia.org/wiki/James_Wood_(critic)) anıları hakkında. Aşağıdaki resim bu kitaplığa ait:
 
-[![](http://blog.arsln.org/wp-content/uploads/kitaplik-500x326.jpg)](http://blog.arsln.org/wp-content/uploads/kitaplik.jpg)
+[![](http://arsln.org/wp-content/uploads/kitaplik-500x326.jpg)](http://arsln.org/wp-content/uploads/kitaplik.jpg)
 
 Kayınbabasını öldükten sonra bu kitaplar miras kalıyor kendisine. Fakat bu büyüklükte bir kitaplığı ve haliyle kitapları saklayacak yeri olmayınca bunlarla neler yapabileceğini düşünmeye başlıyor.
 

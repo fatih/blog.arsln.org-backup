@@ -4,7 +4,7 @@ layout: post
 slug: web-20-are-you-blogging-this
 status: publish
 title: Web 2.0 - Are you blogging this ?
-wordpress_id: '182'
+wordpressid: '182'
 categories:
 - Bilişim
 - Gezegen

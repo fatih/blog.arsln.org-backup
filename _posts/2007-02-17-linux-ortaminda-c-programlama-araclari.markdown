@@ -4,7 +4,7 @@ layout: post
 slug: linux-ortaminda-c-programlama-araclari
 status: publish
 title: Linux ortamında C programlama araçları
-wordpress_id: '176'
+wordpressid: '176'
 categories:
 - Linux
 tags:

@@ -4,7 +4,7 @@ layout: post
 slug: gnash-artik-youtube-videolarini-calistiriyor
 status: publish
 title: Gnash artık Youtube videolarını çalıştırıyor
-wordpress_id: '254'
+wordpressid: '254'
 categories:
 - Gezegen
 - Linux

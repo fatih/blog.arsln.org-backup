@@ -4,7 +4,7 @@ layout: post
 slug: hasan-bak-bakalim-bizde-cheng-ve-nilsson-var-mi
 status: publish
 title: Hasan, bak bakalım bizde Cheng ve Nilsson var mı
-wordpress_id: '320'
+wordpressid: '320'
 categories:
 - Gezegen
 - Hayat-Yaşam

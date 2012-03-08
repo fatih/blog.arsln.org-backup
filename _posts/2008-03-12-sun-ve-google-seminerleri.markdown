@@ -4,7 +4,7 @@ layout: post
 slug: sun-ve-google-seminerleri
 status: publish
 title: Sun ve Google seminerleri
-wordpress_id: '399'
+wordpressid: '399'
 categories:
 - Gezegen
 - Hayat-Yaşam

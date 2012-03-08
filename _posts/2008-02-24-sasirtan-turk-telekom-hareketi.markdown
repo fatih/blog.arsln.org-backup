@@ -4,7 +4,7 @@ layout: post
 slug: sasirtan-turk-telekom-hareketi
 status: publish
 title: Şaşırtan Türk Telekom hareketi
-wordpress_id: '394'
+wordpressid: '394'
 categories:
 - Gezegen
 - Hayat-Yaşam

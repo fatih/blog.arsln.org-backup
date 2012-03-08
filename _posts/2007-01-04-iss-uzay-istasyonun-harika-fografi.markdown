@@ -4,7 +4,7 @@ layout: post
 slug: iss-uzay-istasyonun-harika-fografi
 status: publish
 title: ISS uzay istasyonun harika foğrafı
-wordpress_id: '100'
+wordpressid: '100'
 categories:
 - Sanat
 tags:

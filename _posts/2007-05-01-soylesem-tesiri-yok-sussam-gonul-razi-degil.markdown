@@ -4,7 +4,7 @@ layout: post
 slug: soylesem-tesiri-yok-sussam-gonul-razi-degil
 status: publish
 title: Söylesem tesiri yok, sussam gönül razı değil
-wordpress_id: '231'
+wordpressid: '231'
 categories:
 - Hayat-Yaşam
 tags:

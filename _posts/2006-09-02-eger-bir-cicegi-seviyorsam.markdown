@@ -4,7 +4,7 @@ layout: post
 slug: eger-bir-cicegi-seviyorsam
 status: publish
 title: Eğer bir çiçeği seviyorsam
-wordpress_id: '42'
+wordpressid: '42'
 categories:
 - Sanat
 tags:

@@ -4,7 +4,7 @@ layout: post
 slug: feedburner-ontanimli-sayfasi-artik-turkce
 status: publish
 title: Feedburner öntanımlı sayfası artık Türkçe
-wordpress_id: '226'
+wordpressid: '226'
 categories:
 - Bilişim
 - Gezegen

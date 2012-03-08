@@ -4,7 +4,7 @@ layout: post
 slug: ubuntudaki-shipitbedava-cd-gonderme-degisikligi
 status: publish
 title: Ubuntu’daki ShipIt(bedava cd gönderme) değişikliği
-wordpress_id: '56'
+wordpressid: '56'
 categories:
 - Bilişim
 - Linux

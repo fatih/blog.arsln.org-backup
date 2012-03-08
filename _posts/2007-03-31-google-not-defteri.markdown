@@ -4,7 +4,7 @@ layout: post
 slug: google-not-defteri
 status: publish
 title: Google Not Defteri
-wordpress_id: '207'
+wordpressid: '207'
 categories:
 - Bilişim
 - Gezegen

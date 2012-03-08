@@ -4,7 +4,7 @@ layout: post
 slug: bu-kopruyu-gecip-bana-gelir-misin
 status: publish
 title: Bu köprüyü geçip bana gelir misin ?
-wordpress_id: '148'
+wordpressid: '148'
 categories:
 - Sanat
 tags:

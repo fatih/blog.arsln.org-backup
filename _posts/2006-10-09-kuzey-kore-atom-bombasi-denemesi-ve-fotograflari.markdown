@@ -4,7 +4,7 @@ layout: post
 slug: kuzey-kore-atom-bombasi-denemesi-ve-fotograflari
 status: publish
 title: Kuzey Kore atom bombası denemesi ve fotoğrafları
-wordpress_id: '68'
+wordpressid: '68'
 categories:
 - Sanat
 tags:

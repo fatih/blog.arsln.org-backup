@@ -4,7 +4,7 @@ layout: post
 slug: flickrdeki-fotograflarim
 status: publish
 title: Flickr’deki fotoğraflarım
-wordpress_id: '93'
+wordpressid: '93'
 categories:
 - Blog
 - Hayat-Yaşam

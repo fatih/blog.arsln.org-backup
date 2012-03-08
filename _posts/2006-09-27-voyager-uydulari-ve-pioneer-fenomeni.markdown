@@ -4,7 +4,7 @@ layout: post
 slug: voyager-uydulari-ve-pioneer-fenomeni
 status: publish
 title: Voyager uyduları ve Pioneer fenomeni
-wordpress_id: '60'
+wordpressid: '60'
 categories:
 - Sanat
 tags:

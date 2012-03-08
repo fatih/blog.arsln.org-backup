@@ -4,7 +4,7 @@ layout: post
 slug: qt-hakkinda-yeni-bir-python-kitabi-siparisi
 status: publish
 title: Qt hakkında yeni bir Python kitabı siparişi
-wordpress_id: '410'
+wordpressid: '410'
 categories:
 - Gezegen
 - Programlama

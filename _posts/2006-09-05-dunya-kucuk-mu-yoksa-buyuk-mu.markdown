@@ -4,7 +4,7 @@ layout: post
 slug: dunya-kucuk-mu-yoksa-buyuk-mu
 status: publish
 title: Dünya küçük mü yoksa büyük mü ?
-wordpress_id: '44'
+wordpressid: '44'
 categories:
 - Hayat-Yaşam
 tags:

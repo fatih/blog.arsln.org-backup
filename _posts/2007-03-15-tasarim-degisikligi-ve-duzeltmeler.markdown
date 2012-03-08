@@ -4,7 +4,7 @@ layout: post
 slug: tasarim-degisikligi-ve-duzeltmeler
 status: publish
 title: Tasarım değişikliği ve düzeltmeler
-wordpress_id: '194'
+wordpressid: '194'
 categories:
 - Blog
 tags:
@@ -19,9 +19,9 @@ tags:
 
 Başka büyük bir değişiklik ise, renk uyumu. Genel olarak yine siyah-gri ekseninde dursam, iki yeni renk kattım. Biri vişne kırmızısı(ilk air jordan ayakkabılarında kullanılan renk), diğerini ise tam bilmiyorum. Onun haricinde bir de Widget'lerden kurtuldum artık. Hiç sevememiştim zaten. Böyle şimdi direkt sidebar.php üzerinden değiştirebildiğim için benim için çok daha iyi oldu. Yan menü'ye son yazılar kısmı da ekledim. Okurların işine yaracağını umuyorum. Fakat bir yandan da o olmazsa da olur düşüncesindeyim, tam belli değil yani. Ayrıca hakkımdak kısmındaki e-mail aboneliğini yine sidebar kısmına koyabilirim. 
 
-Geriye yorum kısmı ve footer kısmı kaldı. Yazı başlığı için de **Web 2.0 yeni** grafiği koyacağım. Bir tane oluşturum fakat hala nasıl neyi nereye yerleştireceğimi bilmiyorum, çok aradım, [sordum](http://www.wordpress-tr.com/forum/topic/932?replies=1) ama cevap bulamadım. Sitenin orjinal hali(light teması) şu şekilde:
+Geriye yorum kısmı ve footer kısmı kaldı. Yazı başlığı için de **Web 2.0 yeni** grafiği koyacağım. Bir tane oluşturum fakat hala nasıl neyi nereye yerleştireceğimi bilmiyorum, çok aradım, [sordum](http://www.wordpressid-tr.com/forum/topic/932?replies=1) ama cevap bulamadım. Sitenin orjinal hali(light teması) şu şekilde:
 
-[http://themes.wordpress.net/testrun/?wptheme=481](http://themes.wordpress.net/testrun/?wptheme=481)
+[http://themes.wordpressid.net/testrun/?wptheme=481](http://themes.wordpress.net/testrun/?wptheme=481)
 
 Bu halini çok sevdim, orjinal tema arasında dağlar kadar fark var. Ayrıca ikinci bir yan menü işimi çok kolaylaştıracak. Adsense reklamları için örneğin. Başka da pek bir şey yapmayacağım, zaten sadeliği severim, böyle de yeterince sade. Yine ara sıra gözüme çarpan kısımları değiştiririm. En üste örneğin güzel bir resim koyabilirim, ya da sidebar'daki başlıklara ufak simgeler. 
 

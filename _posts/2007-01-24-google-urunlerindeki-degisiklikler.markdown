@@ -4,7 +4,7 @@ layout: post
 slug: google-urunlerindeki-degisiklikler
 status: publish
 title: Google ürünlerindeki değişiklikler
-wordpress_id: '149'
+wordpressid: '149'
 categories:
 - Bilişim
 tags:

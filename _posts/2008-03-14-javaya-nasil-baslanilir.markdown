@@ -4,7 +4,7 @@ layout: post
 slug: javaya-nasil-baslanilir
 status: publish
 title: Java'ya nasıl başlanılır ?
-wordpress_id: '402'
+wordpressid: '402'
 categories:
 - Gezegen
 - Linux

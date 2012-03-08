@@ -4,7 +4,7 @@ layout: post
 slug: linuxtag-berlin-3uncu-gun
 status: publish
 title: LinuxTag Berlin - 3'üncü gün
-wordpress_id: '997'
+wordpressid: '997'
 categories:
 - Bilişim
 - Gezegen

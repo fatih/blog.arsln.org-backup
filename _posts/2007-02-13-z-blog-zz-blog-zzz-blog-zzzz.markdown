@@ -4,7 +4,7 @@ layout: post
 slug: z-blog-zz-blog-zzz-blog-zzzz
 status: publish
 title: Z-Blog, Zz-Blog, Zzz-Blog, Zzzz....
-wordpress_id: '172'
+wordpressid: '172'
 categories:
 - Bilişim
 - Blog
@@ -39,7 +39,7 @@ Evet 3-4 gün önce başlayan bu akımı devam ettirelim. Ben de [Alper abi](htt
   6. [Yakuter](http://www.yakuter.com/)
 
 	
-  7. [Ylmz.com](http://www.ylmz.com/wordpress)
+  7. [Ylmz.com](http://www.ylmz.com/wordpressid)
 
 	
   8. [Deneyimler](http://www.deneyimler.net/)

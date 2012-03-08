@@ -4,7 +4,7 @@ layout: post
 slug: canon-powershot-g7-ve-linux
 status: publish
 title: Canon PowerShot G7 ve Linux
-wordpress_id: '313'
+wordpressid: '313'
 categories:
 - Gezegen
 - Linux

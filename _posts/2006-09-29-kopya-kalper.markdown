@@ -4,7 +4,7 @@ layout: post
 slug: kopya-kalper
 status: publish
 title: Kopya Kalper
-wordpress_id: '62'
+wordpressid: '62'
 categories:
 - Sanat
 tags:

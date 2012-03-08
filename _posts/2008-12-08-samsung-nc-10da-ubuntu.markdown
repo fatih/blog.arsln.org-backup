@@ -4,7 +4,7 @@ layout: post
 slug: samsung-nc-10da-ubuntu
 status: publish
 title: Samsung Nc 10'da Ubuntu
-wordpress_id: '588'
+wordpressid: '588'
 categories:
 - Gezegen
 - Linux

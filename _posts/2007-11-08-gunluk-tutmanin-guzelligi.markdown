@@ -4,7 +4,7 @@ layout: post
 slug: gunluk-tutmanin-guzelligi
 status: publish
 title: Günlük tutmanın güzelliği
-wordpress_id: '338'
+wordpressid: '338'
 categories:
 - Hayat-Yaşam
 - Sanat

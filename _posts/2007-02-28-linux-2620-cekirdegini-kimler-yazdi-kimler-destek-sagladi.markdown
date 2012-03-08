@@ -4,7 +4,7 @@ layout: post
 slug: linux-2620-cekirdegini-kimler-yazdi-kimler-destek-sagladi
 status: publish
 title: Linux 2.6.20 çekirdeğini kimler yazdı, kimler destek sağladı
-wordpress_id: '183'
+wordpressid: '183'
 categories:
 - Linux
 tags:

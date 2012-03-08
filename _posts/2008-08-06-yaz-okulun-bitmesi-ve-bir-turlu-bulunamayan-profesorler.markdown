@@ -4,7 +4,7 @@ layout: post
 slug: yaz-okulun-bitmesi-ve-bir-turlu-bulunamayan-profesorler
 status: publish
 title: Yaz okulun bitmesi ve bir türlü bulunamayan profesörler
-wordpress_id: '455'
+wordpressid: '455'
 categories:
 - Hayat-Yaşam
 ---

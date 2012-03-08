@@ -4,7 +4,7 @@ layout: post
 slug: compiz-fusionun-harika-goruntuleri
 status: publish
 title: Compiz Fusion'un harika görüntüleri
-wordpress_id: '278'
+wordpressid: '278'
 categories:
 - Gezegen
 - Linux

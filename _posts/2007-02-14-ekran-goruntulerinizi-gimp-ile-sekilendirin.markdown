@@ -4,7 +4,7 @@ layout: post
 slug: ekran-goruntulerinizi-gimp-ile-sekilendirin
 status: publish
 title: Ekran görüntülerinizi Gimp ile şekilendirin
-wordpress_id: '174'
+wordpressid: '174'
 categories:
 - Linux
 tags:

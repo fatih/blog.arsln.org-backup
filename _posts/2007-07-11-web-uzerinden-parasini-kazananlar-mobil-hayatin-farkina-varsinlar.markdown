@@ -4,7 +4,7 @@ layout: post
 slug: web-uzerinden-parasini-kazananlar-mobil-hayatin-farkina-varsinlar
 status: publish
 title: Web üzerinden parasını kazananlar mobil hayatın farkına varsınlar
-wordpress_id: '274'
+wordpressid: '274'
 categories:
 - Bilişim
 - Hayat-Yaşam

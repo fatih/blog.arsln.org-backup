@@ -4,7 +4,7 @@ layout: post
 slug: mim-mimm-mimmm-yeni-mim-dalgasi-beni-kritize-et
 status: publish
 title: Mim, Mimm, Mimmm ... Yeni mim dalgası - Beni Kritize Et
-wordpress_id: '196'
+wordpressid: '196'
 categories:
 - Blog
 - Hayat-Yaşam

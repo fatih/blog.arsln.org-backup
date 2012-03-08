@@ -4,7 +4,7 @@ layout: post
 slug: ramazan-bayrami-yerine-seker-bayrami-diyenler
 status: publish
 title: Ramazan Bayramı yerine Şeker Bayramı diyenler
-wordpress_id: '330'
+wordpressid: '330'
 categories:
 - Hayat-Yaşam
 tags:

@@ -4,7 +4,7 @@ layout: post
 slug: 199-euroya-linux-bilgisayari-almaya-ne-dersiniz
 status: publish
 title: 199 euro’ya Linux bilgisayarı almaya ne dersiniz ?
-wordpress_id: '58'
+wordpressid: '58'
 categories:
 - Bilişim
 - Linux

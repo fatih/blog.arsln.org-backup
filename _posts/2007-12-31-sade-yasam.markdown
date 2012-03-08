@@ -4,7 +4,7 @@ layout: post
 slug: sade-yasam
 status: publish
 title: Sade Yaşam
-wordpress_id: '369'
+wordpressid: '369'
 categories:
 - Gezegen
 - Hayat-Yaşam

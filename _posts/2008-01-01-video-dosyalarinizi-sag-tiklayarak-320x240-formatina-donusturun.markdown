@@ -4,7 +4,7 @@ layout: post
 slug: video-dosyalarinizi-sag-tiklayarak-320x240-formatina-donusturun
 status: publish
 title: Video dosyalarınızı sağ tıklayarak 320x240 formatına dönüştürün
-wordpress_id: '373'
+wordpressid: '373'
 categories:
 - Gezegen
 - Linux

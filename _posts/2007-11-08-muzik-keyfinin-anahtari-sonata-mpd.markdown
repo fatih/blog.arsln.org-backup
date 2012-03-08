@@ -4,7 +4,7 @@ layout: post
 slug: muzik-keyfinin-anahtari-sonata-mpd
 status: publish
 title: 'Müzik keyfinin anahtarı: Sonata + Mpd '
-wordpress_id: '339'
+wordpressid: '339'
 categories:
 - Gezegen
 - Linux

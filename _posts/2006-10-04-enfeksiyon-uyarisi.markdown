@@ -4,7 +4,7 @@ layout: post
 slug: enfeksiyon-uyarisi
 status: publish
 title: Enfeksiyon uyarısı
-wordpress_id: '65'
+wordpressid: '65'
 categories:
 - Hayat-Yaşam
 tags:

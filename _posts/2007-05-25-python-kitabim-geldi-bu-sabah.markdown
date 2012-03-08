@@ -4,7 +4,7 @@ layout: post
 slug: python-kitabim-geldi-bu-sabah
 status: publish
 title: Python kitabım geldi bu sabah
-wordpress_id: '244'
+wordpressid: '244'
 categories:
 - Gezegen
 - Programlama

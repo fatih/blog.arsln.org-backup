@@ -4,7 +4,7 @@ layout: post
 slug: basin-dedikleri-bu-olsa-gerek
 status: publish
 title: Basın dedikleri bu olsa gerek
-wordpress_id: '94'
+wordpressid: '94'
 categories:
 - Hayat-Yaşam
 tags:

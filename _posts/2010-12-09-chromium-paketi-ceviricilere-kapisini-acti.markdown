@@ -4,7 +4,7 @@ layout: post
 slug: chromium-paketi-ceviricilere-kapisini-acti
 status: publish
 title: Chromium paketi çeviricilere kapısını açtı
-wordpress_id: '826'
+wordpressid: '826'
 categories:
 - Gezegen
 tags:
@@ -16,7 +16,7 @@ tags:
 
 Bugün Chromium geliştiricilerinden **Evan Martin**, paket geliştiricilerine bir mail attı. Chromium'un çevirisi için ortak bir karar alınmış onu duyurdu. Ben de size buradan duyurayım. 
 
-Bundan sonra Chromium'un çevirileri Launchpad'de Ubuntu takımının hazırladığı bir sayfada [yapılacak](http://davidplanella.wordpress.com/2010/12/09/chromium-opens-to-community-translations-in-launchpad/). 
+Bundan sonra Chromium'un çevirileri Launchpad'de Ubuntu takımının hazırladığı bir sayfada [yapılacak](http://davidplanella.wordpressid.com/2010/12/09/chromium-opens-to-community-translations-in-launchpad/). 
 
 **Chromium'un Türkçe çevirisine katkıda bulunmak istiyorsanız, geliştirmek istiyorsanız ya da beğenmeyip değiştirmek** istiyorsanız tam zamanı. Yapmanız gereken şeyler kısaca şunlar:
 

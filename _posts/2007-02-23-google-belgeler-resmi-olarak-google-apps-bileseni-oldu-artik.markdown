@@ -4,7 +4,7 @@ layout: post
 slug: google-belgeler-resmi-olarak-google-apps-bileseni-oldu-artik
 status: publish
 title: Google Belgeler resmi olarak Google Apps bileşeni oldu artık!
-wordpress_id: '181'
+wordpressid: '181'
 categories:
 - Bilişim
 tags:

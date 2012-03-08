@@ -4,7 +4,7 @@ layout: post
 slug: bu-haftanin-yazilari-2
 status: publish
 title: 'Bu Haftanın yazıları - 2 '
-wordpress_id: '142'
+wordpressid: '142'
 categories:
 - Okuduklarım
 tags:

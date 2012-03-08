@@ -4,7 +4,7 @@ layout: post
 slug: olu-sehir-cernobil
 status: publish
 title: Olü şehir Çernobil
-wordpress_id: '47'
+wordpressid: '47'
 categories:
 - Sanat
 tags:

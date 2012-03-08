@@ -4,7 +4,7 @@ layout: post
 slug: staj-projesi-synergy-entegrasyonu
 status: publish
 title: Staj Projesi - Synergy entegrasyonu
-wordpress_id: '463'
+wordpressid: '463'
 categories:
 - Gezegen
 - Linux

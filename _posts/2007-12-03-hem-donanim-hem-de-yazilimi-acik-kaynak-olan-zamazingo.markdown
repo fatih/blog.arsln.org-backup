@@ -4,7 +4,7 @@ layout: post
 slug: hem-donanim-hem-de-yazilimi-acik-kaynak-olan-zamazingo
 status: publish
 title: Hem donanım hem de yazılımı açık-kaynak olan zamazingo
-wordpress_id: '364'
+wordpressid: '364'
 categories:
 - Gezegen
 - Linux

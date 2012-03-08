@@ -4,7 +4,7 @@ layout: post
 slug: alaska-daglarinda-olmak-var-simdi
 status: publish
 title: Alaska dağlarında olmak var şimdi ...
-wordpress_id: '265'
+wordpressid: '265'
 categories:
 - Hayat-Yaşam
 - Sanat

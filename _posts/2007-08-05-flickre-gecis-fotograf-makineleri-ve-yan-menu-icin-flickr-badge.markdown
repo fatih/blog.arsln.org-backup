@@ -4,7 +4,7 @@ layout: post
 slug: flickre-gecis-fotograf-makineleri-ve-yan-menu-icin-flickr-badge
 status: publish
 title: Flickr'e geçiş, fotoğraf makineleri ve yan menü için Flickr Badge
-wordpress_id: '293'
+wordpressid: '293'
 categories:
 - Gezegen
 - Hayat-Yaşam

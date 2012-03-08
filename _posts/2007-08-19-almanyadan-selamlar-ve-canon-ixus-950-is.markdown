@@ -4,7 +4,7 @@ layout: post
 slug: almanyadan-selamlar-ve-canon-ixus-950-is
 status: publish
 title: 'Almanya''dan selamlar ve Canon Ixus 950 Is '
-wordpress_id: '301'
+wordpressid: '301'
 categories:
 - Hayat-Yaşam
 - Sanat

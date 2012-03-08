@@ -4,7 +4,7 @@ layout: post
 slug: google-image-labeler
 status: publish
 title: Google Image Labeler
-wordpress_id: '43'
+wordpressid: '43'
 categories:
 - Bilişim
 tags:

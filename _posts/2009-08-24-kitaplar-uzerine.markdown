@@ -4,7 +4,7 @@ layout: post
 slug: kitaplar-uzerine
 status: publish
 title: Kitaplar üzerine
-wordpress_id: '648'
+wordpressid: '648'
 categories:
 - Hayat-Yaşam
 ---

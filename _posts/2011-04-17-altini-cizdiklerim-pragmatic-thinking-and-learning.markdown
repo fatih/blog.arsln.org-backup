@@ -4,7 +4,7 @@ layout: post
 slug: altini-cizdiklerim-pragmatic-thinking-and-learning
 status: publish
 title: Altını çizdiklerim - Pragmatic Thinking and Learning
-wordpress_id: '944'
+wordpressid: '944'
 categories:
 - Gezegen
 - Okuduklarım

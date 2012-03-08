@@ -4,7 +4,7 @@ layout: post
 slug: sessizlik-ile-beraber-oturmak-isterdim-simdi-yanyana
 status: publish
 title: Sessizlik ile beraber oturmak isterdim şimdi, yanyana ...
-wordpress_id: '134'
+wordpressid: '134'
 categories:
 - Hayat-Yaşam
 tags:

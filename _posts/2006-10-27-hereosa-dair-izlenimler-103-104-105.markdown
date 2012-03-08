@@ -4,7 +4,7 @@ layout: post
 slug: hereosa-dair-izlenimler-103-104-105
 status: publish
 title: Hereos’a dair izlenimler (1×03, 1×04, 1×05)
-wordpress_id: '78'
+wordpressid: '78'
 categories:
 - Sanat
 tags:

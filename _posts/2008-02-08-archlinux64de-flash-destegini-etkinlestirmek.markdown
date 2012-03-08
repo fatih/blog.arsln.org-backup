@@ -4,7 +4,7 @@ layout: post
 slug: archlinux64de-flash-destegini-etkinlestirmek
 status: publish
 title: Archlinux64'de flash desteğini etkinleştirmek
-wordpress_id: '385'
+wordpressid: '385'
 categories:
 - Gezegen
 - Linux

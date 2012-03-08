@@ -4,7 +4,7 @@ layout: post
 slug: cde-gets-yerine-fgets-kullanin
 status: publish
 title: C'de gets yerine fgets kullanın
-wordpress_id: '227'
+wordpressid: '227'
 categories:
 - Programlama
 tags:

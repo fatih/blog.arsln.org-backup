@@ -1,17 +1,17 @@
 ---
 date: '2007-02-03 02:33:23'
 layout: post
-slug: wordpress-yazilarinda-kisayol-baglantilari
+slug: wordpressid-yazilarinda-kisayol-baglantilari
 status: publish
 title: Wordpress yazılarında kısayol bağlantıları
-wordpress_id: '163'
+wordpressid: '163'
 categories:
 - Bilişim
 tags:
 - alex king
 - Blog
 - shortcut
-- wordpress
+- wordpressid
 ---
 
 [Alexking](http://alexking.org/) geçen yeni bir eklenti(Shortcut Macros) çıkarmış. Cümleleri, bağlantıları her defasında yazmaktan sıkıldıysanız bu eklenti çok işinize yarayacaktır.  Yeni demek istediğim şudur ki,  uzun uzun bir site yerine, örneğin http://blog.arsln.org yerine bir kısayol atıyorsunuz, ve kısayolun adı da arsln oluyor. Şimdi yazdığınız yazıda _##arsln_ yazdığınız her yer şu şekilde olacak:

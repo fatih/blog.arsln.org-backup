@@ -4,7 +4,7 @@ layout: post
 slug: insan-tarlalari
 status: publish
 title: İnsan tarlaları
-wordpress_id: '66'
+wordpressid: '66'
 categories:
 - Sanat
 tags:

@@ -4,7 +4,7 @@ layout: post
 slug: dvb-t2-modulasyon-ve-demodulasyon-modullerinin-implementasyonu
 status: publish
 title: DVB-T2 modülasyon ve demodülasyon modüllerinin implementasyonu
-wordpress_id: '751'
+wordpressid: '751'
 categories:
 - Hayat-Yaşam
 tags:

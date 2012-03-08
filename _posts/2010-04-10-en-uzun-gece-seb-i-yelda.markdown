@@ -4,7 +4,7 @@ layout: post
 slug: en-uzun-gece-seb-i-yelda
 status: publish
 title: En uzun gece - Şeb-i Yeldâ
-wordpress_id: '691'
+wordpressid: '691'
 categories:
 - Hayat-Yaşam
 tags:

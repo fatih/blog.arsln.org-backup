@@ -4,7 +4,7 @@ layout: post
 slug: bir-hata-kovalamaca-hikayesi
 status: publish
 title: Bir hata kovalamaca hikayesi
-wordpress_id: '770'
+wordpressid: '770'
 categories:
 - Gezegen
 - Linux

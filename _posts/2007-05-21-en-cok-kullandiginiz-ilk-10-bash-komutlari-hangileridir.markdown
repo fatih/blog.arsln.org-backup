@@ -4,7 +4,7 @@ layout: post
 slug: en-cok-kullandiginiz-ilk-10-bash-komutlari-hangileridir
 status: publish
 title: En çok kullandığınız ilk 10 bash komutları hangileridir ?
-wordpress_id: '241'
+wordpressid: '241'
 categories:
 - Gezegen
 - Linux

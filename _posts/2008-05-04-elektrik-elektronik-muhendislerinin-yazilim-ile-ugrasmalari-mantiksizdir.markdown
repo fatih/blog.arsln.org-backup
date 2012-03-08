@@ -4,7 +4,7 @@ layout: post
 slug: elektrik-elektronik-muhendislerinin-yazilim-ile-ugrasmalari-mantiksizdir
 status: publish
 title: Elektrik-Elektronik mühendislerinin yazılım ile uğraşmaları mantıksızdır
-wordpress_id: '422'
+wordpressid: '422'
 categories:
 - Bilişim
 - Gezegen

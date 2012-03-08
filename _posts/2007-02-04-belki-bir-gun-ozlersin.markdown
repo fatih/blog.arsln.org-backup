@@ -4,7 +4,7 @@ layout: post
 slug: belki-bir-gun-ozlersin
 status: publish
 title: Belki bir gün özlersin
-wordpress_id: '165'
+wordpressid: '165'
 categories:
 - Sanat
 tags:

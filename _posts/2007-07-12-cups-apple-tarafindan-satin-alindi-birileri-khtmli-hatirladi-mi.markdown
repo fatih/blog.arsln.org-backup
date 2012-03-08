@@ -4,7 +4,7 @@ layout: post
 slug: cups-apple-tarafindan-satin-alindi-birileri-khtmli-hatirladi-mi
 status: publish
 title: CUPS, Apple tarafından satın alındı. Birileri KHTML'i hatırladı mı ?
-wordpress_id: '276'
+wordpressid: '276'
 categories:
 - Gezegen
 - Linux

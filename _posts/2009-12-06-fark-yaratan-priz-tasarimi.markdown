@@ -4,7 +4,7 @@ layout: post
 slug: fark-yaratan-priz-tasarimi
 status: publish
 title: Fark yaratan priz tasarımı
-wordpress_id: '655'
+wordpressid: '655'
 categories:
 - Hayat-Yaşam
 - Sanat

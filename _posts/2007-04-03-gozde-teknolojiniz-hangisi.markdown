@@ -4,7 +4,7 @@ layout: post
 slug: gozde-teknolojiniz-hangisi
 status: publish
 title: Gözde Teknolojiniz Hangisi?
-wordpress_id: '211'
+wordpressid: '211'
 categories:
 - Blog
 tags:

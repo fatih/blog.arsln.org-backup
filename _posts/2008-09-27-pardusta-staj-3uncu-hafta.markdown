@@ -4,7 +4,7 @@ layout: post
 slug: pardusta-staj-3uncu-hafta
 status: publish
 title: 'Pardus''ta staj - 3''üncü Hafta '
-wordpress_id: '502'
+wordpressid: '502'
 categories:
 - Gezegen
 - Hayat-Yaşam

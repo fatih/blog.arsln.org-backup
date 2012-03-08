@@ -4,7 +4,7 @@ layout: post
 slug: verimli-bir-sekilde-yeni-bir-dil-ogrenmenin-formulu-5-kasa-sistemi
 status: publish
 title: 'Verimli bir şekilde yeni bir dil öğrenmenin formülü: 5-Kasa sistemi'
-wordpress_id: '296'
+wordpressid: '296'
 categories:
 - Bilişim
 - Hayat-Yaşam

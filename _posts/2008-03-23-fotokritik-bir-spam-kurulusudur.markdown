@@ -4,7 +4,7 @@ layout: post
 slug: fotokritik-bir-spam-kurulusudur
 status: publish
 title: 'Fotokritik bir spam kuruluşudur '
-wordpress_id: '405'
+wordpressid: '405'
 categories:
 - Gezegen
 - Hayat-Yaşam

@@ -4,7 +4,7 @@ layout: post
 slug: how-to-fdm-ve-bogofilter-mutt-adapte-etmek
 status: publish
 title: Fdm ve Bogofilteri, Mutt'a adapte etmek
-wordpress_id: '253'
+wordpressid: '253'
 categories:
 - Gezegen
 - Linux

@@ -4,7 +4,7 @@ layout: post
 slug: python-mencoder-betigi-ile-altyazili-filmleri-cep-telefonuza-uygun-cevirin
 status: publish
 title: Python + Mencoder betiği ile altyazılı filmleri cep telefonuza uygun çevirin
-wordpress_id: '425'
+wordpressid: '425'
 categories:
 - Gezegen
 - Linux

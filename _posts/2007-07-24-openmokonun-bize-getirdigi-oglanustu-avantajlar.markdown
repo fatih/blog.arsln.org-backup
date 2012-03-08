@@ -4,7 +4,7 @@ layout: post
 slug: openmokonun-bize-getirdigi-oglanustu-avantajlar
 status: publish
 title: Openmoko'nun bize getirdiği olağanüstü avantajlar
-wordpress_id: '286'
+wordpressid: '286'
 categories:
 - Bilişim
 - Gezegen

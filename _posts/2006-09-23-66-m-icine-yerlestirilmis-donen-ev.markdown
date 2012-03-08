@@ -4,7 +4,7 @@ layout: post
 slug: 66-m-icine-yerlestirilmis-donen-ev
 status: publish
 title: 6×6 m. içine yerleştirilmiş dönen ev
-wordpress_id: '55'
+wordpressid: '55'
 categories:
 - Sanat
 tags:

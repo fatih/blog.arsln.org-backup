@@ -4,7 +4,7 @@ layout: post
 slug: linux-altinda-elektronik-simulasyon-uzerine-bir-kac-soz
 status: publish
 title: Linux altında Elektronik Simulasyon üzerine bir kaç söz
-wordpress_id: '395'
+wordpressid: '395'
 categories:
 - Gezegen
 - Hayat-Yaşam

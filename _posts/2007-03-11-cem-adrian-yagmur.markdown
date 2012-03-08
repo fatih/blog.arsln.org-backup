@@ -4,7 +4,7 @@ layout: post
 slug: cem-adrian-yagmur
 status: publish
 title: Cem Adrian - Yağmur
-wordpress_id: '195'
+wordpressid: '195'
 categories:
 - Hayat-Yaşam
 - Sanat

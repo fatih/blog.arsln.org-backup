@@ -4,7 +4,7 @@ layout: post
 slug: yasal-bedava-ucretsiz-torrent-siteleri-acik-kaynak-dunyasinin-bizlere-armagani
 status: publish
 title: Yasal Torrent siteleri , Açık kaynak dünyasının bizlere armağanı
-wordpress_id: '193'
+wordpressid: '193'
 categories:
 - Bilişim
 - Gezegen

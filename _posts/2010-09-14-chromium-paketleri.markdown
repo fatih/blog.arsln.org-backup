@@ -4,7 +4,7 @@ layout: post
 slug: chromium-paketleri
 status: publish
 title: Pardus Chromium paketleri
-wordpress_id: '717'
+wordpressid: '717'
 categories:
 - Gezegen
 - Linux

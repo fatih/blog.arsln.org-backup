@@ -4,7 +4,7 @@ layout: post
 slug: linux-manpage-sayfalarindaki-c-fonksiyon-bilgileri
 status: publish
 title: Linux manpage sayfalarındaki C fonksiyon bilgileri
-wordpress_id: '240'
+wordpressid: '240'
 categories:
 - Gezegen
 - Programlama
@@ -19,7 +19,7 @@ tags:
 
 Linux'da herhangi bir C fonksiyonunu **"man fonksiyonadı"** ile öğrenebilirsiniz. man malloc, man printf, man gets ... gibi.Ben daha bugün yeni öğrendim, bunca zaman elimin altında böyle basit ve işe yarayan bir kaynak varmış da benim haberim yok. Bu zamana kadar hep Google'dan arama yapar arardım, keşke daha önce bilseydim. Ayrıca finaller bitsin şuradaki belgeleri de incelemeyi düşünüyorum :
 
-[http://fotisl.wordpress.com/2006/06/03/c-editing-with-vim/](http://fotisl.wordpress.com/2006/06/03/c-editing-with-vim/)
+[http://fotisl.wordpressid.com/2006/06/03/c-editing-with-vim/](http://fotisl.wordpress.com/2006/06/03/c-editing-with-vim/)
 [http://www.justlinux.com/nhf/Programming/Introduction_to_C_Programming.html](http://www.justlinux.com/nhf/Programming/Introduction_to_C_Programming.html)
 [http://www.linuxjournal.com/article/8289](http://www.linuxjournal.com/article/8289)
 

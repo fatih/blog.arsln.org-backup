@@ -4,7 +4,7 @@ layout: post
 slug: yeni-blog-google-sehri
 status: publish
 title: 'Yeni Blog: Google Şehri'
-wordpress_id: '220'
+wordpressid: '220'
 categories:
 - Blog
 tags:

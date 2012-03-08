@@ -4,7 +4,7 @@ layout: post
 slug: etiketlendirme-bitti-sonunda
 status: publish
 title: Etiketlendirme bitti sonunda ...
-wordpress_id: '191'
+wordpressid: '191'
 categories:
 - Blog
 tags:

@@ -4,7 +4,7 @@ layout: post
 slug: pardus-2008-stajina-kabul-edildim
 status: publish
 title: Pardus 2008 Stajına kabul edildim
-wordpress_id: '423'
+wordpressid: '423'
 categories:
 - Gezegen
 - Linux

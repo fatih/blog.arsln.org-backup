@@ -4,7 +4,7 @@ layout: post
 slug: moleskine-her-moleskinenin-anlatacak-bir-hikayesi-vardir
 status: publish
 title: 'Moleskine: Her Moleskine’nin anlatacak bir hikayesi vardır'
-wordpress_id: '91'
+wordpressid: '91'
 categories:
 - Hayat-Yaşam
 - Sanat

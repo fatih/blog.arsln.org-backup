@@ -4,7 +4,7 @@ layout: post
 slug: linuxda-fotograf-duzenleme-ve-yonetme-programlari
 status: publish
 title: Linux'da fotoğraf düzenleme ve yönetme programları
-wordpress_id: '322'
+wordpressid: '322'
 categories:
 - Gezegen
 - Linux

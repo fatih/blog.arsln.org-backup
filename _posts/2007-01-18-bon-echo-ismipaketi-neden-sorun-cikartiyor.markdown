@@ -4,7 +4,7 @@ layout: post
 slug: bon-echo-ismipaketi-neden-sorun-cikartiyor
 status: publish
 title: 'Bon Echo ismi(paketi) neden sorun çıkartıyor ? '
-wordpress_id: '138'
+wordpressid: '138'
 categories:
 - Bilişim
 - Linux

@@ -4,7 +4,7 @@ layout: post
 slug: fotograflarim-artik-picasada
 status: publish
 title: Fotoğraflarım artık Picasa'da
-wordpress_id: '214'
+wordpressid: '214'
 categories:
 - Gezegen
 - Hayat-Yaşam

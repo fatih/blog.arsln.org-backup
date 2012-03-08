@@ -4,7 +4,7 @@ layout: post
 slug: mim-dalgalari-ve-turk-blog-camiasi
 status: publish
 title: Mim dalgaları ve Türk Blog Camiası
-wordpress_id: '321'
+wordpressid: '321'
 categories:
 - Bilişim
 ---

@@ -4,7 +4,7 @@ layout: post
 slug: pardus-staji-ve-gebzeye-varis
 status: publish
 title: Pardus stajı ve Gebze'ye varış
-wordpress_id: '461'
+wordpressid: '461'
 categories:
 - Gezegen
 - Hayat-Yaşam

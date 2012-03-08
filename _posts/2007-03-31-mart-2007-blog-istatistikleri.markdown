@@ -4,7 +4,7 @@ layout: post
 slug: mart-2007-blog-istatistikleri
 status: publish
 title: Mart 2007 Blog İstatistikleri
-wordpress_id: '206'
+wordpressid: '206'
 categories:
 - Bilişim
 - Blog
@@ -159,7 +159,7 @@ En çok ziyarteci gönderen siteler ise :
 
 
 	
-  * [Wordpress-Tr](http://wordpress-tr.com)
+  * [Wordpress-Tr](http://wordpressid-tr.com)
 
 
 	

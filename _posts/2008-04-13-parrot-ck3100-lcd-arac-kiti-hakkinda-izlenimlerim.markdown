@@ -4,7 +4,7 @@ layout: post
 slug: parrot-ck3100-lcd-arac-kiti-hakkinda-izlenimlerim
 status: publish
 title: Parrot CK3100 LCD Araç kiti hakkında izlenimlerim
-wordpress_id: '412'
+wordpressid: '412'
 categories:
 - Bilişim
 - Gezegen

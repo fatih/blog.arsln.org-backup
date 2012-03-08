@@ -4,7 +4,7 @@ layout: post
 slug: paylasimli-kitapliklar-kullanimi-ve-yonetimi
 status: publish
 title: Paylaşımlı kitaplıklar - kullanımı ve yönetimi
-wordpress_id: '1009'
+wordpressid: '1009'
 categories:
 - Gezegen
 - Linux

@@ -4,7 +4,7 @@ layout: post
 slug: amasradan-fotograflar
 status: publish
 title: Amasra'dan fotoğraflar
-wordpress_id: '239'
+wordpressid: '239'
 categories:
 - Hayat-Yaşam
 tags:

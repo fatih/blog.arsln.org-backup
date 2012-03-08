@@ -4,7 +4,7 @@ layout: post
 slug: panora-ve-tchibo-magazasi
 status: publish
 title: Panora ve Tchibo Mağazası
-wordpress_id: '356'
+wordpressid: '356'
 categories:
 - Hayat-Yaşam
 tags:

@@ -4,7 +4,7 @@ layout: post
 slug: hayat-bazen-garip-olabiliyor
 status: publish
 title: Hayat bazen garip olabiliyor
-wordpress_id: '277'
+wordpressid: '277'
 categories:
 - Hayat-Yaşam
 tags:

@@ -4,7 +4,7 @@ layout: post
 slug: odtude-google-yazilim-muhendisinden-bir-seminer
 status: publish
 title: Odtü’de Google yazılım mühendisinden bir seminer
-wordpress_id: '190'
+wordpressid: '190'
 categories:
 - Bilişim
 tags:

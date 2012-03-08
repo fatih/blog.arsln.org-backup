@@ -4,7 +4,7 @@ layout: post
 slug: gnuplot-ile-verilerden-grafik-olusturmak
 status: publish
 title: Gnuplot ile verilerden grafik oluşturmak
-wordpress_id: '611'
+wordpressid: '611'
 categories:
 - Gezegen
 - Linux
@@ -52,7 +52,7 @@ Bu komut test.dat dosyasındaki birinci ve ikinci kolonların grafiğini bize ç
 
 [![gnuplot](http://blog.arsln.org/wp-content/uploads/gnuplot-300x214.png)](http://blog.arsln.org/wp-content/uploads/gnuplot.png)
 
-Gördüğünüz gibi güzelce basit bir şekilde verileri yerlerine çıkartı. Şimdi genellikle bu noktaların ortasından geçen bir eğri'yi bulup, o eğrinin eğimini bulmamız bizim işimize yarayabiliyor. Birim zamandaki değişimi görmemizi sağlıyor, daha da önemlisi bu denklem bizim bulduğumuz verilerin denklemini oluşturacağından kolayca istediğimiz andaki veriyi elde edebileceğiz. Noktalardan geçen doğru'nun neye benzediğiniz Gnuplot'a söylemimiz lazım. Bu bir logaritmik fonksiyon olabileceği gibi trigonometrik fonksiyon da olabilir. Bunu biraz araştırdıktan sonra bir blog sayfasında [buldum](http://jperalta.wordpress.com/2007/01/12/using-gnuplot-for-fit-a-dataset/). Bizim örneğimizde basit bir eğri olduğundan fonksiyonumuz şu şekilde olacak:
+Gördüğünüz gibi güzelce basit bir şekilde verileri yerlerine çıkartı. Şimdi genellikle bu noktaların ortasından geçen bir eğri'yi bulup, o eğrinin eğimini bulmamız bizim işimize yarayabiliyor. Birim zamandaki değişimi görmemizi sağlıyor, daha da önemlisi bu denklem bizim bulduğumuz verilerin denklemini oluşturacağından kolayca istediğimiz andaki veriyi elde edebileceğiz. Noktalardan geçen doğru'nun neye benzediğiniz Gnuplot'a söylemimiz lazım. Bu bir logaritmik fonksiyon olabileceği gibi trigonometrik fonksiyon da olabilir. Bunu biraz araştırdıktan sonra bir blog sayfasında [buldum](http://jperalta.wordpressid.com/2007/01/12/using-gnuplot-for-fit-a-dataset/). Bizim örneğimizde basit bir eğri olduğundan fonksiyonumuz şu şekilde olacak:
 
 **gnuplot> f(x) = a*x + b**
 

@@ -4,7 +4,7 @@ layout: post
 slug: kullanicinin-haberi-olsa-ne-yazar
 status: publish
 title: Kullanıcının haberi olsa ne yazar!
-wordpress_id: '315'
+wordpressid: '315'
 categories:
 - Bilişim
 - Gezegen

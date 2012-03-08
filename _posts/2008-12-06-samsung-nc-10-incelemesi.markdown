@@ -4,7 +4,7 @@ layout: post
 slug: samsung-nc-10-incelemesi
 status: publish
 title: Samsung Nc 10 incelemesi
-wordpress_id: '566'
+wordpressid: '566'
 categories:
 - Bilişim
 - Hayat-Yaşam

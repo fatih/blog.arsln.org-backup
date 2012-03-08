@@ -4,7 +4,7 @@ layout: post
 slug: sag-tiklama-ile-iso-yakmak
 status: publish
 title: Sağ tıklama ile Iso yakmak
-wordpress_id: '41'
+wordpressid: '41'
 categories:
 - Linux
 tags:

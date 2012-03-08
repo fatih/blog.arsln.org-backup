@@ -4,7 +4,7 @@ layout: post
 slug: google-news-artik-turkce-google-haberler
 status: publish
 title: 'Google News artık Türkçe: Google Haberler'
-wordpress_id: '458'
+wordpressid: '458'
 categories:
 - Bilişim
 - Gezegen

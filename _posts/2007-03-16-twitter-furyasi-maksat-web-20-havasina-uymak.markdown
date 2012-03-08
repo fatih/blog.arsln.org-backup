@@ -4,7 +4,7 @@ layout: post
 slug: twitter-furyasi-maksat-web-20-havasina-uymak
 status: publish
 title: Twitter furyası, maksat Web 2.0 havasına uymak
-wordpress_id: '198'
+wordpressid: '198'
 categories:
 - Bilişim
 - Gezegen

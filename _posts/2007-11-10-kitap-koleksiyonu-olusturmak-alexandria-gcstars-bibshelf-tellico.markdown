@@ -4,7 +4,7 @@ layout: post
 slug: kitap-koleksiyonu-olusturmak-alexandria-gcstars-bibshelf-tellico
 status: publish
 title: Kitap koleksiyonu oluşturmak(Alexandria, Gcstars,Bibshelf,Tellico)
-wordpress_id: '345'
+wordpressid: '345'
 categories:
 - Gezegen
 - Hayat-Yaşam

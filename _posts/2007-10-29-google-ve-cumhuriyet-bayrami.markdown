@@ -4,7 +4,7 @@ layout: post
 slug: google-ve-cumhuriyet-bayrami
 status: publish
 title: Google ve Cumhuriyet Bayramı
-wordpress_id: '336'
+wordpressid: '336'
 categories:
 - Hayat-Yaşam
 tags:

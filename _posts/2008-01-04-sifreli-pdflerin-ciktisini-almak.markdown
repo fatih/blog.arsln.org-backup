@@ -4,7 +4,7 @@ layout: post
 slug: sifreli-pdflerin-ciktisini-almak
 status: publish
 title: Şifreli Pdf'lerin çıktısını almak
-wordpress_id: '375'
+wordpressid: '375'
 categories:
 - Gezegen
 - Linux

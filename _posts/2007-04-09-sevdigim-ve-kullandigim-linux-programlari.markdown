@@ -4,7 +4,7 @@ layout: post
 slug: sevdigim-ve-kullandigim-linux-programlari
 status: publish
 title: Sevdiğim ve kullandığım Linux programları
-wordpress_id: '216'
+wordpressid: '216'
 categories:
 - Linux
 tags:

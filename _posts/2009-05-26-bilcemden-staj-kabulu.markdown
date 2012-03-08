@@ -4,7 +4,7 @@ layout: post
 slug: bilcemden-staj-kabulu
 status: publish
 title: Bilcem'den staj kabülü
-wordpress_id: '645'
+wordpressid: '645'
 categories:
 - Gezegen
 - Hayat-Yaşam

@@ -4,7 +4,7 @@ layout: post
 slug: blog-yazma-araclari-google-docs-zoho-writetomyblog-performancing
 status: publish
 title: Blog yazma araçları (Google Docs, Zoho, WriteToMyBLog, Performancing...)
-wordpress_id: '105'
+wordpressid: '105'
 categories:
 - Bilişim
 - Blog
@@ -13,7 +13,7 @@ tags:
 - google docs
 - online write tools
 - performancing
-- wordpress
+- wordpressid
 - writetomyblog
 - zoho
 ---

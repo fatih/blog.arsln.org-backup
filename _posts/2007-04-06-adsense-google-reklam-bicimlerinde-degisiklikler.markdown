@@ -4,7 +4,7 @@ layout: post
 slug: adsense-google-reklam-bicimlerinde-degisiklikler
 status: publish
 title: Adsense reklam biçimlerinde değişiklikler
-wordpress_id: '212'
+wordpressid: '212'
 categories:
 - Blog
 tags:

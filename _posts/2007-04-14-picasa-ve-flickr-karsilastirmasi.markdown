@@ -4,7 +4,7 @@ layout: post
 slug: picasa-ve-flickr-karsilastirmasi
 status: publish
 title: Picasa ve Flickr karşılaştırması
-wordpress_id: '219'
+wordpressid: '219'
 categories:
 - Bilişim
 - Gezegen

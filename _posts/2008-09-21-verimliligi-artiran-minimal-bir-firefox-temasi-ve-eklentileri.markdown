@@ -4,7 +4,7 @@ layout: post
 slug: verimliligi-artiran-minimal-bir-firefox-temasi-ve-eklentileri
 status: publish
 title: Verimliliği artıran minimal bir firefox teması ve eklentileri
-wordpress_id: '482'
+wordpressid: '482'
 categories:
 - Bilişim
 - Gezegen

@@ -4,7 +4,7 @@ layout: post
 slug: python-ile-dosya-karsilastirmasi-yapmak
 status: publish
 title: Python ile dosya karşılaştırması yapmak
-wordpress_id: '417'
+wordpressid: '417'
 categories:
 - Hayat-Yaşam
 tags:

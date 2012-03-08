@@ -4,7 +4,7 @@ layout: post
 slug: evrendeki-tum-bilgiler-pi-sayisinda-saklidir
 status: publish
 title: Evrendeki tüm bilgiler PI sayısında saklıdır
-wordpress_id: '279'
+wordpressid: '279'
 categories:
 - Hayat-Yaşam
 tags:

@@ -4,7 +4,7 @@ layout: post
 slug: acik-kaynak-yazilim-ile-para-kazanabilir-miyim
 status: publish
 title: Açık kaynak yazılım ile para kazanabilir miyim?
-wordpress_id: '381'
+wordpressid: '381'
 categories:
 - Gezegen
 - Linux

@@ -4,7 +4,7 @@ layout: post
 slug: pandorayi-tek-tikla-dinlemek
 status: publish
 title: Pandora'yı tek tıkla dinlemek
-wordpress_id: '603'
+wordpressid: '603'
 categories:
 - Bilişim
 - Gezegen

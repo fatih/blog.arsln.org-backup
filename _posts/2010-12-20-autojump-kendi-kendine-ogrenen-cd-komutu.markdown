@@ -4,7 +4,7 @@ layout: post
 slug: autojump-kendi-kendine-ogrenen-cd-komutu
 status: publish
 title: Autojump - kendi kendine öğrenen "cd" komutu
-wordpress_id: '870'
+wordpressid: '870'
 categories:
 - Gezegen
 - Linux

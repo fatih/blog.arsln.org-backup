@@ -4,7 +4,7 @@ layout: post
 slug: slim-kullananlara-tavsiye
 status: publish
 title: Slim kullananlara tavsiye
-wordpress_id: '234'
+wordpressid: '234'
 categories:
 - Gezegen
 - Linux

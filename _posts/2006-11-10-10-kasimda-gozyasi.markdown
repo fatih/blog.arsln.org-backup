@@ -4,7 +4,7 @@ layout: post
 slug: 10-kasimda-gozyasi
 status: publish
 title: 10 kasım’da gözyaşı…
-wordpress_id: '87'
+wordpressid: '87'
 categories:
 - Hayat-Yaşam
 tags:

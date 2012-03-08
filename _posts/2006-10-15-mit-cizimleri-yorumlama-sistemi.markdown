@@ -4,7 +4,7 @@ layout: post
 slug: mit-cizimleri-yorumlama-sistemi
 status: publish
 title: MIT Çizimleri Yorumlama Sistemi
-wordpress_id: '71'
+wordpressid: '71'
 categories:
 - Bilişim
 - Sanat

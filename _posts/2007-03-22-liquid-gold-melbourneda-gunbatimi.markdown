@@ -4,7 +4,7 @@ layout: post
 slug: liquid-gold-melbourneda-gunbatimi
 status: publish
 title: Liquid Gold - Melbourne'da Günbatımı
-wordpress_id: '202'
+wordpressid: '202'
 categories:
 - Sanat
 tags:

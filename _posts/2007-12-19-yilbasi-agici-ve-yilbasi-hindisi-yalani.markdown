@@ -4,7 +4,7 @@ layout: post
 slug: yilbasi-agici-ve-yilbasi-hindisi-yalani
 status: publish
 title: Yılbaşı ağacı ve yılbaşı hindisi yalanı
-wordpress_id: '359'
+wordpressid: '359'
 categories:
 - Hayat-Yaşam
 tags:

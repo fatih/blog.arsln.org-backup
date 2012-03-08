@@ -4,7 +4,7 @@ layout: post
 slug: almanyada-yasam-zaman-kavrami
 status: publish
 title: Almanya'da yaşam - Zaman Kavramı
-wordpress_id: '303'
+wordpressid: '303'
 categories:
 - Hayat-Yaşam
 tags:

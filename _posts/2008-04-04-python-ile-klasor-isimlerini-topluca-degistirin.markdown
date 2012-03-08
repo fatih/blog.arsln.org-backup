@@ -4,7 +4,7 @@ layout: post
 slug: python-ile-klasor-isimlerini-topluca-degistirin
 status: publish
 title: Python ile klasör isimlerini topluca değiştirin
-wordpress_id: '407'
+wordpressid: '407'
 categories:
 - Gezegen
 - Programlama

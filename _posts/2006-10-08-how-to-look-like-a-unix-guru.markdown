@@ -4,7 +4,7 @@ layout: post
 slug: how-to-look-like-a-unix-guru
 status: publish
 title: How To Look Like A UNIX Guru
-wordpress_id: '67'
+wordpressid: '67'
 categories:
 - Linux
 tags:

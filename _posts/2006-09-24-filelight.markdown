@@ -4,7 +4,7 @@ layout: post
 slug: filelight
 status: publish
 title: Filelight
-wordpress_id: '57'
+wordpressid: '57'
 categories:
 - Linux
 tags:

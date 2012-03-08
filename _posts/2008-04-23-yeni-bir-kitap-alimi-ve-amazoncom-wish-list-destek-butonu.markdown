@@ -4,7 +4,7 @@ layout: post
 slug: yeni-bir-kitap-alimi-ve-amazoncom-wish-list-destek-butonu
 status: publish
 title: Yeni bir kitap alımı ve Amazon.com wish-list destek butonu
-wordpress_id: '418'
+wordpressid: '418'
 categories:
 - Blog
 - Gezegen

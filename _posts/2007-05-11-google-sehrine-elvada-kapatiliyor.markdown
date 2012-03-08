@@ -4,7 +4,7 @@ layout: post
 slug: google-sehrine-elvada-kapatiliyor
 status: publish
 title: Google Şehri'ne elvada- Kapatılıyor
-wordpress_id: '237'
+wordpressid: '237'
 categories:
 - Hayat-Yaşam
 tags:

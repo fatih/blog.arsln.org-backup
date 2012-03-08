@@ -4,7 +4,7 @@ layout: post
 slug: haziran-kacamagi
 status: publish
 title: 'Haziran kaçamağı '
-wordpress_id: '442'
+wordpressid: '442'
 categories:
 - Hayat-Yaşam
 ---

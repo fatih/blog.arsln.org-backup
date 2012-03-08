@@ -4,7 +4,7 @@ layout: post
 slug: stardict-sozlugu
 status: publish
 title: Stardict Sözlüğü
-wordpress_id: '64'
+wordpressid: '64'
 categories:
 - Linux
 tags:

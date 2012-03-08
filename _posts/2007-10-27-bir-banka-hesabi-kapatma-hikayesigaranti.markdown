@@ -4,7 +4,7 @@ layout: post
 slug: bir-banka-hesabi-kapatma-hikayesigaranti
 status: publish
 title: Bir banka hesabı kapatma hikayesi(Garanti)
-wordpress_id: '331'
+wordpressid: '331'
 categories:
 - Hayat-Yaşam
 tags:

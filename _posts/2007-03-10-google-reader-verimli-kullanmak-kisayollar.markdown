@@ -4,7 +4,7 @@ layout: post
 slug: google-reader-verimli-kullanmak-kisayollar
 status: publish
 title: Google Reader'i verimli kullanmak (kısayollar)
-wordpress_id: '192'
+wordpressid: '192'
 categories:
 - Bilişim
 - Gezegen

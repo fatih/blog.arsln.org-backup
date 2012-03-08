@@ -4,7 +4,7 @@ layout: post
 slug: bilim-bilim-diyenler-nerede
 status: publish
 title: Bilim bilim diyenler nerede ?
-wordpress_id: '69'
+wordpressid: '69'
 categories:
 - Hayat-Yaşam
 tags:

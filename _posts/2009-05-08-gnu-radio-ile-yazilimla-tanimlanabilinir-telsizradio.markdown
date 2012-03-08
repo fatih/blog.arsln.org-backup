@@ -4,7 +4,7 @@ layout: post
 slug: gnu-radio-ile-yazilimla-tanimlanabilinir-telsizradio
 status: publish
 title: Gnu-Radio ile yazılımla tanımlanabilinir telsiz(radio)
-wordpress_id: '637'
+wordpressid: '637'
 categories:
 - Gezegen
 tags:

@@ -4,7 +4,7 @@ layout: post
 slug: beytepe-ve-eymir-golunden-fotograflar
 status: publish
 title: Beytepe ve Eymir Gölünden Fotoğraflar
-wordpress_id: '162'
+wordpressid: '162'
 categories:
 - Hayat-Yaşam
 - Sanat

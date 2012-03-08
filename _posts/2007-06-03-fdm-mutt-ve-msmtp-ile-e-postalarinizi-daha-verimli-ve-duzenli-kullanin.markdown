@@ -4,7 +4,7 @@ layout: post
 slug: fdm-mutt-ve-msmtp-ile-e-postalarinizi-daha-verimli-ve-duzenli-kullanin
 status: publish
 title: Fdm, Mutt ve Msmtp ile e-postalarınızı daha verimli ve düzenli kullanın
-wordpress_id: '250'
+wordpressid: '250'
 categories:
 - Gezegen
 - Linux
@@ -73,8 +73,8 @@ match "^X-Spam-Status: Yes" in headers action "spam"
 
 ## Filtreler belirleniyor. Bir çok düzenleme yapılabiliyor. Son 4'ü mail-listeleri için
 
-match "^FROM:.*wordpress@blog.arsln\\.org" in headers action "arslanlarsehri"
-match "^FROM:.*wordpress@murekkep\\.org" or "^FROM:.*murekkep@murekkep\\.org" in headers action "murekkep"
+match "^FROM:.*wordpressid@blog.arsln\\.org" in headers action "arslanlarsehri"
+match "^FROM:.*wordpressid@murekkep\\.org" or "^FROM:.*murekkep@murekkep\\.org" in headers action "murekkep"
 
 match "^To:.*linux@liste.linux.org.tr" in headers action "linux"
 match "^To:.*linux-masaustu@liste.linux.org.tr" in headers action "linux-masaustu"

@@ -4,7 +4,7 @@ layout: post
 slug: reinvigoratede-dunya-haritasi-ozelligi
 status: publish
 title: Reinvigorate'de dünya haritasi özelliği
-wordpress_id: '189'
+wordpressid: '189'
 categories:
 - Bilişim
 tags:

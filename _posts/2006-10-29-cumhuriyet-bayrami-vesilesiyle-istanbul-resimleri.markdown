@@ -4,7 +4,7 @@ layout: post
 slug: cumhuriyet-bayrami-vesilesiyle-istanbul-resimleri
 status: publish
 title: Cumhuriyet Bayramı vesilesiyle İstanbul resimleri
-wordpress_id: '79'
+wordpressid: '79'
 categories:
 - Hayat-Yaşam
 tags:

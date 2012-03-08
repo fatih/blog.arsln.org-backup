@@ -4,7 +4,7 @@ layout: post
 slug: thunderbird-baglantilarin-firefox-ile-acilmasi
 status: publish
 title: Thunderbird bağlantıların Firefox ile açılması
-wordpress_id: '61'
+wordpressid: '61'
 categories:
 - Linux
 tags:

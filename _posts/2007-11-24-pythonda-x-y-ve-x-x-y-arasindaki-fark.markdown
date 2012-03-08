@@ -4,7 +4,7 @@ layout: post
 slug: pythonda-x-y-ve-x-x-y-arasindaki-fark
 status: publish
 title: Python'da X += Y ve X = X + Y arasındaki fark
-wordpress_id: '355'
+wordpressid: '355'
 categories:
 - Programlama
 tags:

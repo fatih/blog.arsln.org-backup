@@ -4,7 +4,7 @@ layout: post
 slug: google-appse-google-belgeler-dahil-olacak-mi
 status: publish
 title: Google Apps'e Google Belgeler dahil olacak mı?
-wordpress_id: '180'
+wordpressid: '180'
 categories:
 - Bilişim
 tags:

@@ -4,7 +4,7 @@ layout: post
 slug: siteni-engelleyecegim-demekle-bir-insani-bezdirmek-hos-bir-sey-degil
 status: publish
 title: Siteni engelleyeceğim demekle bir insanı bezdirmek hoş bir şey değil
-wordpress_id: '249'
+wordpressid: '249'
 categories:
 - Hayat-Yaşam
 tags:

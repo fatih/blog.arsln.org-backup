@@ -4,7 +4,7 @@ layout: post
 slug: dropbox-ile-kisisel-web-20-svn-hesabi
 status: publish
 title: Dropbox ile kişisel Web 2.0 Svn hesabı
-wordpress_id: '556'
+wordpressid: '556'
 categories:
 - Bilişim
 - Gezegen

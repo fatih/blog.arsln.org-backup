@@ -4,7 +4,7 @@ layout: post
 slug: buralardayim
 status: publish
 title: Buralardayım
-wordpress_id: '707'
+wordpressid: '707'
 categories:
 - Hayat-Yaşam
 ---

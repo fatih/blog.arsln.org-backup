@@ -4,7 +4,7 @@ layout: post
 slug: linuxda-zaman-ayarlamasi-ve-google-anasayfa-temasi
 status: publish
 title: Linux'da zaman ayarlaması ve Google anasayfa teması
-wordpress_id: '218'
+wordpressid: '218'
 categories:
 - Bilişim
 - Linux

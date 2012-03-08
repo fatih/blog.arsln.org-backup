@@ -4,7 +4,7 @@ layout: post
 slug: qt-uygulamalari-gnome-altinda-kullanilan-gtk-temalari-ile-butunlesiyor
 status: publish
 title: Qt uygulamaları Gnome altında kullanılan GTK+ temaları ile bütünleşiyor
-wordpress_id: '437'
+wordpressid: '437'
 categories:
 - Gezegen
 - Linux

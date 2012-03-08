@@ -4,7 +4,7 @@ layout: post
 slug: bitmez-bilmeyen-bir-yilan-hikayesi-3g
 status: publish
 title: 'Bitmez bilmeyen bir yılan hikayesi: 3G'
-wordpress_id: '314'
+wordpressid: '314'
 categories:
 - Bilişim
 - Gezegen

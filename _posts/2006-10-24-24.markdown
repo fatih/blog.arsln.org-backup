@@ -4,7 +4,7 @@ layout: post
 slug: '24'
 status: publish
 title: '24'
-wordpress_id: '75'
+wordpressid: '75'
 categories:
 - Sanat
 tags:

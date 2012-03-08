@@ -4,7 +4,7 @@ layout: post
 slug: heroes-ve-murekkeporg
 status: publish
 title: Heroes ve Murekkep.org
-wordpress_id: '76'
+wordpressid: '76'
 categories:
 - Bilişim
 - Sanat

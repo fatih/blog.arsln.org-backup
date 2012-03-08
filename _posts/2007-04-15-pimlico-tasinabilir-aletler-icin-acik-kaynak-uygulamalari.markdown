@@ -4,7 +4,7 @@ layout: post
 slug: pimlico-tasinabilir-aletler-icin-acik-kaynak-uygulamalari
 status: publish
 title: Pimlico - Taşınabilir aletler için açık kaynak uygulamaları
-wordpress_id: '221'
+wordpressid: '221'
 categories:
 - Gezegen
 - Linux

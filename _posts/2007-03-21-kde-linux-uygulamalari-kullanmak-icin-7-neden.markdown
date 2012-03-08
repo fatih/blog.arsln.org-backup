@@ -4,7 +4,7 @@ layout: post
 slug: kde-linux-uygulamalari-kullanmak-icin-7-neden
 status: publish
 title: 'Kde uygulamaları kullanmak için 7 neden '
-wordpress_id: '199'
+wordpressid: '199'
 categories:
 - Bilişim
 - Gezegen

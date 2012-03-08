@@ -4,7 +4,7 @@ layout: post
 slug: google-code-prettifier-kodlarinizi-sitenize-daha-guzel-yansitin
 status: publish
 title: Google Code Prettifier - Kodlarınızı sitenize daha güzel yansıtın
-wordpress_id: '204'
+wordpressid: '204'
 categories:
 - Bilişim
 - Gezegen

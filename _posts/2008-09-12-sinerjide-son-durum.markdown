@@ -4,7 +4,7 @@ layout: post
 slug: sinerjide-son-durum
 status: publish
 title: Sinerji'de son durum
-wordpress_id: '473'
+wordpressid: '473'
 categories:
 - Gezegen
 - Linux

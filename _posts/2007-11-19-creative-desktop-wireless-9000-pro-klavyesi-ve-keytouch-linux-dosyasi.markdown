@@ -4,7 +4,7 @@ layout: post
 slug: creative-desktop-wireless-9000-pro-klavyesi-ve-keytouch-linux-dosyasi
 status: publish
 title: Creative Desktop Wireless 9000 Pro Klavyesi ve Keytouch dosyası
-wordpress_id: '350'
+wordpressid: '350'
 categories:
 - Gezegen
 - Linux

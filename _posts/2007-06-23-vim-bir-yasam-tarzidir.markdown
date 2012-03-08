@@ -4,7 +4,7 @@ layout: post
 slug: vim-bir-yasam-tarzidir
 status: publish
 title: Vim bir yaşam tarzıdır
-wordpress_id: '263'
+wordpressid: '263'
 categories:
 - Gezegen
 - Linux

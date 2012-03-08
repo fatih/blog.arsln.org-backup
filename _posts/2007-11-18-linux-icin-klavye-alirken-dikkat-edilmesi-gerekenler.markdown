@@ -4,7 +4,7 @@ layout: post
 slug: linux-icin-klavye-alirken-dikkat-edilmesi-gerekenler
 status: publish
 title: Linux için klavye alırken dikkat edilmesi gerekenler
-wordpress_id: '348'
+wordpressid: '348'
 categories:
 - Gezegen
 - Linux

@@ -4,7 +4,7 @@ layout: post
 slug: turk-japon-vakfi-ve-japonca
 status: publish
 title: Türk Japon Vakfı ve Japonca
-wordpress_id: '317'
+wordpressid: '317'
 categories:
 - Hayat-Yaşam
 tags:

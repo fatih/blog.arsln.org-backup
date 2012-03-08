@@ -4,7 +4,7 @@ layout: post
 slug: linus-ve-gnome-tartismasi-yine-alevlendi
 status: publish
 title: Linus ve Gnome tartışması yine alevlendi
-wordpress_id: '177'
+wordpressid: '177'
 categories:
 - Gezegen
 - Linux

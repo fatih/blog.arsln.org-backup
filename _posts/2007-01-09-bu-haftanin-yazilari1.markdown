@@ -4,7 +4,7 @@ layout: post
 slug: bu-haftanin-yazilari1
 status: publish
 title: Bu haftanın yazıları - 1
-wordpress_id: '103'
+wordpressid: '103'
 categories:
 - Okuduklarım
 tags:

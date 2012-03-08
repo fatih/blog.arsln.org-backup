@@ -4,7 +4,7 @@ layout: post
 slug: windows-altindan-tek-tiklama-ile-linux-yukleyin
 status: publish
 title: Windows altından tek tıklama ile Linux yükleyin
-wordpress_id: '160'
+wordpressid: '160'
 categories:
 - Bilişim
 - Linux

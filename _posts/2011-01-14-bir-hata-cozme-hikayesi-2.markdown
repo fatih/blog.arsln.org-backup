@@ -4,7 +4,7 @@ layout: post
 slug: bir-hata-cozme-hikayesi-2
 status: publish
 title: Bir hata çözme hikayesi - 2
-wordpress_id: '902'
+wordpressid: '902'
 categories:
 - Gezegen
 - Linux

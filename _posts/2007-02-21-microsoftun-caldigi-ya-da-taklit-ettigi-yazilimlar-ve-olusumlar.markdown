@@ -4,7 +4,7 @@ layout: post
 slug: microsoftun-caldigi-ya-da-taklit-ettigi-yazilimlar-ve-olusumlar
 status: publish
 title: Microsoft'un çaldığı ya da taklit ettiği yazılımlar ve oluşumlar
-wordpress_id: '178'
+wordpressid: '178'
 categories:
 - Bilişim
 - Gezegen
