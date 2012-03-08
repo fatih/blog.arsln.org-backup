@@ -32,7 +32,7 @@ Ofiste sürüm telaşı var. Haftaya çıkacak olan 2011 için herkes harıl har
 
 Pardus 2011'de bazı ekran koruyucuları çalışmıyor. Tıkladığınızda siyah bir ekran çıkıyor. Yani çalışmıyor. Bununla ilgili bir hata kaydı girilmiş  ([Bug 15578 - Ekran koruyucuların bazıları çalışmıyor](  http://bugs.pardus.org.tr/show_bug.cgi?id=15578) ). Aşağıdaki resimde görebileceğiniz gibi ilk bölümdeki "**Değişen Çizgile**r" adındaki ekran koruyucu siyah bir şekilde gözüküyor
 
-[![](http://blog.arsln.org/wp-content/uploads/ekran-görüntüsü8-e1295012525930.png)](http://blog.arsln.org/wp-content/uploads/ekran-görüntüsü8.png)
+[![](http://arsln.org/wp-content/uploads/ekran-görüntüsü8-e1295012525930.png)](http://arsln.org/wp-content/uploads/ekran-görüntüsü8.png)
 
 
 
@@ -161,19 +161,19 @@ Konsolda dünyanın en iyi metin düzenleyicisi olan [Vim'i](http://vim.org) aç
 `
 
 yazarak iki tane temiz pencere açalım 
-[![](http://blog.arsln.org/wp-content/uploads/ekran-görüntüsü1-e1295012619421.png)](http://blog.arsln.org/wp-content/uploads/ekran-görüntüsü1.png)
+[![](http://arsln.org/wp-content/uploads/ekran-görüntüsü1-e1295012619421.png)](http://arsln.org/wp-content/uploads/ekran-görüntüsü1.png)
 
 Ardından xscreensaver'den çıkan çalıştırabilinir dosyaları doğrudan vimin ilk penceresine yapıştıralım. Vim'de bash komutlarını doğrudan çağırıp, çıktılarını yapıştırabilirseniz. "**ex**" modunda şu komutu çalıştırmak yeterli
 `
 :r !pisi info xscreensaver -F |grep libexec
 `
-[![](http://blog.arsln.org/wp-content/uploads/ekran-görüntüsü2-e1295012654316.png)](http://blog.arsln.org/wp-content/uploads/ekran-görüntüsü2.png)
+[![](http://arsln.org/wp-content/uploads/ekran-görüntüsü2-e1295012654316.png)](http://arsln.org/wp-content/uploads/ekran-görüntüsü2.png)
 
 İkinci pencereye geçip (Ctrl-W, W) , bu sefer **/usr/share/kde4/services/ScreenSaver** içeriğini yapıştıralım. "**Ex**" modunda şu komutu çalıştırdım bu sefer:
 `
 :r !ls /usr/share/kde4/services/ScreenSavers/
 `
-[![](http://blog.arsln.org/wp-content/uploads/ekran-görüntüsü3-e1295012688204.png)](http://blog.arsln.org/wp-content/uploads/ekran-görüntüsü3.png)
+[![](http://arsln.org/wp-content/uploads/ekran-görüntüsü3-e1295012688204.png)](http://arsln.org/wp-content/uploads/ekran-görüntüsü3.png)
 
 Güzel olan ise desktop dosyalarını isimleri ile xscreensaver'den çıkan ekran koruyucu uygulamalarının ismi aynı. Tek yapmamız gereken bu isimleri karşılaştırmak. Fakat resimde de gördüğünüz gibi ilk pencerede her satırın başında dizin yolun adresleri mevcut. ikinci pencerede de dosyalar .desktop dosyası ile başlıyor.
 
@@ -200,7 +200,7 @@ Evet üç tane hamle ile bunu güzelce halledebiliriz. Bunları sırayla yaptık
 `
 
 çalıştırınca aşağıdaki sonucu elde ediyoruz:
-[![](http://blog.arsln.org/wp-content/uploads/ekran-görüntüsü4-e1295012727618.png)](http://blog.arsln.org/wp-content/uploads/ekran-görüntüsü4.png)
+[![](http://arsln.org/wp-content/uploads/ekran-görüntüsü4-e1295012727618.png)](http://arsln.org/wp-content/uploads/ekran-görüntüsü4.png)
 
 İkinci pencere için ise yine bir macro oluşturuyoruz. Her satır için yapmamız gerekenler ise
 
@@ -220,13 +220,13 @@ Evet üç tane hamle ile bunu güzelce halledebiliriz. Bunları sırayla yaptık
 
 
 :%norm! @a çalıştırınca aşağıdaki sonucu elde ediyoruz:
-[![](http://blog.arsln.org/wp-content/uploads/ekran-görüntüsü5-e1295012764297.png)](http://blog.arsln.org/wp-content/uploads/ekran-görüntüsü5.png)
+[![](http://arsln.org/wp-content/uploads/ekran-görüntüsü5-e1295012764297.png)](http://arsln.org/wp-content/uploads/ekran-görüntüsü5.png)
 
 Evet şimdi yan yana iki tane liste elde ettik. Bunları kaydedip vimdiff ile açabilirdik. Ki genelikle öyle yapılır. Fakat bu şekilde iki tane pencere açıkken de diff komutunu kullanabilrsiniz. Yapmamız gereken "**ex**" modunda şu satırı yazmak:
 `
 :windo diffthis
 `
-[![](http://blog.arsln.org/wp-content/uploads/ekran-görüntüsü6-e1295012790309.png)](http://blog.arsln.org/wp-content/uploads/ekran-görüntüsü6.png)
+[![](http://arsln.org/wp-content/uploads/ekran-görüntüsü6-e1295012790309.png)](http://arsln.org/wp-content/uploads/ekran-görüntüsü6.png)
 
 Sol tarafta **xscreensaver** uygulamaları görülüyor. Sağ tarafta ise /**usr/share/kde4/services/ScreenSavers** altındaki desktop dosyaları. Buradan görüldüğü gibi desktop dosyalarında fazlalıklar var (yeşil olanlar). Yani var olan desktop dosyaları  var fakat ona karşılıklı gelen xscreensaver ekran koruyucuları mevcut değil. Hata'da buradan kaynaklanıyor.Bazıları çalışmıyorsa, sistemde kurulmadığı anlamına geliyor. Peki sistemde kurulu olmayan bir ekran koruyucu için neden bu dosyalar oluşuyor ?  Bu dosyalar nerden geliyor o zaman ?
 
@@ -359,9 +359,9 @@ the search **will not be repeated unless the variable is cleared**.
 Yani file_find komutu ilk bulduğu değeri belleğe atıp kaydediyor. Ondan sonraki değerleri hiçe sayıyor. Bellekteki değeri silmemiz bekliyor."**unset**" komutu ile işte bu değişkeni bellekten siliyor tam olarak. Paketi yamalayarak sisteme kurduktan sonra aşağıda "**Ekran Koruyucu**"yu açtığımda gördüğünüz gibi "**Değişen Çizgiler**" ekran koruyucusunun yok olduğunu görürsünüz:
 
 
-[![](http://blog.arsln.org/wp-content/uploads/ekran-görüntüsü9-e1295012824972.png)](http://blog.arsln.org/wp-content/uploads/ekran-görüntüsü9.png)
+[![](http://arsln.org/wp-content/uploads/ekran-görüntüsü9-e1295012824972.png)](http://arsln.org/wp-content/uploads/ekran-görüntüsü9.png)
 
-Hepsi bu kadar. Yine [bir satırlık bir yama](http://svn.pardus.org.tr/pardus/2011/devel/desktop/kde/base/kdeartwork/files/fix_screensaver_install.patch) ama gördüğünüz gibi bir çok şeyi değiştiriyor. Bunun gibi yüzlerce hata çözüldüğünü, çok daha eksantrik olanların olduğundan bahsetmeye gerek yok herhalde. Bazıları gerçekten çok zaman alabiliyor. Örneğin benim yazdığım bir [diğer yazımdaki hata](http://blog.arsln.org/bir-hata-kovalamaca-hikayesi/) 2-3 günümü alırken, bu hata 2 saatimi almıştı. Biraz da o anki ruh halin de etkisi olabiliyor herhalde. 
+Hepsi bu kadar. Yine [bir satırlık bir yama](http://svn.pardus.org.tr/pardus/2011/devel/desktop/kde/base/kdeartwork/files/fix_screensaver_install.patch) ama gördüğünüz gibi bir çok şeyi değiştiriyor. Bunun gibi yüzlerce hata çözüldüğünü, çok daha eksantrik olanların olduğundan bahsetmeye gerek yok herhalde. Bazıları gerçekten çok zaman alabiliyor. Örneğin benim yazdığım bir [diğer yazımdaki hata](http://arsln.org/bir-hata-kovalamaca-hikayesi/) 2-3 günümü alırken, bu hata 2 saatimi almıştı. Biraz da o anki ruh halin de etkisi olabiliyor herhalde. 
 
 Bu arada yukarıda anlatıklarımın çoğu sesli düşünce. Hataya bakarken belki yüzlerce komut kullanıyorsunuz, vim macrolarını aslında çok hızlı bir şekilde yazıyorsunuz. Ben sadece adım adım neler yapıldığını ve nerelere gidebileceğini gösterdim yine. Vim ile yaptığım düzenlemelerde biraz ayrıntıya girdim biliyorum, fakat onu da macro ve iki dosya arasındaki karşılaştırma olayların sıkça yapıldığından biraz ipucu şekilde olsun dedim.Sorularınız varsa daha detaylı anlatabilirim. 
 

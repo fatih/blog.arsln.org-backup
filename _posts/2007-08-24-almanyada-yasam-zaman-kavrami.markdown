@@ -18,7 +18,7 @@ Aslında bu girdiyi yazmak için buraya gelmeme gerek yoktu fakat burada olmamı
 
 Buradaki yani Almanyadaki insanlar **zaman'a** çok değer verir. Zaman onlar için çok önemlidir. Herşey planlıdır, ve her şey zamanına göre yapılmalıdır. Yollardaki hız levhaları da bunun için planlanmıştır. 30 yazıyorsa, 30'dan fazla kimse gitmez. Örneğin 30'luk bir yerde 50 ile giden araba hiç görmedim bir haftadır(1 haftadır takip ediyorum araba sürerken). Neden derseniz, çünkü insanların 50 ile gitmeye ihtiyaçları yok da ondan. 30 ile gittiği zaman zaten herşeyi yapıyor, çünkü hayatı ona göre planlı. Hem insanların hayatlarını da tehlikeye atmıyor daha hızlı sürerek. Huzurlu bu yüzden, huzurunu bozmuyor. Herkes öyle. Sokaktaki insanlara bakın, gelen gidenlere herkes bir şekilde planlı olarak gidiyor. Durulması yerde duruyor, hızlanması yerde hızlanıyor. 
 
-![3002669_9314cb8eb9.jpg](http://blog.arsln.org/image/3002669_9314cb8eb9.jpg)
+![3002669_9314cb8eb9.jpg](http://arsln.org/image/3002669_9314cb8eb9.jpg)
 
 Ankara'da en çok şikayet ettiğim şey ulaşımdı. Metro metro diye bağırıyorlar, fakat buradaki sistemi bir görseniz ulaşımın ne demek istediğimi daha iyi anlayacaksınız. Evimin önümdeki otobüs her gün saat 7:32 de gelir. Kasaba olduğu için her saat gelir. 8:32'de, 9:32'de ... Ne 1 dk önce ne 1 dk sonra. Öyle planlamışlar. Bizler de ona göre planımız yapıyor,ona göre evden çıkabiliyoruz. Ona da göre de bugün ne yapacağımıza karar veriyoruz. Bu planlama sadece otobüsler'le ile bitmiyor, aynı şekilde metro istasyonları da bu şekilde işliyor. İşten çıktınız örneğin saat 18.54'de metro istasyonun geldiğini bilirsiniz. Ona göre de ne yapmak gerektiğini bilirsiniz. 
 

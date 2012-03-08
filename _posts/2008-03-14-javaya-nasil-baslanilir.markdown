@@ -20,7 +20,7 @@ tags:
 - sun
 ---
 
-![java_logo.gif](http://blog.arsln.org/image/java_logo.gif)Geçen ki [Sun](http://tr.sun.com/) [seminerden](http://blog.arsln.org/sun-ve-google-seminerleri/) sonra [Java](http://www.java.com/tr/)'yı iyice merak etmeye başladım. İnternet'te biraz araştırdıktan sonra çat çut bir şeyler öğrendim. Daha önce C ve biraz Python ile aşinalığım vardı, fakat Java nasıl bir şey ? Derleyicisi nasıl çalışır ? Belirli bir IDE var mı? Bu gibi sorular kafamı meşgul etti. Kısaca benim gibi başlamak isteyenlere kısaca bir kaç şey anlatacağım. [Ubuntuforums](http://ubuntuforums.org/showpost.php?p=4504794&postcount=4)'da biri bunu güzel bir şekilde özetlemiş, onu kendimce çevirip sunuyorum:
+![java_logo.gif](http://arsln.org/image/java_logo.gif)Geçen ki [Sun](http://tr.sun.com/) [seminerden](http://arsln.org/sun-ve-google-seminerleri/) sonra [Java](http://www.java.com/tr/)'yı iyice merak etmeye başladım. İnternet'te biraz araştırdıktan sonra çat çut bir şeyler öğrendim. Daha önce C ve biraz Python ile aşinalığım vardı, fakat Java nasıl bir şey ? Derleyicisi nasıl çalışır ? Belirli bir IDE var mı? Bu gibi sorular kafamı meşgul etti. Kısaca benim gibi başlamak isteyenlere kısaca bir kaç şey anlatacağım. [Ubuntuforums](http://ubuntuforums.org/showpost.php?p=4504794&postcount=4)'da biri bunu güzel bir şekilde özetlemiş, onu kendimce çevirip sunuyorum:
 
 Üç tane genel [Java](http://www.java.com/tr/) API'si var, bunlar da şu şekilde:
 **

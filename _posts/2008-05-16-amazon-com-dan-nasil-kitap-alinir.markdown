@@ -29,7 +29,7 @@ Bildiğiniz gibi ülkemizde bazı kitapları almak mümkün değildir. Özellikl
 
 
 
-![](http://blog.arsln.org/image/amazon1.png)
+![](http://arsln.org/image/amazon1.png)
 
 
 
@@ -38,7 +38,7 @@ Ardından görüntü'deki gibi kitap listesi gelecek karşınıza. Size uygun ol
 
 
 
-![](http://blog.arsln.org/image/amazon2.png)
+![](http://arsln.org/image/amazon2.png)
 
 
 
@@ -46,7 +46,7 @@ Gördüğünüz gibi kitabın kendi sayfasına geldik. Burada kitaba daha detayl
 
 
 
-![](http://blog.arsln.org/image/amazon3.png)
+![](http://arsln.org/image/amazon3.png)
 
 
 
@@ -54,7 +54,7 @@ Burada alışveriş sepetine eklediğiniz kitabı görüyorsunuz sağ tarafta. E
 
 
 
-![](http://blog.arsln.org/image/amazon4.png)
+![](http://arsln.org/image/amazon4.png)
 
 
 
@@ -62,7 +62,7 @@ Giriş yapmanızı isteyecek, eğer hala üye değilseniz üye olabilirsiniz.
 
 
 
-![](http://blog.arsln.org/image/amazon5.png)
+![](http://arsln.org/image/amazon5.png)
 
 
 
@@ -70,7 +70,7 @@ Giriş yaptıktan sonra adres girmenizi isteyecek. Yukarıdaki örnekte gördü�
 
 
 
-![](http://blog.arsln.org/image/amazon6.png)
+![](http://arsln.org/image/amazon6.png)
 
 
 
@@ -105,7 +105,7 @@ Karar sizin :)
 
 
 
-![](http://blog.arsln.org/image/amazon7.png)
+![](http://arsln.org/image/amazon7.png)
 
 
 

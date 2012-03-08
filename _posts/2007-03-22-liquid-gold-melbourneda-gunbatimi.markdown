@@ -16,6 +16,6 @@ tags:
 
 Melbourne'da bir günbatımı. Şu ana dek gördüğüm en güzel günbatımı fotoğraflarından biri. 
 
-![Günbatımı Melbourne](http://blog.arsln.org/image/gunmelbourne1.jpg)
+![Günbatımı Melbourne](http://arsln.org/image/gunmelbourne1.jpg)
 
 (Fotoğraf: [Liquid Gold](http://www.flickr.com/photos/23342185@N00/427951085/) - [Dale73](http://www.flickr.com/photos/23342185@N00/))

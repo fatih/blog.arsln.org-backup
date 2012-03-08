@@ -12,7 +12,7 @@ tags:
 - apple iphone
 ---
 
-![Apple iphone](http://blog.arsln.org/image/appleiphoneel.jpg)2-3 Hafta önce **Apple iPhone** görücüye çıkmıştı. Özellikleri ve tasarımı herkes tarafından beğenildi. Herkesin ağızı açık kaldı başka bir deyişle. Çünkü cidden sunduğu özellikler şu anki hiç bir cep telefonunda yoktu. Hemen hemen hiç biri yoktu. Tam o gazla beraber öyle havalara girdi ki iPhone, sanki dünyada ondan başka mükemmel cep telefonu yok. Aslında iyice dikkat edilirse bir çok eksikliğinin olduğunu göreceksiniz. [Alman Eniak blogu](http://eniak.info/2007/02/09/das-iphone-unter-der-lupe/) bu eksiklerin çoğunu listelemiş. Sırayla şu şekilde
+![Apple iphone](http://arsln.org/image/appleiphoneel.jpg)2-3 Hafta önce **Apple iPhone** görücüye çıkmıştı. Özellikleri ve tasarımı herkes tarafından beğenildi. Herkesin ağızı açık kaldı başka bir deyişle. Çünkü cidden sunduğu özellikler şu anki hiç bir cep telefonunda yoktu. Hemen hemen hiç biri yoktu. Tam o gazla beraber öyle havalara girdi ki iPhone, sanki dünyada ondan başka mükemmel cep telefonu yok. Aslında iyice dikkat edilirse bir çok eksikliğinin olduğunu göreceksiniz. [Alman Eniak blogu](http://eniak.info/2007/02/09/das-iphone-unter-der-lupe/) bu eksiklerin çoğunu listelemiş. Sırayla şu şekilde
 
 
 

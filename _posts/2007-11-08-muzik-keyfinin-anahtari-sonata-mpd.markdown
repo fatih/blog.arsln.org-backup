@@ -24,7 +24,7 @@ Hal böyle olunca her iki bilgisayarı da düzenledim. P4'de [Archlinux](http://
 
 Müzik konusuna gelince Amarok kurarark tüm Kde kütüphaneleri kuracağıma, [Mpd](http://www.musicpd.org/) kurayım, üstüne de güzel bir istemci kurayım çok daha nefis olur dedim. Hem mpd daemon olarak çalıştığı için bizim evdeki gibi 2-3 bilgisayarla ağlarda herkes müzik arşivinden yararlanabiliyor. Tek yapmamıza [Mpd](http://www.musicpd.org/)'ye bağlanmak. Mpd için bir de Grafik bir arayüz kurdum. Onun da adı [Sonata](http://sonata.berlios.de/), 
 
-![sonata1.png](http://blog.arsln.org/image/sonata1.png)
+![sonata1.png](http://arsln.org/image/sonata1.png)
 
 Pygmy'den fork edilmiş sade ve güzel bir uyguluma. Kısaca özellikleri şu şekilde:
 
@@ -87,7 +87,7 @@ Tek yapmanız gereken Mpd'yi iyi bir şekilde kurmak. Bunun için uzun bir dök�
 
 Peki o kadar müzikçalar uygulaması varken, **neden Mpd ?** Mpd'nin bence en güzel yanı **daemon** olarak çalışmasıdır. Yani herhangi bir istemci'ye bağlı değil. Ben nasıl Sonata kullanıyorsam, dileyen başka bir program kurar. Hal böyle olunca eklentiler geliştirmek de çok kolay. Örneğin Xfce için panel'e yerleştirilebilen küçük bir eklenti var:
 
-![deneme.jpg](http://blog.arsln.org/image/deneme.jpg)
+![deneme.jpg](http://arsln.org/image/deneme.jpg)
 
 Onun dışında X'i durmadan kapatıyorsanız, yine arka planda Mpd çalışacaktır. Çünkü Mpd'e herhangi bir grafik istemciye bağlı değil.  Komut satırından Mpc gibi bir program, ya da Ncmpc gibi programlarla yönetebiliyorsunuz.
 Bu yüzden çoğu **geliştirici** için bulunmaz bir nimet.

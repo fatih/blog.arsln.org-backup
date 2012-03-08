@@ -16,7 +16,7 @@ tags:
 
 En iyi web rss okuyucularından biri olan [Google Reader](http://www.google.com/reader/view/)'i daha verimli kullanabilmek için bir çok yol var. Bu yazımda sunulan kısa yolları tanıtacağım. İlk başta bilmediğiniz için unutabilirsiniz fakat bu kısayolları sürekli kullanırsanız, hem unutmamış olursunuz hem de çok avantajlı olmuş olur. 
 
-![Google Reader](http://blog.arsln.org/image/googlereader1.jpg)
+![Google Reader](http://arsln.org/image/googlereader1.jpg)
 
 
 Kısa yollar sırayla şu şekilde:

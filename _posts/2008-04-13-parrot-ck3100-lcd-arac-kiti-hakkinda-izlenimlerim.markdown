@@ -20,7 +20,7 @@ tags:
 - telefon
 ---
 
-![CK3100 Parrot Araçkiti ](http://blog.arsln.org/image/ck3100_parrot1.jpg)Eski aracımızı sattıktan yaklaşık iki ay sonra yeni bir araç aldık. Alırken içine de servis tarafından bir de araç kiti taktırdık. Bu kadar farklı bir şey olduğunu bilmiyordum, uyduruk bir şey takarlar derken beni şaşırttılar ciddi anlamda. Gelelim ürüne.
+![CK3100 Parrot Araçkiti ](http://arsln.org/image/ck3100_parrot1.jpg)Eski aracımızı sattıktan yaklaşık iki ay sonra yeni bir araç aldık. Alırken içine de servis tarafından bir de araç kiti taktırdık. Bu kadar farklı bir şey olduğunu bilmiyordum, uyduruk bir şey takarlar derken beni şaşırttılar ciddi anlamda. Gelelim ürüne.
 
 En basit anlamıyla **Parrot CK3100** ile aracınızda kablosuz bir şekilde görüşme yapabilirsiniz. Son zamanlarda araç içinde telefon ile yapılan görüşmelerde cezalar gittikçe artıyor, ki başıma da geldi böyle bir olay. O yüzden son zamanlarda bu gibi ürünler artmış bulunmakta. **Parrot** ise madem kablosuz olacak o zaman iyi bir şekilde olsun diyerek bunu bir adım daha ileriye taşıyor. Özellikler gelince kısaca şu şekilde:
 
@@ -32,7 +32,7 @@ En basit anlamıyla **Parrot CK3100** ile aracınızda kablosuz bir şekilde gö
 
 
 	
-  2. Dahili olarak 1**50'ye yakın numarayı** içindeki hafızaya kayıt edebiliyorsunuz. [![](http://blog.arsln.org/image/parrot_ck_3100_ecran_lcd.jpg)](http://blog.arsln.org/image/parrot_ck_3100_ecran_lcd.jpg)Ayrıca ses tanıma özelliği ile çok havalı ve kullanışlı bir şekilde kullanabiliyorsunuz. Nasıl mı ? Örneğin aracınızın içinde sürerken, "_Telefon_" diye sesleniyorsunuz, "_Ahmet_" diye sesleniyorsunuz ve araç kiti otomatik olarak Ahmet'i arıyor. Hiç bir düğme'ye **basmanıza** gerek kalmıyor. Görüşmeniz bittiğinde "_Kapat_" diye sesleniyorsunuz ve Parrot görüşmeyi sonlandırıyor. Kullanınca sanki** Kara Şimşek(Knight Rider)** içinde oturuyorsunuz gibi geliyor. Çünkü aramalarda **Türkçe olarak seslendirmesi** de var. Ahmet aranıyor diyor mesela. Görüşme kapanıyor deniliyor mesela. Gerçekten sandığımdan başaralı çıktı bu araç kiti. 
+  2. Dahili olarak 1**50'ye yakın numarayı** içindeki hafızaya kayıt edebiliyorsunuz. [![](http://arsln.org/image/parrot_ck_3100_ecran_lcd.jpg)](http://arsln.org/image/parrot_ck_3100_ecran_lcd.jpg)Ayrıca ses tanıma özelliği ile çok havalı ve kullanışlı bir şekilde kullanabiliyorsunuz. Nasıl mı ? Örneğin aracınızın içinde sürerken, "_Telefon_" diye sesleniyorsunuz, "_Ahmet_" diye sesleniyorsunuz ve araç kiti otomatik olarak Ahmet'i arıyor. Hiç bir düğme'ye **basmanıza** gerek kalmıyor. Görüşmeniz bittiğinde "_Kapat_" diye sesleniyorsunuz ve Parrot görüşmeyi sonlandırıyor. Kullanınca sanki** Kara Şimşek(Knight Rider)** içinde oturuyorsunuz gibi geliyor. Çünkü aramalarda **Türkçe olarak seslendirmesi** de var. Ahmet aranıyor diyor mesela. Görüşme kapanıyor deniliyor mesela. Gerçekten sandığımdan başaralı çıktı bu araç kiti. 
 
 
 
@@ -52,7 +52,7 @@ Bunların dışında araç içinde müzik dinlerken anında arama geldiğinde **
 
  
 
-![](http://blog.arsln.org/image/parrot-arac.jpg)Genel olarak gördüğünüz gibi gayet başaralı bir ürün. Hem tasarım açısından hem de kullana birlik açısından sizi hüsrana uğratmayacaktır. İçinden çıkan mikrofonu bizde sürücünün güneşlik kısmının sağ kısmına yerleştirmişler. CK3100 ekran ünitesini ise ön konsolda yerini alıyor. Fakat bunu dilediğince istediğiniz yerle yerleştirebiliyorsunuz.  Fiyat konusuna gelirsek, biz arabayı aldığımızda kendileri taktıkları için bilmiyorum, fakat küçük bir araştırma yaptım ve Gittigidiyor'da **400Ytl** gibi, Hepisburada.com'da ise **360 ytl** gibi bir fiyata alınabiliniyor. Ayrıca Renkli veya dahili GPS'i olan ürünleri de var. Bunların fiyatı biraz daha fazla. 
+![](http://arsln.org/image/parrot-arac.jpg)Genel olarak gördüğünüz gibi gayet başaralı bir ürün. Hem tasarım açısından hem de kullana birlik açısından sizi hüsrana uğratmayacaktır. İçinden çıkan mikrofonu bizde sürücünün güneşlik kısmının sağ kısmına yerleştirmişler. CK3100 ekran ünitesini ise ön konsolda yerini alıyor. Fakat bunu dilediğince istediğiniz yerle yerleştirebiliyorsunuz.  Fiyat konusuna gelirsek, biz arabayı aldığımızda kendileri taktıkları için bilmiyorum, fakat küçük bir araştırma yaptım ve Gittigidiyor'da **400Ytl** gibi, Hepisburada.com'da ise **360 ytl** gibi bir fiyata alınabiliniyor. Ayrıca Renkli veya dahili GPS'i olan ürünleri de var. Bunların fiyatı biraz daha fazla. 
 
 Parrot ve ürünleri hakkında daha fazla bilgiyi [parrot.com.tr](http://www.parrot.com.tr) adresinde bulabilirsiniz. Fakat şimdiden diyeyim, siteyi her kim çevirdiyse yüzlerce hata bulunuyor. Türkçe seçtiğiniz halde çoğu kelimeler İngilizce. Bu yönden eksiklikleri var. 
 

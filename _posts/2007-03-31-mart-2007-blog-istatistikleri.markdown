@@ -24,7 +24,7 @@ Toplam Sayfa görüntülemesi: **5,437**
 Toplam Ziyaretci sayısı : **2,874** 
 
 Sayfa Görüntülemesi(1) - Ziyaretci sayısı(2)
-![Reinvigorate Arslanlar Şehri](http://blog.arsln.org/image/450rein.jpg)
+![Reinvigorate Arslanlar Şehri](http://arsln.org/image/450rein.jpg)
 
 
 En hararetli günler ise **21, 24** ve **26** Mart yaşandı. 21 Mart'da toplam **311** tane sayfa görünümü yapıldı ve **213** tane ziyaretci geldi. Ziyaretcilerin yüzde **94**'ü Türkiye'den geliyor. Geri kalanları ise sırayla **Amerika, Almanya, Hollanda, Belçika**'dan geliyor. En çok kullanılan tarayıcı ise %51,19 ile **İnternet Explorer**, ardından ise % 42,38 ile **Firefox** geliyor. Burada kullanıcıların çoğunluğu Türkiye'den gelmesine rağmen, Firefox kullanma payının yüksek olduğunu görüyoruz.
@@ -35,51 +35,51 @@ Mart ayı içinde en çok okunan yazılar sırayla  şu şekilde:
 
 
 	
-  1. [Kde uygulamaları kullanmak için 7 neden ](http://blog.arsln.org/kde-linux-uygulamalari-kullanmak-icin-7-neden/)
+  1. [Kde uygulamaları kullanmak için 7 neden ](http://arsln.org/kde-linux-uygulamalari-kullanmak-icin-7-neden/)
 
 
 
 	
-  2. [Cem Adrian - Yağmur ](http://blog.arsln.org/cem-adrian-yagmur/)
+  2. [Cem Adrian - Yağmur ](http://arsln.org/cem-adrian-yagmur/)
 
 
 	
   3. 
-[Linux altında Windows uygulamalarını çalıştırmak ](http://blog.arsln.org/linux-altinda-windows-uygulamalarini-calistirmak/)
+[Linux altında Windows uygulamalarını çalıştırmak ](http://arsln.org/linux-altinda-windows-uygulamalarini-calistirmak/)
 
 
 	
   4. 
-[Google Reader’i verimli kullanmak (kısayollar)](http://blog.arsln.org/google-reader-verimli-kullanmak-kisayollar/)
+[Google Reader’i verimli kullanmak (kısayollar)](http://arsln.org/google-reader-verimli-kullanmak-kisayollar/)
 
 
 
 	
-  5. [Twitter furyası, maksat Web 2.0 havasına uymak](http://blog.arsln.org/twitter-furyasi-maksat-web-20-havasina-uymak/)
+  5. [Twitter furyası, maksat Web 2.0 havasına uymak](http://arsln.org/twitter-furyasi-maksat-web-20-havasina-uymak/)
 
 
 
 	
-  6. [Her Moleskine’nin anlatacak bir hikayesi vardır ](http://blog.arsln.org/moleskine-her-moleskinenin-anlatacak-bir-hikayesi-vardir/)
+  6. [Her Moleskine’nin anlatacak bir hikayesi vardır ](http://arsln.org/moleskine-her-moleskinenin-anlatacak-bir-hikayesi-vardir/)
 
 
 
 	
-  7. [Reinvigorate’de dünya haritasi özelliği ](http://blog.arsln.org/reinvigoratede-dunya-haritasi-ozelligi/)
+  7. [Reinvigorate’de dünya haritasi özelliği ](http://arsln.org/reinvigoratede-dunya-haritasi-ozelligi/)
 
 
 	
   8. 
-[Google Code Prettifier - Kodlarınızı sitenize daha güzel yansıtın](http://blog.arsln.org/google-code-prettifier-kodlarinizi-sitenize-daha-guzel-yansitin/)
+[Google Code Prettifier - Kodlarınızı sitenize daha güzel yansıtın](http://arsln.org/google-code-prettifier-kodlarinizi-sitenize-daha-guzel-yansitin/)
 
  
 
 	
-  9. [Arslanlar Şehrinde Blog Temizlemesi ](http://blog.arsln.org/arslanlar-sehrinde-blog-temizlemesi/)
+  9. [Arslanlar Şehrinde Blog Temizlemesi ](http://arsln.org/arslanlar-sehrinde-blog-temizlemesi/)
 
 
 	
-  10. [Yasal Torrent siteleri , Açık kaynak dünyasının bizlere armağanı ](http://blog.arsln.org/yasal-bedava-ucretsiz-torrent-siteleri-acik-kaynak-dunyasinin-bizlere-armagani/)
+  10. [Yasal Torrent siteleri , Açık kaynak dünyasının bizlere armağanı ](http://arsln.org/yasal-bedava-ucretsiz-torrent-siteleri-acik-kaynak-dunyasinin-bizlere-armagani/)
 
 
 
@@ -94,43 +94,43 @@ Bildiğiniz gibi Simple Tag eklentisini kullanıyorum. Bu sayede tüm yazıları
 
 
 	
-  1. [Sagopa Kajmer](http://blog.arsln.org/etiket/sagopa-kajmer)
+  1. [Sagopa Kajmer](http://arsln.org/etiket/sagopa-kajmer)
 
 
 	
-  2. [İpucu](http://blog.arsln.org/etiket/ipucu)
+  2. [İpucu](http://arsln.org/etiket/ipucu)
 
 
 	
-  3. [Yazı](http://blog.arsln.org/etiket/yazı)
+  3. [Yazı](http://arsln.org/etiket/yazı)
 
 
 	
-  4. [Hayat](http://blog.arsln.org/etiket/hayat)
+  4. [Hayat](http://arsln.org/etiket/hayat)
 
 
 	
-  5. [Google](http://blog.arsln.org/etiket/google)
+  5. [Google](http://arsln.org/etiket/google)
 
 
 	
-  6. [Sanat](http://blog.arsln.org/etiket/sanat)
+  6. [Sanat](http://arsln.org/etiket/sanat)
 
 
 	
-  7. [İzlenim](http://blog.arsln.org/etiket/izlenim)
+  7. [İzlenim](http://arsln.org/etiket/izlenim)
 
 
 	
-  8. [Archlinux](http://blog.arsln.org/etiket/archlinux)
+  8. [Archlinux](http://arsln.org/etiket/archlinux)
 
 
 	
-  9. [Heroes](http://blog.arsln.org/etiket/heroes)
+  9. [Heroes](http://arsln.org/etiket/heroes)
 
 
 	
-  10. [Yağmur](http://blog.arsln.org/etiket/yağmur)
+  10. [Yağmur](http://arsln.org/etiket/yağmur)
 
 
 
@@ -138,7 +138,7 @@ Bildiğiniz gibi Simple Tag eklentisini kullanıyorum. Bu sayede tüm yazıları
 
 
 
-Mart ayında bu yazı ile beraber toplam [18 tane](http://blog.arsln.org/2007/03/) yazı yazmışsım. En çok yorum alan yazı ise [Kde](http://blog.arsln.org/kde-linux-uygulamalari-kullanmak-icin-7-neden/) yazısıydı. 
+Mart ayında bu yazı ile beraber toplam [18 tane](http://arsln.org/2007/03/) yazı yazmışsım. En çok yorum alan yazı ise [Kde](http://arsln.org/kde-linux-uygulamalari-kullanmak-icin-7-neden/) yazısıydı. 
 
 
 En çok ziyarteci gönderen siteler ise :
@@ -225,16 +225,16 @@ Bildiğiniz gibi blogumu kolayca Rss beslemesi ile takip edebilirsiniz. Feedburn
 
 
 	
-  * [Yasal Torrent siteleri , Açık kaynak dünyasının bizlere armağanı ](http://blog.arsln.org/yasal-bedava-ucretsiz-torrent-siteleri-acik-kaynak-dunyasinin-bizlere-armagani/)
+  * [Yasal Torrent siteleri , Açık kaynak dünyasının bizlere armağanı ](http://arsln.org/yasal-bedava-ucretsiz-torrent-siteleri-acik-kaynak-dunyasinin-bizlere-armagani/)
 
 
 
 	
-  * [Arslanlar Şehrinde Blog Temizlemesi ](http://blog.arsln.org/arslanlar-sehrinde-blog-temizlemesi/)
+  * [Arslanlar Şehrinde Blog Temizlemesi ](http://arsln.org/arslanlar-sehrinde-blog-temizlemesi/)
 
 
 	
-  * [Kde uygulamaları kullanmak için 7 neden ](http://blog.arsln.org/kde-linux-uygulamalari-kullanmak-icin-7-neden/)
+  * [Kde uygulamaları kullanmak için 7 neden ](http://arsln.org/kde-linux-uygulamalari-kullanmak-icin-7-neden/)
 
 
 
@@ -247,7 +247,7 @@ Bildiğiniz gibi blogumu kolayca Rss beslemesi ile takip edebilirsiniz. Feedburn
 Son **30** günde rss beslemesine üye olan kişi sayısı **20-24'den 48-52'e** yükseldi. Yani tam iki katına çıktı. Şubat ayındaki istatistiklere bakınca, ziyaretci sayısı ile doğru oğrantılı şekilde büyüyor. 
 
 
-![Feedburner Arslanlar Şehri](http://blog.arsln.org/image/450feed.jpg)
+![Feedburner Arslanlar Şehri](http://arsln.org/image/450feed.jpg)
 
 Genel olarak güzel bir ay geçtiğini diyebilirim. En çok aranan kelimenin **Cem Adrian Yağmur** olması, Halil arkadaşımın iyi olabilir, fakat benim pek hoşuma gitmedi. Ziyaretci sayısı bu anlamda yükselmiş, fakat benim ve yazılarımın genellikle Web, Açık Kaynak, Linux üzerine olduğu için ziyaretcilerin bu yazılara gelmesini yeğlerim. Buna rağmen Kde hakkında yazığım yazı ay içinde en çok okunan ve ziyaret edilen yazı olması da beni sevindirdi. Özellikle Gezegen'den gelen ziyaretciler çok oldu. Bundan sonra her 3 ay'da bir böyle bir istatistikler kesiti yapacağım. Okul ve iş-güç olmazsa her ay yapmak isterdim fakat böyle daha iyi. 
 

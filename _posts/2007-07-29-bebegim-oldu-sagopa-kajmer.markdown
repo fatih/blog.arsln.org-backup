@@ -13,7 +13,7 @@ tags:
 - sagopa kajmer
 ---
 
-![under_the_rain_by_machika010.jpg](http://blog.arsln.org/image/under_the_rain_by_machika010.jpg)2005 yılında çıkan **Romantizma** adlı albümün en güzel parçalarından biri. Sagopa Kajmer'in çoğu parçaları gibi bu parçanın da sözleri mükemmel ötesi. Seviyorum bu şarkıyı, tıpkı [diğer Sagopa Kajmer parçaları](http://blog.arsln.org/etiket/sagopa-kajmer) gibi. Buyrun sözler:
+![under_the_rain_by_machika010.jpg](http://arsln.org/image/under_the_rain_by_machika010.jpg)2005 yılında çıkan **Romantizma** adlı albümün en güzel parçalarından biri. Sagopa Kajmer'in çoğu parçaları gibi bu parçanın da sözleri mükemmel ötesi. Seviyorum bu şarkıyı, tıpkı [diğer Sagopa Kajmer parçaları](http://arsln.org/etiket/sagopa-kajmer) gibi. Buyrun sözler:
 
 
 

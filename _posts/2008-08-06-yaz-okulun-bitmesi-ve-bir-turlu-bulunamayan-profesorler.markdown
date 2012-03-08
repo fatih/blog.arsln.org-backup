@@ -16,4 +16,4 @@ Yaz okulunda matematik dersini tekrar almıştım ve vizelerden birinin sonucunu
 
 
 
-![](http://blog.arsln.org/image/okulprofphd.jpg)
+![](http://arsln.org/image/okulprofphd.jpg)

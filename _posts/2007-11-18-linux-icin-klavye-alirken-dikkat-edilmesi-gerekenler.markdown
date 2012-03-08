@@ -16,7 +16,7 @@ tags:
 - usb
 ---
 
-![keyboard.jpg](http://blog.arsln.org/image/keyboard.jpg)Eski yadigar **Microsoft Office** klaveyemi değiştirip onun yerine adam gibi tuşlarını basabileceğim bir klavye alacaktım(6 senelik klavye malum). Aynı zamanda da tıpkı şimdiki klavye'deki gibi bir kaç eksta tuşları da isteklerime göre ayarlamak istiyordum. Her neyse, yolum **Ankamall**'a düştü, ve en aşağıdaki **Bimeks** mağazasına gittim(yanındaki EP-teiler kapanmış). Klavye'lere şöyle bir bakıyordum ki gözüme bir tane A4Tech **F Klavye** düştü. Bir an için heveslendim ve aldım bunu. Hiç PS/2 mi Usb mi bakmadım. 
+![keyboard.jpg](http://arsln.org/image/keyboard.jpg)Eski yadigar **Microsoft Office** klaveyemi değiştirip onun yerine adam gibi tuşlarını basabileceğim bir klavye alacaktım(6 senelik klavye malum). Aynı zamanda da tıpkı şimdiki klavye'deki gibi bir kaç eksta tuşları da isteklerime göre ayarlamak istiyordum. Her neyse, yolum **Ankamall**'a düştü, ve en aşağıdaki **Bimeks** mağazasına gittim(yanındaki EP-teiler kapanmış). Klavye'lere şöyle bir bakıyordum ki gözüme bir tane A4Tech **F Klavye** düştü. Bir an için heveslendim ve aldım bunu. Hiç PS/2 mi Usb mi bakmadım. 
 
 Eve geldikten sonra baktım ki **PS/2 **çıktı, fakat Laptop'da sadece Usb girişi var. Bende P4'de(diğer bilgisayar) taktım ve öyle denedim. Tüm tuşları yerli yerinde çalışıyordu. Hepsini de **[Keytouch](http://keytouch.sourceforge.net/)** programı ile ayarlayabildim. Keytouch programı güzel bir arayüz sunuyor, benim çok hoşuma gitmişti. 
 

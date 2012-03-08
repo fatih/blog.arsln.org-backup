@@ -12,7 +12,7 @@ tags:
 - garanti
 ---
 
-![garanti.jpg](http://blog.arsln.org/image/garanti.jpg)Cuma günlerim boş olduğundan ve vize haftasının da yaklaşmasıyla beraber kendimi Ankara göbeğinde buldum iki gün önce. Yapmam gereken işler vardı, kitap almak gibi. Kitap almadan önce dedim ki uzun zamandır kapatmak isteyip de bir türlü zaman bulamadığım şu kapatma işini de halledeyim. Python kitabı almak için Garanti Bankasından vadesiz bir hesap açtırıp içine de biraz para koymuştum. Açtırırken birde mecburi 30 ytl'lik bir sigorta yapmışlardı zamanında. Bunu neden anlatıyorsun diyenlere, sonra değineceğim bu noktaya.
+![garanti.jpg](http://arsln.org/image/garanti.jpg)Cuma günlerim boş olduğundan ve vize haftasının da yaklaşmasıyla beraber kendimi Ankara göbeğinde buldum iki gün önce. Yapmam gereken işler vardı, kitap almak gibi. Kitap almadan önce dedim ki uzun zamandır kapatmak isteyip de bir türlü zaman bulamadığım şu kapatma işini de halledeyim. Python kitabı almak için Garanti Bankasından vadesiz bir hesap açtırıp içine de biraz para koymuştum. Açtırırken birde mecburi 30 ytl'lik bir sigorta yapmışlardı zamanında. Bunu neden anlatıyorsun diyenlere, sonra değineceğim bu noktaya.
 
 Kapatmak istedim çünkü bana pahalı geldi. Yani **30 ytl + 46 ytl yıllık** havaya harcamak istemedim. Ha karşılığında gündelik bir kullanımım olsa tamam derdim, çünkü Garanti'nin hizmetleri gerçekten çok güzel. Ona diyecek bir şeyim yok. Her neyse gelelim şu bizim kapatma olayına.
 

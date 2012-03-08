@@ -23,7 +23,7 @@ tags:
 
 Finaller bitti sonunda, ve bende üstümden kalkan bu yük sonucunda uzun zamandır kullanmadığım, ama kurup kullanmak istediğim bir çok uygulamayı tekrar kullanmaya karar verdim. Bunlardan biri de öncelerden kullandığım ve ondan bu yana onun gibi bir uygulama bulamadığım [Mutt](http://www.mutt.org)'dur. Mutt'u daha önce Exim4, Procmail ve Fetchmail ile kullanmıştım. Şimdilerde bir çok şey değişmiş. _(Resim: [LinuxBrit](http://linuxbrit.co.uk/mutt/))_
 
-![Mutt](http://blog.arsln.org/image/mutt_index2.png)
+![Mutt](http://arsln.org/image/mutt_index2.png)
 
 
 Fetchmail ve Procmail yerine [Fdm](http://fdm.sourceforge.net/) kullandım. Tek bir programla mailleri topluyorum ve filtreleyebiliyorum. İlk başta biraz uğraştırdı fakat Google sağolsun bir çok şeyi buldum. Mail yollamak için de [Msmtp](http://msmtp.sourceforge.net/) kullandım. Ufak bir yazılım ve kolayca kurdum. İşleyiş olarak fdm > mutt > msmtp şeklidnde gidiyor.  Ardından da dosyaları düzenleme başladım. Muttrc'ye ne kadar zaman ayırdığımı bilmiyorum, ama daha çok şey var yapmam gereken. Bu yüzden Mutt kullananlar muttrc'lerini paylaşabilirler çok sevinirim :)  
@@ -161,7 +161,7 @@ set signature="~/.signature"	## İmzanın yerini belirt
 
 my_hdr X-Operating-System: `uname -sr`
 my_hdr X-JabberID: sabutay@gmail.com
-my_hdr X-Homepage: http://blog.arsln.org
+my_hdr X-Homepage: http://arsln.org
 
 ### Aliaslar için
 

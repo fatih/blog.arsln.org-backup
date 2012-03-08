@@ -25,7 +25,7 @@ Bugzilla'ya girilen hataların çözüldüğüne şahit oluyorsunuz kimi zaman. 
 
 Tasma'da simge setini "**Siyah-Beyaz**" çevirmek istediğinizde Tasma çöküyor. Evet bu kadar basit. "Siyah-Beyaz" seti bir türlü seçilemiyor. Aşağıdaki gibi bir hata ile karşılaşıyoruz:
 
-[![](http://blog.arsln.org/wp-content/uploads/hata.png)](http://blog.arsln.org/wp-content/uploads/hata.png)
+[![](http://arsln.org/wp-content/uploads/hata.png)](http://arsln.org/wp-content/uploads/hata.png)
 
 "Geriye dönük izleme" sekmesine tıkladığımızda aşağıdaki hata kaydını görüyoruz:
 
@@ -87,7 +87,7 @@ gunzip -f -r scalable/
 
 Evet tüm dosyaları .svg formatına dönüştürdük. Şimdi Tasma'yı tekrar açıyoruz ve "Siyah-Beyaz simge setine tıklıyoruz. Evet, açıldı!
 
-[![](http://blog.arsln.org/wp-content/uploads/mono_icons.png)](http://blog.arsln.org/wp-content/uploads/mono_icons.png)
+[![](http://arsln.org/wp-content/uploads/mono_icons.png)](http://arsln.org/wp-content/uploads/mono_icons.png)
 
 
 Tasma çökmedi, ve güzel bir şekilde simge setimizi kullanabildiğimizi gördük. Demek svgz paketlerinde bir sorun var. Peki tam olarak nerede ?
@@ -154,7 +154,7 @@ Yani Zlib güncelleniyor ve yaklaşık 1.5 Hafta sonra hata kaydı açılıyor. 
 
 Gördüğünüz gibi 1.2.3 sürümünden 1.2.5 yükseltmişiz (Paket 2011 deposundan merge edildiği için tarih eskiyi gösteriyor, ona aldanmayın). Acaba 1.2.3 sürümünü tekrar kursak hata düzelir mi ? Bunu deniyorum elbette ve zlib sürümünü 1.2.3 sürümüne downgrade yapıyorum. Sonrasında Tasma'yı açıp simge setini değiştire tıklıyorum. 
 
-[![](http://blog.arsln.org/wp-content/uploads/mono_icons.png)](http://blog.arsln.org/wp-content/uploads/mono_icons.png)
+[![](http://arsln.org/wp-content/uploads/mono_icons.png)](http://arsln.org/wp-content/uploads/mono_icons.png)
 
 Evet! ikinci bir Voila! Paket çökmedi ve çalıştı. Bu ne demek peki ?
 
@@ -240,7 +240,7 @@ state->start = LSEEK(state->fd, 0, SEEK_CUR);
 
 Diff'e alışık gözler burada bir yer değişikliğini olduğunu görecekler. Ayrıca bir bir pointer adresi temizliyoruz. Bu kod parçasında ilginç olan ve bizim Tasma'yı çöktüren neden, bir kod parçasının yer değiştirmesinden kaynaklanıyor. Bu iki dosyayı yan yan koyup incelediğimizde ise şunları görüyoruz (resime tıklayarak büyütebilirsiniz)
 
-[![](http://blog.arsln.org/wp-content/uploads/vizlibg-300x200.jpg)](http://blog.arsln.org/wp-content/uploads/vizlibg.jpeg)
+[![](http://arsln.org/wp-content/uploads/vizlibg-300x200.jpg)](http://arsln.org/wp-content/uploads/vizlibg.jpeg)
 
 Sol tarafta 1.2.3.9 sürümü var, sağ tarafta ise 1.2.5 sürümü. Sol taraftaki sürümde Tasma çökmüyorken, sağ taraftaki sürümü kullanmaya başladığımzıda çökmeye başlıyor. Peki neden ? Burada zlib hakkında pek bilgim olmadığından geniş bir yorum yapamayacağım, fakat tahminen beklenen önce NULL değeri geri döndürdüğü için KSVGIconEngine bu geri döndürilen NULL ile bir şey yapamıyor. Bu konuda fikri olan varsa yorumlara yazarsa sevinirim : )
 

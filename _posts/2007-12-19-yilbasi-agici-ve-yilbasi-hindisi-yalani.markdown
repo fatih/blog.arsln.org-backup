@@ -17,7 +17,7 @@ tags:
 - yılbaşı hinisi
 ---
 
-![weinachtsbaum-4.jpg](http://blog.arsln.org/image/weinachtsbaum-4.jpg) Yıllardır aynı tas aynı hamam. Bu konuda gücenenler olursa şimdiden kusura bakmasınlar. İçim dolu çünkü. Her yıl, özellikle son zamanlarda alışveriş merkezlerine uğradıkca daha da çok tiksinmeye başlıyorum. Insanlar nasıl oluyor da bu kadar çabuk kanabiliyor. Çok çok merak ediyorum, bundan 20-30 sene önce bunlar var mıydı? Varsa nasıl bir biçimde. Belki de araştırıp sizlere sunabilirim ileride. Konuya dalmadan önce sizlere iki tane konuyu bir hatırlatmam gerekiyor:
+![weinachtsbaum-4.jpg](http://arsln.org/image/weinachtsbaum-4.jpg) Yıllardır aynı tas aynı hamam. Bu konuda gücenenler olursa şimdiden kusura bakmasınlar. İçim dolu çünkü. Her yıl, özellikle son zamanlarda alışveriş merkezlerine uğradıkca daha da çok tiksinmeye başlıyorum. Insanlar nasıl oluyor da bu kadar çabuk kanabiliyor. Çok çok merak ediyorum, bundan 20-30 sene önce bunlar var mıydı? Varsa nasıl bir biçimde. Belki de araştırıp sizlere sunabilirim ileride. Konuya dalmadan önce sizlere iki tane konuyu bir hatırlatmam gerekiyor:
 
 
 

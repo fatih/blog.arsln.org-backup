@@ -29,7 +29,7 @@ Bu yazdığımız kodları, [BeagleBoard](http://beagleboard.org/) üzerinde ça
 
 Aşağıda Amerika'dan TI tarafından kazandığımız kartı görebilirsiniz:
 
-[![](http://blog.arsln.org/wp-content/uploads/bb_3.jpg)](http://blog.arsln.org/wp-content/uploads/bb_3.jpg)
+[![](http://arsln.org/wp-content/uploads/bb_3.jpg)](http://arsln.org/wp-content/uploads/bb_3.jpg)
 
 Bir tanesini de Türkiye Resmi TI kanalı tarafından aldık. Her iki tarafa da teşekkür ediyorum. Bu cihazlar geldi gelmesine, fakat alırken  sadece kartın kendisi geliyor. Diğer tüm kabloları ve eşyaları siz almanız gerekiyor.
 
@@ -82,12 +82,12 @@ Bu liste'de şunlara dikkat edin.
 
 	
   * BB'nin üzerinde bir RS232 serial soketi var. Buradan bilgisayarınzıda RS232 girişi varsa doğrudan bağlayabilirsiniz. Onun için aşağıdaki resimdeki gibi bir kablo gerekiyor:
-[![BeagleBoard RS232 Seri Kablosu](http://blog.arsln.org/wp-content/uploads/bb_1.jpg)](http://blog.arsln.org/wp-content/uploads/bb_1.jpg)
+[![BeagleBoard RS232 Seri Kablosu](http://arsln.org/wp-content/uploads/bb_1.jpg)](http://arsln.org/wp-content/uploads/bb_1.jpg)
 Peki biz böyle bir şey bulabildik mi ? Evet, doğru bildiniz, bulamadık :) Biz de gittik kendimiz yaptık. Bunun için RS232 ve BB arasındaki [kablo düzeneğine](http://elinux.org/images/2/2c/Flyswatter-ti-uart.pdf) baktık, aşağıda düzeneği görebilirsiniz:
-[![](http://blog.arsln.org/wp-content/uploads/bb_2.png)](http://blog.arsln.org/wp-content/uploads/bb_2.png)
+[![](http://arsln.org/wp-content/uploads/bb_2.png)](http://arsln.org/wp-content/uploads/bb_2.png)
 Yaptığımız kablo da aşağıdaki fotoğraftan görülüyor. 10'lu soket bulamadığımızdan iki tane 3'lü aldık o şekilde yaptık. Bu şekilde yaparsanız sorun çıkmaz:
 
-[![](http://blog.arsln.org/wp-content/uploads/bb_4.jpg)](http://blog.arsln.org/wp-content/uploads/bb_4.jpg)
+[![](http://arsln.org/wp-content/uploads/bb_4.jpg)](http://arsln.org/wp-content/uploads/bb_4.jpg)
 
 Bunla uğraşamam diyorsanız, gidip** Usb to RS232** cihazı alabilirsiniz. USB üzerinden iletişim sağlayabilirsiniz. Fakat dikkat edin ki başı dişi olsun, yoksa bilgisayara takamazsınız bizimki gibi :)
 

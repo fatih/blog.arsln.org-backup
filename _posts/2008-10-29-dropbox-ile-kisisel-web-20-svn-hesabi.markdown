@@ -29,7 +29,7 @@ Ardından bu dosyalara birer symbolic link atayabilirsiniz, örneğin vim için:
 
 Şimdi bu ne demek bizim için, bundan sonra .vimrc'de yaptığınız tüm değişiklikler otomatik olarak Dropbox hesabınıza iletilecek. Bunun en güzel yanı ise **farklı bir bilgisayara **ya da **platforma** geçtiğinizde olacak. Başka bir dağıtıma geçtiğinize tek yapmanız gereken dropboxu kurmak, ve gereken bağlantıları oluşturmak. Vimrc her zaman sunucuda kalacak ve kaybolma gibi durumlarda yaşanmayacak(bana çok olmuştu). Bunun dışında sürüm kontrol sistemi olduğundan yaptığınız değişikleri her zaman geri getirebilirsiniz.
 
-![Dropbox](http://blog.arsln.org/wp-content/uploads/tour3b.png)
+![Dropbox](http://arsln.org/wp-content/uploads/tour3b.png)
 
 
 **Svn, git** tarzı sistemleri kullanan kullanıcılar zaten bu tarz sistemleri çok iyi biliyorlardır. Dropbox'un yaptığı ise bu sistemleri **Web 2.0** havası katarak son kullanıcıya sunmaktır. Gayet güzel de işliyor bence. Eksik yanları ise, kurulan dropbox daemon'un kapalı kaynak olması ve bilgilerinizin yabancı bir sunucuda saklanıyor olmasıdır. Bunları benim için sorun değil diyorsanız gayet keyifle kullanabileceğinzi bir servistir kendisi. Son olarak Dropbux'u kurmak için [forumlarındaki dropbox daemon paketini](http://forums.getdropbox.com/topic.php?id=4111&replies=50) home dizinine açıp, oradan _./dropbox-dist/dropboxd_ dosyasını çalıştırmak yeterlidir. İlla nautilus kullanmak gerekmiyor yani. 

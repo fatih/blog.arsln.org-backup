@@ -68,9 +68,9 @@ Bu yüzdendir ki, Eric Blossom, [USRP](http://www.ettus.com/) adında, SDR için
 
 USRP'nin açılımı "**Universal Software Radio Peripher**al"'dir. Bu genel amaçlı bir anakart. Üzerinde 4 tane yüksek hızlı analog-to-digital(ADC) çeviricileri, 4 tane digital-to-analog(DAC) çevirileri, bir tane FPGA ve bir kaç giriş ve çıkış girişleri var. GNU radio yazılımı doğrudan bu cihaz ile kolay bir şekilde iletişim kurabiliyor. Bu cihaz'a özel kütüphaneler var. O yüzden USRP ile SDR oluşturmak ve üzerinde çalışmak çok daha kolay. Tabi ki Gnu radio farklı platformlarda çalışacaktır, fakat USRP gibi özel bir donanım kadar performanslı ve efektif olmayacaktır. Aşağıda resimleri görebilirsiniz
 
-[![gnur_01](http://blog.arsln.org/wp-content/uploads/gnur_01.jpg)](http://blog.arsln.org/wp-content/uploads/gnur_01.jpg)
+[![gnur_01](http://arsln.org/wp-content/uploads/gnur_01.jpg)](http://arsln.org/wp-content/uploads/gnur_01.jpg)
 
-[![gnur_02](http://blog.arsln.org/wp-content/uploads/gnur_02.jpg)](http://blog.arsln.org/wp-content/uploads/gnur_02.jpg)
+[![gnur_02](http://arsln.org/wp-content/uploads/gnur_02.jpg)](http://arsln.org/wp-content/uploads/gnur_02.jpg)
 
 Anakartın üzerinde bir takım kardeş-anakartlar yerleştirmek mümkün (**bunlara daugtherboard deniliniyor**). Bu kardeş anakartların her biri farklı frekans aralıklarındaki frekansları almayı ve göndermeyi becerebiliyor. Her birinin farklı yani. O yüzden geliştireceğiniz proje'ye göre, kardeş anakartları da farklı olacaktır. Eğer cep telefon sinyalleri ile uğraşacaksanız, 900MHz-1800MHz aralığındaki bir kardeş anakartı almanız gerekebilecek. USRP'nin üzerinde 4 tane bu tarz giriş var, yani 4 tane farklı kardeş anakart üzerine kurabiliyorsunuz. Bu yüzden farklı frekanslarından alabilir ve gönderebilirsiniz. Yukarıdaki resimde 4 tane farklı anakartın yerleştirildiğini görebilirsiniz.
 

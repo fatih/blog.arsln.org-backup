@@ -13,7 +13,7 @@ tags:
 - lelia thomas
 ---
 
-![Free](http://blog.arsln.org/wp-content/uploads/2007/01/free450.jpg)
+![Free](http://arsln.org/wp-content/uploads/2007/01/free450.jpg)
 
 Fotoğraf  - [Lelia Thomas'dan Free](http://www.leliathomas.com/2007/01/23/free/). Resimin nasıl yapıldığını görmek istiyorsanız, [buraya](http://leliathomas.slide.com/p/2/Behind+the+Art_3A+Free?view=large) tıklayın. 
 

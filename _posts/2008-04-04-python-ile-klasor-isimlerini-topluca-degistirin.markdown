@@ -92,7 +92,7 @@ Betiği klasörleri değiştirmek istediğimiz klasörün içinde çalıştırma
 
 Betiği düzgün bir şekilde çalıştıdıktan sonra, sonuçlar da şu şekilde olacaktır:
 
-[![Python Betik](http://blog.arsln.org/image/degistir_python.jpg)](http://blog.arsln.org/image/degistir_python.jpg)
+[![Python Betik](http://arsln.org/image/degistir_python.jpg)](http://arsln.org/image/degistir_python.jpg)
 
 Ayrıca bu betik yazdığım ilk Python betiği özelliğini taşıyor. O yüzden ki bir sürü hata ya da gereksiz kod parçası olma olasılığı çoktur. Onun dışında Python ile cidden kısa zamanda güzel işler yapabilirsiniz, zaten kullandıkça yeni şeyler öğrenmemek elde değil. Bakalım zaman ne gösterecek inşallah zamanla çok daha farklı şeyler öğrenmiş oluruz. 
 

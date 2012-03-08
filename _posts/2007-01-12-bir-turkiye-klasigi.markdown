@@ -17,7 +17,7 @@ tags:
 
 Çalışanların verdiği cevap ise şu : "Haklısınız da, biz Ankara Büyükşehir Belediyesi olarak, sadece caddelere hizmet verebiliyoruz, sokaklara Çankaya Belediyesi bakıyor, bu yüzden karışmamız mümkün değildir", sonra oradaki bir yetkiliyi çağırdık ve ikna etmeye çalıştık, o da, buraya dökebileceğini söyledi, ama Çankaya Belediyesi ile araları olmadığından(Yıllardır Ankara Büyükşehir Belediyesi ile Çankaya Belediyesi arasında anlamadığım, anlam veremediğim bir tartışma var, birbirilerini çekemiyorlar) sokağa asfalt atarsam başım derde girer dedi. Şimdi diğer açıdan bakarsak, Ankara Büyükşehir Belediyesi gıcıklık olsun diye Çankaya Belediyesinin sokaklarını karışmıyordur bilerek. Ya da tam tersi işte.  
   
-![](http://blog.arsln.org/wp-content/uploads/2007/01/aafile.jpg)  
+![](http://arsln.org/wp-content/uploads/2007/01/aafile.jpg)  
   
 Her iki tarafa da hak veremiyorum, bu türkiye'nin bir hastalığı ne olsa. İnsanları karşı karşıya getirmek, insanları bir tarafı tutmaya zorlamak, ister istemez bu kavganın içine sürükleniyor. Aynı türban meselesi gibi. Yazacak daha çok şey var da, neyse ...  
   

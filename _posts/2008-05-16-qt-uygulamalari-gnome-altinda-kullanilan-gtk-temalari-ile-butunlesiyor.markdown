@@ -22,7 +22,7 @@ Bildiğiniz gibi Qt ile yazılmış uygulamaları çevrelerine göre adapte olab
 Fakat Gnome altında maalesef aynı bütünlük söz konusu değil. Kullananlar bilir. Böyle olunca Trolltech  "QGtkStyle" adında yeni bir [proje ortaya çıkardı.](http://labs.trolltech.com/blogs/2008/05/13/introducing-qgtkstyle/) Önceleri **QCleanlooks** ve bir kaç icon-temaları vardı, fakat şimdi bir adım ileriye gidiliyor ve kullanan Gtk+ temanın tamamı entegre oluyor. Peki böyle bir şey nasıl gözüküyor ?
 
 
-![](http://blog.arsln.org/image/textedit.png)
+![](http://arsln.org/image/textedit.png)
 
 
 Gördüğünüz gibi gerçekten mükemmel gözüküyor. Qt kullanmak için bir sebep daha(_bu arada Qt 4.4 sürümü için geçerli bu_). Proje üzerinde hala çalışılıyor, fakat denemek isteyenler Trolltech'in sayfasından [indirebilirler](http://labs.trolltech.com/page/Projects/Styles/GtkStyle). Ayrıca daha fazla bilgi ve ekran görüntüleri için [labs.trolltech.com'daki](http://labs.trolltech.com/blogs/2008/05/13/introducing-qgtkstyle/) habere de bakabilirsiniz.

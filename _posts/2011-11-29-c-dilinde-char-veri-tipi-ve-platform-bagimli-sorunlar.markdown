@@ -24,7 +24,7 @@ Bugün ofiste **getchar()**, **putchar()** fonksiyonları ile küçük ASCII den
 **"char"** veri tipi, C'nin **basit** veri tiplerinden sadece biridir. Diğerleri ise sırayla **int, float, double ve void**. Bu birincil veri tipleri de yine kendi aralarında bazı ön ekler alarak yeni veri tipleri oluşturuyorlar. Örneğin **long int, short int, unsigned long int**, vs.. gibi.
 Bu veri tiplerinin her birinin bellekte tuttukları miktar da farklıdır. Aşağıdaki tablo'da örneklerini görebilirsiniz (char ile ilgili kısım yanlış, önü göz ardı edebilirsiniz):
 
-[![C veri tipleri](http://blog.arsln.org/wp-content/uploads/data_types_c.jpg)](http://blog.arsln.org/wp-content/uploads/data_types_c.jpg)
+[![C veri tipleri](http://arsln.org/wp-content/uploads/data_types_c.jpg)](http://arsln.org/wp-content/uploads/data_types_c.jpg)
 
 Gördüğünüz gibi her veri tipinin büyüklüğü farklı olabiliyor. Ayrıca aldıkları önekler (_short ve long_) sayesinde bunları küçültüp veya büyütebilirsiniz. 
 

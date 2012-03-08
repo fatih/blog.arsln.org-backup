@@ -15,4 +15,4 @@ tags:
 
 Cumhuriyetimizin 84'üncü yılı hepimiz için kutlu olsun. Yurdun dört bir yanında herkes bu günü coşkuyla kutlayacaklrına eminim. Özellikle son doğu olaylarından sonra. Bu özel günü Google da has bir Logo(Doodle) ile süslemiş.
 
-![tr_republic07.gif](http://blog.arsln.org/image/tr_republic07.gif)
+![tr_republic07.gif](http://arsln.org/image/tr_republic07.gif)

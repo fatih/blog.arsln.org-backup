@@ -33,13 +33,13 @@ Geçenlerde hayatımda ilk defa küçük bir **devre projesi **üzerinde çalı�
 
 Devremiz iki tane Voltage-Divider devresinin birleştirmesi ile oluşuyor(Common-Emitter devresi de deniliyor). Kısaca taslak şu şekilde:
 
-![](http://blog.arsln.org/image/devresema1.jpg)
+![](http://arsln.org/image/devresema1.jpg)
 
 Biz ilk önce bu devrenin teorik hesaplamalarını yaptık. Yaparken **DC ve AC analizlerini** ayrı ayrı yapıp bunları birleştirdik. Her iki analiz şeklini bilmemiz lazım yoksa kazancın 10 olabilmesi için gerekli olan direnç bilgilerini bulmamız imkansızlaşıyor. Devrenin hesaplamalarını yaptıktan sonra bir de simülasyon yaptık. Simülasyonu **Proteus** adında bir programla yaptık ve sonuçlar da istediğimiz değerlere yakın çıktı. Aşağıdaki grafikte bir giriş için olan grafikleri görebiliyorsunuz.
 
 
 
-![](http://blog.arsln.org/image/grafikdevre1.jpg)
+![](http://arsln.org/image/grafikdevre1.jpg)
 
 
 
@@ -57,7 +57,7 @@ Bu malzemeleri Ankara'da alabileceğiniz bir yer var orası da** Ulus'daki Konya
 
 
 
-![](http://blog.arsln.org/image/boarddevre1.jpg)
+![](http://arsln.org/image/boarddevre1.jpg)
 
 
 

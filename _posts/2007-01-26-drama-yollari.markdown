@@ -14,7 +14,7 @@ tags:
 - sagopa kajmer
 ---
 
-![](http://blog.arsln.org/image/dramayollari200.jpg)
+![](http://arsln.org/image/dramayollari200.jpg)
 **Drama Yolları**
 _NAKARAT_
 

@@ -14,7 +14,7 @@ tags:
 ---
 
 Bir çoğumuz ekran görüntüleri çeker. Özellikle Linux camiasında kendi ekran görüntüsünü çekip, değişik siteler ya da arkadaşlarına gösteren çok oluyor. Mesela [Masaüstüm](http://masaustum.blogspot.com/) sitesi bunlardan biri. Düz 2 boyutlu ekran görüntülerinden sıkıldıysanız, aşağıdaki gibi bir ekran görüntüsüne ne dersiniz ?
-![Arslanlar Şehri - Ekran görüntüsü](http://blog.arsln.org/image/resim400ekran.jpg)
+![Arslanlar Şehri - Ekran görüntüsü](http://arsln.org/image/resim400ekran.jpg)
   
 
 Yapmanız gerekenler kolay. Bilgisayarınızda [Gimp](http://www.gimp.org/) yüklü ise sırayla şu adımları yapınız:
@@ -22,7 +22,7 @@ Yapmanız gerekenler kolay. Bilgisayarınızda [Gimp](http://www.gimp.org/) yük
 
 
 	
-  1. [Şuradaki](http://blog.arsln.org/dosya/ScreenshotWithStyle.scm) betiği indirdin
+  1. [Şuradaki](http://arsln.org/dosya/ScreenshotWithStyle.scm) betiği indirdin
 
 	
   2. ~/.gimp-2.2/scripts altına kayıt edin

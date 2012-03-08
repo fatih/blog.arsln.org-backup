@@ -22,7 +22,7 @@ tags:
 - picasa
 ---
 
-![Fotoğrafcı](http://blog.arsln.org/image/foto1.jpg)Almanya'da iken bir çok program kurup kullandım. [Canon G7](http://blog.arsln.org/canon-powershot-g7-hakkinda-fotograflar-ve-bilgiler/) ile kullanabileceğim ve benim yaklaşık **5000** tane fotoğrafım ile başa çıkabilecek bir program aramıştım. Aradım , yaklaşık 6-7 tane program buldum ve her birini denedim ve iyice kurcaladım. Piyasa'da çok program bulunmasına karşılık hepsi aynı sonuçu vermiyor. Çok iyi diye met edilen programların çoğu malesef vasat. Örneğin **F-spot** çok sevmeme rağmen 5000 tane fotoğraf ile başa çıkamıyor. Çok hantal ve yavaş, sistemi çok kasıyor. Onun dışında ise **Digikam** ise tipik Kde hastalığına yakalanmış, gereksiz gerekli her yerde buton var. Bunlar gibi her programın kesinlikle bir eksikliği var malesef. Gelelim bu programlara:
+![Fotoğrafcı](http://arsln.org/image/foto1.jpg)Almanya'da iken bir çok program kurup kullandım. [Canon G7](http://arsln.org/canon-powershot-g7-hakkinda-fotograflar-ve-bilgiler/) ile kullanabileceğim ve benim yaklaşık **5000** tane fotoğrafım ile başa çıkabilecek bir program aramıştım. Aradım , yaklaşık 6-7 tane program buldum ve her birini denedim ve iyice kurcaladım. Piyasa'da çok program bulunmasına karşılık hepsi aynı sonuçu vermiyor. Çok iyi diye met edilen programların çoğu malesef vasat. Örneğin **F-spot** çok sevmeme rağmen 5000 tane fotoğraf ile başa çıkamıyor. Çok hantal ve yavaş, sistemi çok kasıyor. Onun dışında ise **Digikam** ise tipik Kde hastalığına yakalanmış, gereksiz gerekli her yerde buton var. Bunlar gibi her programın kesinlikle bir eksikliği var malesef. Gelelim bu programlara:
 	
 
 

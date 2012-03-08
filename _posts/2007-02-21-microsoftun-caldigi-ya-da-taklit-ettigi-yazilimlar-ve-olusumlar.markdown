@@ -16,7 +16,7 @@ tags:
 - zune
 ---
 
-![Microsoft](http://blog.arsln.org/image/microsoftp.jpg)Microsft'un tekelci zihniyetini hiç sevmediğimi biliyorsunuzdur. Zaten 3 senedir de ellimi sürmüyorum, çok da mutluyum. İnsanları aptal yerine koymağı çok severler zaten. Ben de şöyle bir düşündüm, son zamanlarda **Drm, Vista** derken bu adamlar ne yaptı da buralara kadar geldiler diye. Kendime soramadan edemedim. 
+![Microsoft](http://arsln.org/image/microsoftp.jpg)Microsft'un tekelci zihniyetini hiç sevmediğimi biliyorsunuzdur. Zaten 3 senedir de ellimi sürmüyorum, çok da mutluyum. İnsanları aptal yerine koymağı çok severler zaten. Ben de şöyle bir düşündüm, son zamanlarda **Drm, Vista** derken bu adamlar ne yaptı da buralara kadar geldiler diye. Kendime soramadan edemedim. 
 
 Çünkü Microsoft benim bildiğim kadarıyla şu ana kadar kendi başına güzelce bir iş yapamamıştır. Beceremiyor herhalde. Başkalarının yaptıklarına el koyuyor, ya onları satın alıyor, ya da onlardan çalıyor sonra da çalmadım diyor. Fakat ticari bir zeka'ya sahip oldukları belli. Zaten bu seviyeye gelmelerindeki en büyük faktör de bu şekilde düşünmeleri.
 

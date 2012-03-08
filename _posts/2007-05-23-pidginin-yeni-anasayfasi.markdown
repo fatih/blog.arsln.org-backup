@@ -18,7 +18,7 @@ tags:
 
 [Pidgin](http://pidgin.im/pidgin/home/)'i çalıştırdıktan sonra durmadan hata verip çökünce bir sitesine girip bakayım, belki bir şeyler bulurum dedim. Uzun zamandır ilk defa girdiğim için daha önce nasıl olduğunu bilmiyorum, fakat bu yeni halini çok beğendim. Tasarım kim yaptıysa baya güzel yapmış. Support kısmında küçük sevimli simgeler de mevcut. Ben siteye eklemeye düşünüyorum. 
 
-![pidgin.jpg](http://blog.arsln.org/image/pidgin.jpg)
+![pidgin.jpg](http://arsln.org/image/pidgin.jpg)
 
 Pidgin nedir diye soranlara, bilmeyenler için söylüyeyim, Gtalk, Jabber, Yahoo, Msn, Icq gibi bir çok anında mesajlaşma servislerini tek bir programla kullanabilirsiniz. Ayrıca çok sade ve şık bir tasarımla beraber. 
 

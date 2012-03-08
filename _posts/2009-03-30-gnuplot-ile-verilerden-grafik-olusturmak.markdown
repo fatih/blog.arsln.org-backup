@@ -50,7 +50,7 @@ Bu iki satır eksenleri adlandırmamızı sağlıyor.  Ardından şu komutu yazd
 
 Bu komut test.dat dosyasındaki birinci ve ikinci kolonların grafiğini bize çıkartıyor, kendisi şöyle bir şey:
 
-[![gnuplot](http://blog.arsln.org/wp-content/uploads/gnuplot-300x214.png)](http://blog.arsln.org/wp-content/uploads/gnuplot.png)
+[![gnuplot](http://arsln.org/wp-content/uploads/gnuplot-300x214.png)](http://arsln.org/wp-content/uploads/gnuplot.png)
 
 Gördüğünüz gibi güzelce basit bir şekilde verileri yerlerine çıkartı. Şimdi genellikle bu noktaların ortasından geçen bir eğri'yi bulup, o eğrinin eğimini bulmamız bizim işimize yarayabiliyor. Birim zamandaki değişimi görmemizi sağlıyor, daha da önemlisi bu denklem bizim bulduğumuz verilerin denklemini oluşturacağından kolayca istediğimiz andaki veriyi elde edebileceğiz. Noktalardan geçen doğru'nun neye benzediğiniz Gnuplot'a söylemimiz lazım. Bu bir logaritmik fonksiyon olabileceği gibi trigonometrik fonksiyon da olabilir. Bunu biraz araştırdıktan sonra bir blog sayfasında [buldum](http://jperalta.wordpressid.com/2007/01/12/using-gnuplot-for-fit-a-dataset/). Bizim örneğimizde basit bir eğri olduğundan fonksiyonumuz şu şekilde olacak:
 
@@ -76,7 +76,7 @@ Gördüldüğü gibi a ve b değerli bulundu. Şimdi sadece şu satırı yazıyo
 
 Sonuç ise şu şekilde:
 
-[![gnuplot1](http://blog.arsln.org/wp-content/uploads/gnuplot1-300x214.png)](http://blog.arsln.org/wp-content/uploads/gnuplot1.png)
+[![gnuplot1](http://arsln.org/wp-content/uploads/gnuplot1-300x214.png)](http://arsln.org/wp-content/uploads/gnuplot1.png)
 
 a ve b değerlerinden oluşan denklemimiz ise **y = 0.102x + 297.333** şeklide olacak. Denklemi de elde ettiğimize göre bu denklemden kolayca eğimi bulabiliyoruz. Hepsi bu kadar. Böyle uzun uzun yazıldığına bakmayın, topu topu 6-7 satırdan oluşuyor. Cetvele ve milimetrik kağıt ile uğraşmaktan hem daha zevkli hem daha güvenirli. Umarım yukarıda anlattıklarım işinize yaramıştır. Aşağıdaki bağlantılardan çok daha fazlasını bulabilirsiniz.
 

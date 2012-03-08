@@ -21,7 +21,7 @@ tags:
 - vim
 ---
 
-![C Terminal](http://blog.arsln.org/image/cprogterminal.jpg)Okulda bu sene C ile programla dersini alacağız. Bundan 1 sene önce başlamıştım C ile uğraşmaya, sonra ama nedeni olmayan bir sebebden dolayı bıraktım. Şimdilerde yine bu fırsat ellime geçti, ve okul ile beraber kendimi bu alanda geliştirmeyi düşünüyorum. İleride ise kendi adıma Açık Kaynak camiası için bir program yazıp, bu vesiyle de teşekkür etmiş olacağım. Ayrıca bu sayede öğrendiklerimi pekiştirme ve uygulama fırsatım  da doğacak.
+![C Terminal](http://arsln.org/image/cprogterminal.jpg)Okulda bu sene C ile programla dersini alacağız. Bundan 1 sene önce başlamıştım C ile uğraşmaya, sonra ama nedeni olmayan bir sebebden dolayı bıraktım. Şimdilerde yine bu fırsat ellime geçti, ve okul ile beraber kendimi bu alanda geliştirmeyi düşünüyorum. İleride ise kendi adıma Açık Kaynak camiası için bir program yazıp, bu vesiyle de teşekkür etmiş olacağım. Ayrıca bu sayede öğrendiklerimi pekiştirme ve uygulama fırsatım  da doğacak.
 
 Gelelim **Linux altında C ile programlamak** için hangi araçları kullanabileceğimize. Bunun için bir çok metin düzenleyici ya da IDE'ler mevcut.  Bazıları çok kapsamlı, bazıları ise sade ve pek bir özelliği yok. Size uygun olan hangisi ile onunla yolunuza devam edin. İlk önce en temel bilgi ile başlayalım. C kaynak kodunu Linux altından nasıl derlerim ? Bu sorunun cevabı şu şekilde
 

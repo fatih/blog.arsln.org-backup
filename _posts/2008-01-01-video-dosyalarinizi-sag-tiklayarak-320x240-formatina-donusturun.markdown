@@ -18,9 +18,9 @@ tags:
 - thunar
 ---
 
-Daha önce Thunar için küçük bir "custom action" [hazırlamıştım](http://blog.arsln.org/video-dosyalarini-sag-tiklama-ile-tvde-acmak/). Eğer bilgisayarınıza tv bağlı ise sağ tıklayarak doğrudan oradan açılmasını sağlıyordu. Buna benzer küçük bir betik daha yazdım. Betik zaten hemen hemen aynı, fakat bu sefer yaptığı iş farklı. 
+Daha önce Thunar için küçük bir "custom action" [hazırlamıştım](http://arsln.org/video-dosyalarini-sag-tiklama-ile-tvde-acmak/). Eğer bilgisayarınıza tv bağlı ise sağ tıklayarak doğrudan oradan açılmasını sağlıyordu. Buna benzer küçük bir betik daha yazdım. Betik zaten hemen hemen aynı, fakat bu sefer yaptığı iş farklı. 
 
-Telefonum için 4gb kart aldım. Artık yeterince yerim de olduğu için izlemek istediğim dizileri telefondan otobüsle git gel yaparken izleyeceğim. Fakat bundan önce filmi hem 320x240 formatına çevirmemiz lazım, hem de altyazı filmin içine gömülmesi lazım. Bunu da daha önceki bir yazımda [anlatmıştım](http://blog.arsln.org/symbian-yuklu-telefonlarda-altyazili-film-divx-xvid-izlemek/). Ben bu betiği biraz daha değiştirdim, ve artık DivX Mobile Player'lerde sorunsuz bir şekilde de çalışıyor(Diğeri için codec yüklenmesi gerekiyordu). DivX Mobile Player uygulumasını cep telefonunuz için **ücretsiz** olarak resmi sitesinden [indirebilirsiniz](http://www.divx.com/mobile/). 
+Telefonum için 4gb kart aldım. Artık yeterince yerim de olduğu için izlemek istediğim dizileri telefondan otobüsle git gel yaparken izleyeceğim. Fakat bundan önce filmi hem 320x240 formatına çevirmemiz lazım, hem de altyazı filmin içine gömülmesi lazım. Bunu da daha önceki bir yazımda [anlatmıştım](http://arsln.org/symbian-yuklu-telefonlarda-altyazili-film-divx-xvid-izlemek/). Ben bu betiği biraz daha değiştirdim, ve artık DivX Mobile Player'lerde sorunsuz bir şekilde de çalışıyor(Diğeri için codec yüklenmesi gerekiyordu). DivX Mobile Player uygulumasını cep telefonunuz için **ücretsiz** olarak resmi sitesinden [indirebilirsiniz](http://www.divx.com/mobile/). 
 
 Betiğimiz şu şekilde:
 
@@ -58,7 +58,7 @@ Appears if selection contains: Video File_
 
 Kaydedelim bu şekilde, dilerseniz de ayrı bir simge ekleyin ki daha güzel dursun menüde. Bundan sonra bir klasör içinde bir film ve altyazı bulunmak şartıyla bir filmin üzerine sağ tıklarsanız şu ibare çıkacaktır:
 
-![videthunar.jpg](http://blog.arsln.org/image/videthunar.jpg)
+![videthunar.jpg](http://arsln.org/image/videthunar.jpg)
 
 
 Tıkladığımız an arka planda mencoder çalışacak, ve video'muzu 320x240 formatına çevirecek ve altyazı da içine gömülecek.

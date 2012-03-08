@@ -17,7 +17,7 @@ tags:
 
 Hafif'de okuduğum bir [yazı](http://www.hafif.org/yazi/kendini-cizdiren-formul) gerçekten çok ilginçötesi ve beni şaşkına uğratan bir girdiydi. Kısaca bahsetmek gerekirse, **[Jeff Tupper](http://www.dgp.toronto.edu/~mooncake/)** adındaki eleman bir formül geliştirir. 
 
-![tuppersformula.png](http://blog.arsln.org/image/tuppersformula.png)
+![tuppersformula.png](http://arsln.org/image/tuppersformula.png)
 
 n yerine aşağıdaki sayı alınırsa
 
@@ -40,7 +40,7 @@ n yerine aşağıdaki sayı alınırsa
 
 ve sonuçu da bitmap formatına saklanınca formülün kendisi ortaya çıkıyor(Daha fazla bilgi için Hafif.org sitesindeki yazıya bakın). Yani yapı olarak, aynen kendisi çıkıyor:
 
-![tuppersformula.gif](http://blog.arsln.org/image/tuppersformula.gif)
+![tuppersformula.gif](http://arsln.org/image/tuppersformula.gif)
 
 Şimdi ilk gördüğümde şok olmuştum. Muhtemelen sizler de şimdi şaşırmışınızdır. Aklıma ilk gelen şunlardı. Ne biçim formülse **İngilizce,Latince** bile biliyor. **Mod** kelimesi ortaya çıkıyor. x y gibi harfleri de biliyor, sayıları da biliyor. **Parantezleri** de biliyor, küçük büyük işaretlerini de biliyor, hatta virgülü de biliyor. Ayrıca ortaya çıkan bu grafik de bitmap formatında. Jpeg değil, pmg değil, png değil, gif değil... Çok ilginç. Hal böyle olunca olaya biraz kuşkuyla yaklaştım, ta ki aklıma başka bir şey gelene kadar. 
 

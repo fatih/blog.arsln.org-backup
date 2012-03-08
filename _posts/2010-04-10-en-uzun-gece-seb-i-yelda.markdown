@@ -48,6 +48,6 @@ mubtela-yı gama sor kim geceler kaç saat..**
 
 _O yılın en uzun gecesini, yıldızlardan tarihi olayları hesaplayan müneccim ile güneşten namaz vaktini belirleyen muvakkit bilmez, belki yüz yıllardır bu işle uğraşıyorlar, ama bilmezler, çünkü bu şeb-i yeldâ bizim ya da diğerinin en uzun gecesi değil, bu gece Mecnûn'un gecesi,  derdi o kadar büyük ki, gecesi de bir o kadar büyük, biz,siz bilmeyiz o geceyi, kimse bilmez, anca ateşten yanan mecnûn'un kendisi bilir ne kadar uzun olduğunu._
 
-[![](http://blog.arsln.org/wp-content/uploads/seb1.jpg)](http://blog.arsln.org/wp-content/uploads/seb1.jpg)
+[![](http://arsln.org/wp-content/uploads/seb1.jpg)](http://arsln.org/wp-content/uploads/seb1.jpg)
 
 Ben bu beyit'i ilk okuduğumda bu kadar derin anlamlar içerebileceğini bilmiyordum. Şimdi bakıyorum , tekrar tekrar bu beyiti okuyorum, görüyorum ki bir insanın aylarca ve yahut da yıllarca yaşayabileceği bir duyguyu, o zamanların şairleri tek bir çırpıda anlatmışlar.  Benim hayranlığım da buna dayanıyor. Bunun dışında yukarıdaki yorumlama tamamen kendi fikirlerime dayanarak yazılmıştır, şurası aslında şöyle, şunu yanlış anlamışsın gibi durumlar varsa, hiç çekinmeden yorum yazın.

@@ -20,7 +20,7 @@ Bunun da  dezavantajları var, tüm şifreleriniz ve özel bilgileriniz proxy �
 
 Burada yapabileceğim bir şey var, oda [Mozilla Prism](http://labs.mozilla.com/projects/prism/) kullanmaktı. Sayesinde web sitelerine uygulama gibi çalıştırabilecektik. Her ne kadar uygulama olmasa bile güzel bir şey bence. Benim yaptığım ise, Mozilla Prism'de proxy'ı devreye sokmaktı.  Şimdi aşağıda gördüğünüz gibi simge'ye tıkladığım an Pandora'yı dinleyebiliyorum
 
-[![pandora](http://blog.arsln.org/wp-content/uploads/pandora-300x221.png)](http://blog.arsln.org/wp-content/uploads/pandora.png)
+[![pandora](http://arsln.org/wp-content/uploads/pandora-300x221.png)](http://arsln.org/wp-content/uploads/pandora.png)
 
 Tüm bunları şu şekilde yaptım:
 

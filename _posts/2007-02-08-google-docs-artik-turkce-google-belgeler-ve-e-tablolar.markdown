@@ -13,7 +13,7 @@ tags:
 - google docs
 ---
 
-![Google Belgeler ve E-Tablolar](http://blog.arsln.org/image/docsslogo.gif)Google Docs'un yeni Türkçe ismi bundan sonra **Google Belgeler ve E-Tablolar** olacak. Bugünden itibaren Google Docs ve Spreadsheets'e 11 tane yeni dil dahil edildi. Bunların arasında **Korece, Almanca, Fransizca, Rusca, Çince,vs ...** gibi dillerin yanı sıra **Türkçe** de var. Google uygulamalarını Türkçe dilinde kullananlar için iyi bir gelişme.
+![Google Belgeler ve E-Tablolar](http://arsln.org/image/docsslogo.gif)Google Docs'un yeni Türkçe ismi bundan sonra **Google Belgeler ve E-Tablolar** olacak. Bugünden itibaren Google Docs ve Spreadsheets'e 11 tane yeni dil dahil edildi. Bunların arasında **Korece, Almanca, Fransizca, Rusca, Çince,vs ...** gibi dillerin yanı sıra **Türkçe** de var. Google uygulamalarını Türkçe dilinde kullananlar için iyi bir gelişme.
 
 Türkçe sürümünü biraz denemedim. Denerken bir kaç yerin düzeltilmediğini gördüm, onlar da zamanla düzelecektir. Fakat yazı denetleme mekanizmasına Türkçe hâlen **eklenmemiş**. O kadar mı zor bunun eklenmesi anlamadım gitti. Yaklaşık 20-30 tane dil için yazı denetlemesi var, fakat Türkçe için yok. Bu bence çok büyük bir eksiklik.
 

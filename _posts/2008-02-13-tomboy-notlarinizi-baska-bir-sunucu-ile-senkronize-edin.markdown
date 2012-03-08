@@ -16,7 +16,7 @@ tags:
 - tomboy
 ---
 
-![tomboy-128.png](http://blog.arsln.org/image/tomboy-128.png)[Tomboy](http://www.gnome.org/projects/tomboy/) çok harika bir uygulamadır. Kendisi ile not  tutmak, düzenlemek benim çok hoşuma gidiyor. Hemen hemen tüm bilgilerimi de Tomboy notlarına yazarım. Fakat en son bilgisayarımı sattığımda,  bilgisayarımı acilen vermem gerekiyordu ve ben de yedeğini almadığım için(çok kötü biliyorum) tüm notlarım uçmuştu. Halbuki** Google Notebook** gibi, bilgisayar dışında bir uygulma olsaydı böyle olmazdı.  Sonunda karar verdim ve Tomboy'un ssh ile senkronize olayını araştırdım. Google'da bir kaç belge çıkıyor. Ne yapmanız gerektiğini anlatayım kısaca sizlere:
+![tomboy-128.png](http://arsln.org/image/tomboy-128.png)[Tomboy](http://www.gnome.org/projects/tomboy/) çok harika bir uygulamadır. Kendisi ile not  tutmak, düzenlemek benim çok hoşuma gidiyor. Hemen hemen tüm bilgilerimi de Tomboy notlarına yazarım. Fakat en son bilgisayarımı sattığımda,  bilgisayarımı acilen vermem gerekiyordu ve ben de yedeğini almadığım için(çok kötü biliyorum) tüm notlarım uçmuştu. Halbuki** Google Notebook** gibi, bilgisayar dışında bir uygulma olsaydı böyle olmazdı.  Sonunda karar verdim ve Tomboy'un ssh ile senkronize olayını araştırdım. Google'da bir kaç belge çıkıyor. Ne yapmanız gerektiğini anlatayım kısaca sizlere:
 
 
 

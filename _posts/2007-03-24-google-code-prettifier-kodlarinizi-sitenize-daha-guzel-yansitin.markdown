@@ -20,7 +20,7 @@ tags:
 
 Bir çok geliştirici yazdığı kodları bazen kendi sitesinde yayımlar. Kodları eklerken de sorun çıkabliyor tabi, özellikle **100+** satır kodlar anlaşılmaz duruma gelebiliyor. 
 
-![Google Code Prettify](http://blog.arsln.org/image/googlecodeprettify.jpg)
+![Google Code Prettify](http://arsln.org/image/googlecodeprettify.jpg)
 
 Kodları daha iyi bir şekilde göstermek için [Google Code Prettifier](http://code.google.com/p/google-code-prettify/) adlı Javascript betiğini ve Css dosyasını sitelerine yükleyebilirler. **"prettyprint"** pre-etiketleri arasındaki her kod betik tarafından okunup, css dosyasındaki görünüm özelliklerine göre değiştirilecektir. Renklendirme(_Syntax Highlighting_)'nin yanında ayrıca kodları otomatik olarak hızalandırma da yapabiliyor. Şu an desteklenenler arasında **C, Java, Python, Bash, SQL, HTML, XML, CSS, Javascript, ve Makefile **dosyaları var.  
 

@@ -16,7 +16,7 @@ tags:
 - wine64
 ---
 
-![](http://blog.arsln.org/wp-content/uploads/wine-software.jpg)Sıkça sorulan sorulardan biri. Neden Wine yok depoda ? Son aylarda gerek forumlarda, gerek bugzilla bununla ilgili yoğun bir şekilde şikayet geliyor. Bir geliştirici olarak ister istemez rahatsız oldum. Çünkü ben kendi adıma kullanıcılara hep en iyiyi sunmayı çalıştım ve hala da çalışıyorum. Ne zaman bir şikayet görsem "**nerede hata yaptım**" diye düşünmeden edemiyorum.
+![](http://arsln.org/wp-content/uploads/wine-software.jpg)Sıkça sorulan sorulardan biri. Neden Wine yok depoda ? Son aylarda gerek forumlarda, gerek bugzilla bununla ilgili yoğun bir şekilde şikayet geliyor. Bir geliştirici olarak ister istemez rahatsız oldum. Çünkü ben kendi adıma kullanıcılara hep en iyiyi sunmayı çalıştım ve hala da çalışıyorum. Ne zaman bir şikayet görsem "**nerede hata yaptım**" diye düşünmeden edemiyorum.
 
 Bu konuyla ilgili sizleri bildirmek adına bu yazıyı yazıyorum. Bu yazdıklarımı bir bahane olarak görmezseniz sevinirim. Biraz da bizim içerimizdeki gizli **kahramanların** neler yaptıklarını ve sizler için gece gündüz çalıştıklarını da görmenizi istiyorum. Şimdi yerinizden kalkın, kendinize bir çay hazırlayın. Uzun bir yazı olacak. Ben bekliyorum :)
 
@@ -324,7 +324,7 @@ Bunu dışında Bugzilla'daki hatalar da var elbet (sağ üst köşedeki noktala
 
 Yaklaşık bir haftadır Wine ve paket bağımlılıkları ile ilgileniyorum. Wine için mesa-32bit bunun bir önemli parçasıydı. Onu düzgün bir şekilde yaptıktan sonra çeşitli farklı paketler de mevcut yapmamız gerekiyor. Nihayetinde yerelimde Wine 64bit düzgün bir şekilde çalışmayı başardım :) Hatta deneme olarak Winamp uygulamasını indirip denedik Ofiste, sesi de güzelce veriyor (_şu ünlü koyun sesi)_. Örnek ekran görüntüsü:
 
-[![Wine 64 bit Pardus 2011 altında](http://blog.arsln.org/wp-content/uploads/wine64_pardus2011-300x168.png)](http://blog.arsln.org/wp-content/uploads/wine64_pardus2011.png)
+[![Wine 64 bit Pardus 2011 altında](http://arsln.org/wp-content/uploads/wine64_pardus2011-300x168.png)](http://arsln.org/wp-content/uploads/wine64_pardus2011.png)
 
 
 
@@ -420,7 +420,7 @@ Wine henüz tam bitmedi. Açıkcası bir çok pakete ihtiyacı var hala. Bunlar 
 
 Yukarıdaki paketlerin çoğunun bizdeki ismi farklı. Bazıları olmayabilir de depoda. Ama Wine'in düzgünce çalışabilmesi için bunların lib32 paketine ihtiyacımız var. Bazı paketlerin lib32 paketini oluşturmak kolay olsa da, bazıları çok zaman alabiliyor. O yüzden hani sizlere iki güne sonra hazır diyemiyorum. Paketlerin çoğunu bilmiyorum bile ne yaptığını, benim üzerime olmayan paketler. 
 
-Pardus'taki Wine 64bit'in hali bu durumda. Umarım en azından kafanızda bazı şeyler şekillenmiştir diye düşünüyorum. Hatırlarsanız, geliştiricileri bir hatayı iki ayda bir çözüyor demiştiniz ve [bununla ilgili uzun bir yazı yazmıştım](http://blog.arsln.org/bir-hata-kovalamaca-hikayesi/).  "20-30 tane geliştirici var, bir Wine'i mi yapamıyorlar" diyenler de oldu, bu yazıyı okuduktan sonra belki farklı düşünen olmuştur, yok değişmediyse o zaman kendimizi hala anlatacağız demektir.
+Pardus'taki Wine 64bit'in hali bu durumda. Umarım en azından kafanızda bazı şeyler şekillenmiştir diye düşünüyorum. Hatırlarsanız, geliştiricileri bir hatayı iki ayda bir çözüyor demiştiniz ve [bununla ilgili uzun bir yazı yazmıştım](http://arsln.org/bir-hata-kovalamaca-hikayesi/).  "20-30 tane geliştirici var, bir Wine'i mi yapamıyorlar" diyenler de oldu, bu yazıyı okuduktan sonra belki farklı düşünen olmuştur, yok değişmediyse o zaman kendimizi hala anlatacağız demektir.
 
 Örneğin yukarıda saydıklarımın arasında, ne kadarını kod geliştirmeye ayırdık sizce ? Ben kendi adıma konuşursam çok ama çok az. Gönül isterdi ki, paketlerin sayısı az olsun, bugzilla'daki hatalar az olsun, kullanıcıların isteklerini yerine getirelim, yeni teknolojiler geliştirelim. İnanın **sizler ne kadar istiyorsanız bizler de istiyoruz** bunları yapmayı. Ama buraya kadar okuyup geldiyseniz, yukarıda Fatih Aşıcı'dan verdiğim örnekleri de göz önüne alırsanız, ne durumda olduğumuzu herhalde çok iyi anlayacaksınızdır.  Akşamları eve gelince, hafta sonları bile boş vakitlerinde sizlere zaman ayıran insanlar bunlar. 
 

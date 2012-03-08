@@ -15,7 +15,7 @@ tags:
 - tanıtım
 ---
 
-![buulke1.jpg](http://blog.arsln.org/image/buulke1.jpg)Okuyup beğendiğim ve herkese tavsiye ettiğim nadir kitaplardan biri. Okuduktan sonra, keşke daha önce okusaydım bunca sene neredeydim diye kendime sormadan edemedim. Buradan herkese söylüyorum tekrardan, bu şahısı tanıyın tanıttırın ve eserlerini de okuyun okutturun. Okurken not aldığım, Bu Ülke adlı kitabından bir kaç alıntı:
+![buulke1.jpg](http://arsln.org/image/buulke1.jpg)Okuyup beğendiğim ve herkese tavsiye ettiğim nadir kitaplardan biri. Okuduktan sonra, keşke daha önce okusaydım bunca sene neredeydim diye kendime sormadan edemedim. Buradan herkese söylüyorum tekrardan, bu şahısı tanıyın tanıttırın ve eserlerini de okuyun okutturun. Okurken not aldığım, Bu Ülke adlı kitabından bir kaç alıntı:
 
 
 

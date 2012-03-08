@@ -14,7 +14,7 @@ tags:
 - Pragmatic Thinking and Learning
 ---
 
-![](http://blog.arsln.org/wp-content/uploads/ptal_medium.jpeg)Bugün başlıktaki ([Pragmatic Thinking and Learning](http://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050)) kitabı sonunda bitirmeye başladım. Nedense bu kitap haddinden fazla uzun sürdü. Yazar'ın programcı kimliğinden dolayı bu kitap biraz da yazılım ile uğraşanlara göre yazılmış. Örnekler çoğunlukla yazılım dünyasındaki **terimler** ile verilmiş. Yazılım sevenler için kişisel gelişim kitabı diyebiliriz kısaca. Fakat kitap bir [Rework](http://37signals.com/rework/) gibi akıcı değil. Kitap sıkıcı oluyor bazı konularda. 
+![](http://arsln.org/wp-content/uploads/ptal_medium.jpeg)Bugün başlıktaki ([Pragmatic Thinking and Learning](http://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050)) kitabı sonunda bitirmeye başladım. Nedense bu kitap haddinden fazla uzun sürdü. Yazar'ın programcı kimliğinden dolayı bu kitap biraz da yazılım ile uğraşanlara göre yazılmış. Örnekler çoğunlukla yazılım dünyasındaki **terimler** ile verilmiş. Yazılım sevenler için kişisel gelişim kitabı diyebiliriz kısaca. Fakat kitap bir [Rework](http://37signals.com/rework/) gibi akıcı değil. Kitap sıkıcı oluyor bazı konularda. 
 
 Şu an karşımda birileri olsaydı heyecanlı heyecanlı anlatmaya çalışırdım kitabın içeriğini :) Fakat konu yazı olunca malesef o "**duyguyu**" tam olarak aktarıyorum. Yine de kitapta iki konu ilgimi çekti:
 
