@@ -32,20 +32,18 @@ Dün akşam bash kabuğundan halletiğim bazı mencoder işlemleri için küçü
 
 
 Peki nasıl telefonumuza hiç bir **ek uygulama** yüklemeden dahili oynatıcımızdan oynatabileceğiz ? N95'in desteklediği video formatları arasında şunlar var: 
-_
-3GPP formats (H.263)
-H.264/AVC
-MPEG-4
-RealVideo 7,8,9/10_
+
+* 3GPP formats (H.263)
+* H.264/AVC
+* MPEG-4
+* RealVideo 7,8,9/10_
 
 Bizim yapmamız gereken bu **formatlardan** birini kullanmak. Biraz daha araştırınca web'de bu konu hakkında [iki](http://wiki.dumbot.net/Video_processing) [tane](http://notes.xiaoka.com/2008/03/29/encode-mp4-files-for-nokia-n95-with-mencoder/) belge buldum. Ben de birine göre daha önce yazdığım betiklerden de faydalanarak aşağıdaki betiği yazdım. Ayrıca şöyle bir şey var, N95 ve diğer N-serisi telefonların bazı multimedya tuşları olabiliyor. Bu tuşlar da sadece içindeki dahili Realplayer oynatıcı ile çalışıyordu. Artık oluşturduğumuz bu video'lar bu tuşlarla da uyumlu olacak.
 
 Yazdığım betik şu şekilde, neler yaptığını sonrasında anlattım: 
 
+{% highlight py %}
 
-
-
-[cc lang="python"]
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
@@ -87,8 +85,8 @@ def cevirici():
 
 if __name__ == '__main__':
     cevirici()
-[/cc]
 
+{% endhighlight %}
 
 
   1. os modülünü import ediyoruz, kendisini mencoder ve bir kaç klasör/dosya işlemlerinde kullanacağız. Filmin ve altyazının olduğu dizinde betiği çalıştırıyorsunuz. Kendisi dizindeki dosya isimlerini alıyor, ve sonu .srt ve .avi biten iki dosyayı ayrı ayrı kaydediyor(burası tam içime sinmedi değişebilir belki)
