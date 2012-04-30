@@ -15,7 +15,7 @@ Pardus projesinde giriş aygıtları (dokunmatik ekran, fare, klavye, vs.) ve ek
 * [pisi.vim](https://github.com/farslan/pisi-vim): Vim ile pisi paket yapımını hızlandıran ve kolaylıklar sunan bir eklenti
 * [checkelf](http://svn.pardus.org.tr/uludag/trunk/scripts/checkelf): Pisi paketlerinde çalışma bağımlılıklarını gösteren bir betik
 
-Paket bakımı sırasında GCC, Make, Autotools gibi inşa sistemleri ile de yakından ilgilendim ve gerektiğinde müdahele edip yamalar hazırladım. İşlerimi Vim, Tmux, Mutt, Zsh, Grep, Sed,vs. gibi araçlarla yapmayı da seviyorum :) 
+Paket bakımı sırasında GCC, Make, Autotools gibi inşa sistemleri ile de yakından ilgilendim ve gerektiğinde müdahele edip yamalar hazırladım. İşlerimi Vim, Tmux, Mutt, Zsh, Grep, Sed,vs. gibi araçlarla yapmayı da seviyorum.
 
 Gündemi takip etmek, bir şeyler öğrenmek, okumak, araştırmak her zaman birinci sırada geliyor. Kitap ve edebiyat dergilerini severek okuyorum. Kendimce kişisel bir kütüphane oluşturma çabasındayım. Türlü türlü defterlerim vardır ve elimden geldiğince yazmaya çalışırım. Bunun dışında Kahve seviyorum ve elimden geldiğince tüm püf noktalarını öğrenmeye çalışıyorum (yapılışı, çekirdekler, yöntemler,vs..).
 
