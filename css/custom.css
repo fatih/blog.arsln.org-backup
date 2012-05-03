@@ -49,6 +49,8 @@ article {
     font-style: italic;
     height: 23px;
     padding: 5px 0;
+    width: 100%;
+    text-align: center;
 }
 .post .meta a {
     color: #696969;
@@ -186,6 +188,16 @@ a#skype-link {
 }
 .tweet {
     float: right;
+}
+/* .readability {
+    width: 450px;
+    margin-left: auto;
+    margin-right auto;
+}*/
+.readability {
+    /*width: 50%;*/
+    /*margin: 0px auto;*/
+    display: inline-block;
 }
 .published {
     float: left;
