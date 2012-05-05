@@ -4,8 +4,9 @@ layout: default
 <article class="post">
 <header>
 <h3><a href="{{ page.url }}" rel="bookmark permalink" title="{{ page.title }}">{{ page.title }}</a></h3>
+
 <h6>
-        <time pubdate="pubdate">{{ page.date | date: "%d.%m.%Y" }}</time>
+        <time datetime="{{ post.date | date: "%d.%m.%Y" }}" pubdate>{{ page.date | date: "%d.%m.%Y" }}</time>
         &bull;
 <iframe border="0" scrolling="no" width="78" height="17" allowtransparency="true" frameborder="0"
          style="margin-bottom: -3px; z-index: 1338; border: 0px; background-color: transparent; overflow: hidden;"
