@@ -4,17 +4,33 @@ body {
 .container {
     margin: 10px auto;
 }
+/*#header {*/
+    /*font-size: 1.3em;*/
+    /*padding: 5px 0;*/
+    /*text-align: left;*/
+/*}*/
+/*#header h1 {*/
+    /*font-weight: bold;*/
+    /*margin: 0;*/
+    /*padding-top: 15px;*/
+/*}*/
+/*#header h1 a {*/
+    /*color: #333333;*/
+    /*text-decoration: none;*/
+/*}*/
+/*#content {*/
+    /*text-align: left;*/
+/*}*/
+
 #header {
-    font-size: 1.3em;
+    font-size: 4em;
     padding: 5px 0;
-    text-align: left;
-}
-#header h1 {
     font-weight: bold;
-    margin: 0;
+    text-align: left;
     padding-top: 15px;
+    margin: 0;
 }
-#header h1 a {
+#header a {
     color: #333333;
     text-decoration: none;
 }

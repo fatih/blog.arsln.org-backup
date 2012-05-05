@@ -46,7 +46,7 @@ body {
     overflow-x: hidden;
     overflow-y: scroll;
 }
-h1, h2, h3, h4, h5, h6 {
+header, h1, h2, h3, h4, h5, h6 {
     color: #111111;
     font-family: 'Bree Serif',Arial,Helvetica,sans-serif;
     font-weight: normal;
@@ -54,6 +54,14 @@ h1, h2, h3, h4, h5, h6 {
 .wf-loading body, .wf-loading h1, .wf-loading h2, .wf-loadingh3, .wf-loading h4, .wf-loading h5, .wf-loading h6 {
     visibility: hidden;
 }
+/*header {*/
+    /*font-size: 3em;*/
+    /*font-weight: bold;*/
+    /*line-height: 1;*/
+    /*margin: 0;*/
+    /*padding-top:15px;*/
+    /*padding: 5px 0;*/
+/*}*/
 h1 {
     font-size: 3em;
     line-height: 1;
