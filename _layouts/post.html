@@ -6,12 +6,16 @@ layout: default
 <h3><a href="{{ page.url }}" rel="bookmark permalink" title="{{ page.title }}">{{ page.title }}</a></h3>
 </header>
 
+<div class="entry-content">
 <post>{{ content }}</post>
+</div>
 
   <div class="meta">
    <div class="published">
-    <div class="byline author vcard"><span class="fn">Fatih Arslan | <time pubdate="pubdate">{{ page.date | date: "%d.%m.%Y" }}</time> </span></div>  
-    </div>
+           Yayın tarihi: <time pubdate="pubdate">{{ page.date | date: "%d.%m.%Y" }}</time>
+   </div>
+                       
+
 
    <div class="readability">
 
