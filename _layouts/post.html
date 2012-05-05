@@ -4,13 +4,14 @@ layout: default
 <article class="post">
 <header>
 <h3><a href="{{ page.url }}" rel="bookmark permalink" title="{{ page.title }}">{{ page.title }}</a></h3>
+<author>Fatih Arslan</author>
 
 </header>
   {{ content }}
 
   <div class="meta">
    <div class="published">
-    Yayın tarihi: {{ page.date | date: "%d.%m.%Y" }}
+           <time>Yayın tarihi: {{ page.date | date: "%d.%m.%Y" }}</time>
    </div>
    <div class="readability">
 
