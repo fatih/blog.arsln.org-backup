@@ -88,8 +88,11 @@ h5 {
     margin-bottom: 1.5em;
 }
 h6 {
+    color: #b2b2b2;
     font-size: 1em;
-    font-weight: bold;
+    font-weight: 400;
+    margin-top: -1em;
+    margin-bottom: 1em;
 }
 h1 img, h2 img, h3 img, h4 img, h5 img, h6 img {
     margin: 0;
