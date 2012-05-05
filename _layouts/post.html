@@ -3,16 +3,14 @@ layout: default
 ---
 <article class="post">
 <header>
-<h3><a href="{{ page.url }}" rel="bookmark permalink" title="{{ page.title }}">{{ page.title }}</a></h3>
+<h3 class="entry-title"><a href="{{ page.url }}" rel="bookmark permalink" title="{{ page.title }}">{{ page.title }}</a></h3>
 
-<h6>
-        <time datetime="{{ post.date | date: "%d.%m.%Y" }}" pubdate>{{ page.date | date: "%d.%m.%Y" }}</time>
+        <time datetime="{{ page.date | date: '%d.%m.%Y' }}" pubdate>{{ page.date | date: "%d.%m.%Y" }}</time>
         &bull;
 <iframe border="0" scrolling="no" width="78" height="17" allowtransparency="true" frameborder="0"
          style="margin-bottom: -3px; z-index: 1338; border: 0px; background-color: transparent; overflow: hidden;"
          src="http://www.instapaper.com/e2?url=blog.arsln.org{{ page.url }}&title={{ page.title }}"
           ></iframe>
-</h6>
 </header>
 
 <div class="entry-content">

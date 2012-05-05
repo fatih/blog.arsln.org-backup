@@ -47,7 +47,7 @@ body {
     overflow-y: scroll;
 }
 header, h1, h2, h3, h4, h5, h6 {
-    color: #111111;
+    color: #898989;
     font-family: 'Bree Serif',Arial,Helvetica,sans-serif;
     font-weight: normal;
 }
@@ -71,16 +71,19 @@ h2 {
     font-size: 2em;
     margin-bottom: 0.75em;
     padding-top: 20px;
+    color: #111111;
 }
 h3 {
     font-size: 1.5em;
-    line-height: 1;
+    line-height: 0;
     margin-bottom: 1em;
+    padding-top: 20px;
 }
 h4 {
     font-size: 1.7em;
     line-height: 1.25;
     margin-bottom: 1em;
+    color: #111111;
 }
 h5 {
     font-size: 1em;
