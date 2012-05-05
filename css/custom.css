@@ -211,14 +211,7 @@ a#skype-link {
 .tweet {
     float: right;
 }
-/* .readability {
-    width: 450px;
-    margin-left: auto;
-    margin-right auto;
-}*/
 .readability {
-    /*width: 50%;*/
-    /*margin: 0px auto;*/
     display: inline-block;
 }
 .published {
