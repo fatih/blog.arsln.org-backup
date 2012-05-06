@@ -4,7 +4,9 @@ layout: default
 
 {% for post in paginator.posts %}
   <article class="post">
-  <h3 class="entry-title"><a href="{{ post.url }}" rel="bookmark permalink" title="{{ post.title }}">{{ post.title }}</a></h3>
+  <header>
+  <h3><a href="{{ post.url }}" rel="bookmark permalink" title="{{ post.title }}">{{ post.title }}</a></h3>
+  <header>
 <p>
         <time datetime="{{ post.date | date: '%d.%m.%Y' }}" pubdate="pubdate">{{ post.date | date: "%d.%m.%Y" }}</time>
         &bull;
