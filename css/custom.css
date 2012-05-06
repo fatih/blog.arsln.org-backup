@@ -51,8 +51,8 @@ article {
 }
 .post h3 {
     font-size: 36px;
-    margin: 20px 0;
-    padding-bottom: 20px;
+    /*margin: 20px 0;*/
+    /*padding-bottom: 20px;*/
 }
 .post h3 a {
     color: #597A9B;

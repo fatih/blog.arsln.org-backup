@@ -4,19 +4,31 @@ layout: default
 
 {% for post in paginator.posts %}
   <article class="post">
-
-  <h3><a href="{{ site.url }}{{ post.url }}" rel="bookmark permalink" title="{{ post.title }}">{{ post.title }}</a></h3>
-
-    {{ post.content }}
-
-  <div class="meta">
-   <div class="published">
-      Yayın tarihi: {{ post.date | date: "%d.%m.%Y" }}
-      &mdash;
+  <h3 class="entry-title"><a href="{{ post.url }}" rel="bookmark permalink" title="{{ post.title }}">{{ post.title }}</a></h3>
+<p>
+        <time datetime="{{ post.date | date: '%d.%m.%Y' }}" pubdate="pubdate">{{ post.date | date: "%d.%m.%Y" }}</time>
+        &bull;
       <a href="{{ site.url }}{{ post.url }}#disqus_thread"></a>
-      <!-- <a href="{{ site.url }}{{ post.url }}#disqus_thread" title="Yorumlar">Yorumlar</a> -->
-   </div>
-  </div>
+        &bull;
+<iframe border="0" scrolling="no" width="78" height="17" allowtransparency="true" frameborder="0"
+         style="margin-bottom: -3px; z-index: 1338; border: 0px; background-color: transparent; overflow: hidden;"
+         src="http://www.instapaper.com/e2?url=blog.arsln.org{{ page.url }}&title={{ page.title }}"
+          ></iframe>
+
+</p>
+<div class="entry-content">
+<post>{{ post.content }}</post>
+</div>
+
+
+  <!--<div class="meta">-->
+   <!--<div class="published">-->
+      <!--Yayın tarihi: {{ post.date | date: "%d.%m.%Y" }}-->
+      <!--&mdash;-->
+      <!--<a href="{{ site.url }}{{ post.url }}#disqus_thread"></a>-->
+      <!--[><a href="{{ site.url }}{{ post.url }}#disqus_thread" title="Yorumlar">Yorumlar</a><]-->
+   <!--</div>-->
+  <!--</div>-->
 
 
   </article>
