@@ -22,19 +22,10 @@ layout: default
   </header>
 
 <div class="entry-content">
-<post>{{ post.content }}</post>
+<!--<post>{{ post.content | strip_html | truncatewords: 50 }}</post>-->
+<post>{{ post.content | postmorefilter: post.url, "..devamını okumak için tıklayın." }}</post>
+
 </div>
-
-
-  <!--<div class="meta">-->
-   <!--<div class="published">-->
-      <!--Yayın tarihi: {{ post.date | date: "%d.%m.%Y" }}-->
-      <!--&mdash;-->
-      <!--<a href="{{ site.url }}{{ post.url }}#disqus_thread"></a>-->
-      <!--[><a href="{{ site.url }}{{ post.url }}#disqus_thread" title="Yorumlar">Yorumlar</a><]-->
-   <!--</div>-->
-  <!--</div>-->
-
 
   </article>
 
