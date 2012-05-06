@@ -6,8 +6,8 @@ layout: default
   <article class="post">
   <header>
   <h3><a href="{{ post.url }}" rel="bookmark permalink" title="{{ post.title }}">{{ post.title }}</a></h3>
-  <header>
-<p>
+
+<h6>
         <time datetime="{{ post.date | date: '%d.%m.%Y' }}" pubdate="pubdate">{{ post.date | date: "%d.%m.%Y" }}</time>
         &bull;
       <a href="{{ site.url }}{{ post.url }}#disqus_thread"></a>
@@ -17,7 +17,10 @@ layout: default
          src="http://www.instapaper.com/e2?url=blog.arsln.org{{ page.url }}&title={{ page.title }}"
           ></iframe>
 
-</p>
+</h6>
+
+  </header>
+
 <div class="entry-content">
 <post>{{ post.content }}</post>
 </div>
@@ -34,6 +37,7 @@ layout: default
 
 
   </article>
+
 {% endfor %}
 
 <div class='paging'>

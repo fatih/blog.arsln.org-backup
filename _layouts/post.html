@@ -4,8 +4,7 @@ layout: default
 <article class="post">
 <header>
 <h3><a href="{{ page.url }}" rel="bookmark permalink" title="{{ page.title }}">{{ page.title }}</a></h3>
-</header>
-<p>
+<h6>
         <time datetime="{{ page.date | date: '%d.%m.%Y' }}" pubdate="pubdate">{{ page.date | date: "%d.%m.%Y" }}</time>
         &bull;
 <iframe border="0" scrolling="no" width="78" height="17" allowtransparency="true" frameborder="0"
@@ -13,7 +12,8 @@ layout: default
          src="http://www.instapaper.com/e2?url=blog.arsln.org{{ page.url }}&title={{ page.title }}"
           ></iframe>
 
-</p>
+</h6> </header>
+
 <div class="entry-content">
 <post>{{ content }}</post>
 </div>
