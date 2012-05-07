@@ -46,8 +46,8 @@ body {
     overflow-x: hidden;
     overflow-y: scroll;
 }
-h1, h2, h3, h4, h5, h6 {
-    color: #111111;
+header, h1, h2, h3, h4, h5, h6 {
+    color: #898989;
     font-family: 'Bree Serif',Arial,Helvetica,sans-serif;
     font-weight: normal;
 }
@@ -60,19 +60,22 @@ h1 {
     margin: 15px 0;
 }
 h2 {
-    font-size: 2em;
+    font-size: 1.5em;
     margin-bottom: 0.75em;
-    padding-top: 20px;
+    color: #111111;
 }
 h3 {
     font-size: 1.5em;
     line-height: 1;
-    margin-bottom: 1em;
+    /*margin-bottom: 1em;*/
+    padding-top: 20px;
+    padding-bottom: 2px;
 }
 h4 {
     font-size: 1.7em;
     line-height: 1.25;
     margin-bottom: 1em;
+    color: #111111;
 }
 h5 {
     font-size: 1em;
@@ -80,8 +83,10 @@ h5 {
     margin-bottom: 1.5em;
 }
 h6 {
+    color: #b2b2b2;
     font-size: 1em;
-    font-weight: bold;
+    font-weight: 400;
+    margin-bottom: 1em;
 }
 h1 img, h2 img, h3 img, h4 img, h5 img, h6 img {
     margin: 0;
