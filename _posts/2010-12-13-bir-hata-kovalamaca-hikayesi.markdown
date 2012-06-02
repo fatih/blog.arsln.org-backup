@@ -356,10 +356,10 @@ bool KSVGIconEngine::load(int width, int height, const QString &path;)
 
 Evet, boş bir "path" değişkeni geldiğinde bize "false" döndürecek iki satırlık bir şey. Hepsi bu kadar :) Bu yama bir saat önce svn deposuna da yansıdı. Yazdıklarım sanki bir anda yapılmış gibi gözükebilir, fakat 2-3 günümü aldı. Kullanıcı açısından basit gibi gözüken bir şey, biz geliştiricilerin bazen günlerini alabiliyor. Buraya da not düşeyim :)
 
-[1] [http://bugs.pardus.org.tr/show_bug.cgi?id=14560](http://bugs.pardus.org.tr/show_bug.cgi?id=14560)
-[2] [http://bugs.pardus.org.tr/show_bug.cgi?id=15022](http://bugs.pardus.org.tr/show_bug.cgi?id=15022)
-[3] [http://bugs.pardus.org.tr/show_bug.cgi?id=15440](http://bugs.pardus.org.tr/show_bug.cgi?id=15440)
-[4] [http://kde-look.org/content/show.php/Monochrome?content=18317](http://kde-look.org/content/show.php/Monochrome?content=18317)
-[5] [http://liste.pardus.org.tr/paketler-commits/2010-September/107492.html](http://liste.pardus.org.tr/paketler-commits/2010-September/107492.html)
-[6] [http://www.zlib.net/ChangeLog.txt](http://www.zlib.net/ChangeLog.txt)
+* [1] [http://bugs.pardus.org.tr/show_bug.cgi?id=14560](http://bugs.pardus.org.tr/show_bug.cgi?id=14560)
+* [2] [http://bugs.pardus.org.tr/show_bug.cgi?id=15022](http://bugs.pardus.org.tr/show_bug.cgi?id=15022)
+* [3] [http://bugs.pardus.org.tr/show_bug.cgi?id=15440](http://bugs.pardus.org.tr/show_bug.cgi?id=15440)
+* [4] [http://kde-look.org/content/show.php/Monochrome?content=18317](http://kde-look.org/content/show.php/Monochrome?content=18317)
+* [5] [http://liste.pardus.org.tr/paketler-commits/2010-September/107492.html](http://liste.pardus.org.tr/paketler-commits/2010-September/107492.html)
+* [6] [http://www.zlib.net/ChangeLog.txt](http://www.zlib.net/ChangeLog.txt)
 
