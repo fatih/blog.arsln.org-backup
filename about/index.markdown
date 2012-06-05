@@ -5,7 +5,7 @@ title: Hakkımda
 
 <img src="/images/ftharsln.png" align="left" style="margin-right:30px; margin-top:7px;"> Merhaba, adım Fatih.  Hacettepe Elektrik-Elektronik Müh. mezunuyum. 2005 yılından beri Linux ve Açık kaynak dünyası ile ilgileniyorum. Ağustos 2010 - Nisan 2012 tarihleri arasında  Türkiye'nin en büyük açık kaynak projelerinden biri olan TÜBİTAK bünyesindeki [Pardus](http://www.pardus.org.tr/) projesinde çalıştım. 
 
-Nisan 2012'den beri de [Cardtek](http://www.cardtek.com/) bünyesinde finansal işlemlerde kullanılan cihazların gömülü sistemleriyle ilgileniyorum. Ayrıca bu cihazlarda çalışan finansal uygulamaların geliştirilmesi ve bakımıyla da ilgileniyorum.
+Nisan 2012'den beri de [Cardtek](http://www.cardtek.com/) bünyesinde gömülü sistemler ve temel finansal uygulamaların geliştirilmesi ve bakımıyla ilgileniyorum.
 
 Pardus projesinde giriş aygıtları (dokunmatik ekran, fare, klavye, vs.) ve ekran kartı sürücü altyapısı ile ilgilendim (X.org bileşeni). Otomatik ekran kartı sürücülerinin yapılandırılabilmesi için C++ ve QT ile [Panda](http://svn.pardus.org.tr/uludag/trunk/panda/) ve [Panda-kde](http://svn.pardus.org.tr/uludag/trunk/kde/panda-kde/) aracını yazdım. 300' yakın uygulamanın paket bakımını üstlendim. Ayrıca zaman zaman çeşitli iyileştirmeler ve yeni özellikler ekledim. Bunların bir kısmı şu şekilde:
 
