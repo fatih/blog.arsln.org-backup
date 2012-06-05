@@ -150,7 +150,7 @@ bar_function(*a_ptr, *b_ptr);
 {% endhighlight %}
 
 
-## Bir başka atama şekli: foo = bar
+## Bir başka atama şekli: ptr = my_array
 
 Tekrar örnek değişkenlerimizi oluşturalım:
 
