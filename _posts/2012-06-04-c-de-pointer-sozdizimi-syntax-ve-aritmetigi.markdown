@@ -85,6 +85,71 @@ warning: assignment makes pointer from integer without a cast [enabled by
 default] 
 </pre>
 
+## Dereference özelliğini düzgün kullanabilmek
+
+Yukarıda yıldız `*` operatoru ile veriye doğrudan ulaşmanın bir diğer adı
+**pointer dereference** demektir. Yıldız operatörü malesef bir çok kafa
+karışıklığına da yol açıyor. Çünkü hem pointer veri tipini oluşturmaya yarıyor,
+hem de pointer'in işaret ettiği yere ulaşmamızı sağlıyor. Örneğin bir
+fonksiyonumuz olsun  ve bu fonksiyon iki tane argüman alsın. Bu argümanlar
+**pointer to int** şeklinde olsun:
+
+    void foo_function(int *bar_ptr, int *qux_ptr);
+
+Şimdi dereference özelliği ile birlikte yukarıdaki örnek de kafa karıştırıcı
+olabiliyor. Çünkü man sayfaları ya da herhangi bir kiptalıkta tanımlar bu
+şekilde ifade edilmiştir. Burada iki tane pointer tipinden veri alıyorum
+anlamına geliyor. Bir örnekten gidelim. İki tane pointer oluşturalim ve bunları
+bir yere işaret etmesini sağlayalım
+
+{% highlight cpp %}
+int *a_ptr;
+int *b_ptr;
+int x = 2;
+int y = 3;
+{% endhighlight %}
+
+Sonra bu pointerleri işaret etmesine sağlayalım:
+
+{% highlight cpp %}
+a_ptr = &x;
+b_ptr = &y;
+{% endhighlight %}
+
+Buraya kadar herşey normal. Şimdi bu pointer'leri fonksiyonumuza düzgün bir
+şekilde verelim:
+
+{% highlight cpp %}
+foo_function(a_ptr, b_ptr); // OK: Valid
+{% endhighlight %}
+
+Yukarıdaki örnek doğru sözdiziminde yazılmış bir örnektir. Gördüğünüz gibi gidip
+değişkenlerin önüne yıldız öperatorunu koymadık. Neden? Çünkü fonksiyonumuz
+**pointer of int** tipinde bir veri bekliyordu. Mesela yıldızlı şekilde yazmak
+yanlış olacaktı:
+
+{% highlight cpp %}
+foo_function(*a_ptr, *b_ptr); // NOT OK: Invalid
+{% endhighlight %}
+
+Burada fonksiyonumuza **int** tipinde iki tane veri sunuyoruz. Halbuki fonksiyon
+bizden **pointer of int** cinsinden bir veri tipi bekliyordu. Pointer'lerin
+önüne yıldız koyarak **dereference** etmiş oluyoruz, yani işaret ettiği veriyi
+kullanıyor oluyoruz artık. Bir fonksiyon doğrudan **int** tipinde veri de
+alabilir, örneğin:
+
+{% highlight cpp %}
+bar_function(int a, int b);
+{% endhighlight %}
+
+O zaman gayet sorunsuz bir şekilde oluşturduğumuz pointer verilerimizi
+kullanabilirdik:
+
+{% highlight cpp %}
+bar_function(*a_ptr, *b_ptr);
+{% endhighlight %}
+
+
 ## Bir başka atama şekli: foo = bar
 
 Tekrar örnek değişkenlerimizi oluşturalım:
