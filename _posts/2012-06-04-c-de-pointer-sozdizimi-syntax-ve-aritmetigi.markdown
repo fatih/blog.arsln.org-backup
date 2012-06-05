@@ -37,16 +37,16 @@ sağlayacağız. Yukarıda **my_array** değişkeni oluşturmuştuk. Şimdi ona 
 etmesini sağlayalım:
 
 {% highlight cpp %}
-ptr = &my_array[0];
+foo_ptr = &my_array[0];
 {% endhighlight %}
 
 Array oluşturulurken bellekte bir bütün olarak yer aldığından ilk sayısı
 (yani my_array[0]) bize arrayin başlangıcını verecektir. **&** operatoru ise, bize
-bir veri tipinin bulunduğu alanın adresini verir. Yukarıda böylelikle **ptr**
+bir veri tipinin bulunduğu alanın adresini verir. Yukarıda böylelikle **foo_ptr**
 değişkenini **my_array** değişkenin ilk elemanına işaret ediyor olacak. **my_array**
 elemanı da bir bütün olduğundan aslında hepsini işaret etmiş olacak. Son olarak
 belki de önemli bir ayrıntı, & operatoru ile geri dönen verinin tipi **pointer**
-cinsinden. Bu yüzden doğrudan **ptr** değişkenine atayabildik.
+cinsinden. Bu yüzden doğrudan **foo_ptr** değişkenine atayabildik.
 
 ##İşaret edilen veriye ulaşmak
 
@@ -54,7 +54,7 @@ Pointer'in işaret ettiği veriye ulaşmak için tek yapmamız pointer değişke
 önüne yıldız koymak. Mesela my_array'deki ilk sayıyı çıktısını alalım:
 
 {% highlight cpp %}
-printf("Bu my_array[0] değeri: %d", *ptr); // 13 sayısını gösterecek
+printf("Bu my_array[0] değeri: %d", *foo_ptr); // 13 sayısını gösterecek
 {% endhighlight %}
 
 Peki o zaman bu değeri değiştirebilir miyiz? Evet aynen değiştirebiliriz.  Şimdi
@@ -62,7 +62,7 @@ sıkı durun. Aşağıda iki tane örnek var, bakalım onlar ne yapıyor:
 
 {% highlight cpp %}
 *foo_ptr = 2;
-printf("Bu my_array[0] değeri: %d", *ptr); // 2 sayısını gösterecek
+printf("Bu my_array[0] değeri: %d", *foo_ptr); // 2 sayısını gösterecek
 {% endhighlight %}
 
 C'deki asıl sorun, `*` operatorunun hem pointer oluşturma için kullanılması
@@ -155,7 +155,7 @@ bar_function(*a_ptr, *b_ptr);
 Tekrar örnek değişkenlerimizi oluşturalım:
 
 {% highlight cpp %}
-int *foo_ptr;
+int *ptr;
 int my_array[] = {13, 4, 9, -5, 45};
 {% endhighlight %}
 
@@ -235,7 +235,7 @@ da bir sorun olmayacak. Şimdi my_array örneğinden gidip her bir değişken ne
 yaptığını öğrenmiş olacaksınız. Array ve ptr tanımlarını hatırlatalım:
 
 {% highlight cpp %}
-int *foo_ptr;
+int *ptr;
 int my_array[] = {13, 4, 9, -5, 45};
 {% endhighlight %}
 
