@@ -308,7 +308,7 @@ Burada pointerin işaret ettiği yeri bir daha düşürüyoruz. Yani en başa d�
 Sonra da değeri alıyoruz, o da bizim örneğimizde (13)
 
 {% highlight bash %}
---*ptr // same a --(*ptr), increment value (13) and print the value (12)
+--*ptr // same a --(*ptr), decrement value (13) and print the value (12)
 {% endhighlight %}    
 
 Son olarak değerimizi alıyoruz ve bu değeri bir azaltıyoruz. Yani 13 sayısını 12
