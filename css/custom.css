@@ -4,23 +4,6 @@ body {
 .container {
     margin: 10px auto;
 }
-/*#header {*/
-    /*font-size: 1.3em;*/
-    /*padding: 5px 0;*/
-    /*text-align: left;*/
-/*}*/
-/*#header h1 {*/
-    /*font-weight: bold;*/
-    /*margin: 0;*/
-    /*padding-top: 15px;*/
-/*}*/
-/*#header h1 a {*/
-    /*color: #333333;*/
-    /*text-decoration: none;*/
-/*}*/
-/*#content {*/
-    /*text-align: left;*/
-/*}*/
 
 #header {
     font-size: 4em;
@@ -37,7 +20,7 @@ body {
     margin-bottom: 1em;
 }
 #header a {
-    color: #333333;
+    color: #000000;
     text-decoration: none;
 }
 #content {
@@ -50,13 +33,16 @@ article {
     font-size: 1.2em;
 }
 .post h3 {
-    font-size: 36px;
+    color: #444;
+    font-size: 26px;
+    font-weight: bold;
     /*margin: 20px 0;*/
     /*padding-bottom: 20px;*/
 }
 .post h3 a {
-    color: #597A9B;
-    font-size: 36px;
+    color: #444;
+    font-size: 26px;
+    font-weight: bold;
     margin: 20px 0;
 }
 .post .postbody {
@@ -150,9 +136,8 @@ ul.links li.last:after, ul.links li.first:after {
 }
 #sidebar .sidebarbox h4 {
     font-size: 20px;
-    font-weight: normal;
-    margin: 10px 2px 2px;
-    padding-bottom: 5px;
+    font-weight: bold;
+    margin: 5px 2px 5px;
 }
 #sidebar .sidebarbox p {
     font-size: 1.2em;

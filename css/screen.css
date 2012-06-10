@@ -43,12 +43,13 @@ body {
     color: #444444;
     font-family: 'Noticia Text',Arial,Helvetica,sans-serif;
     font-size: 75%;
+    background-color: #fafafa;
     overflow-x: hidden;
     overflow-y: scroll;
 }
 header, h1, h2, h3, h4, h5, h6 {
     color: #898989;
-    font-family: 'Bree Serif',Arial,Helvetica,sans-serif;
+    font-family: 'Asap',Arial,Helvetica,sans-serif;
     font-weight: normal;
 }
 .wf-loading body, .wf-loading h1, .wf-loading h2, .wf-loadingh3, .wf-loading h4, .wf-loading h5, .wf-loading h6 {
@@ -62,7 +63,8 @@ h1 {
 h2 {
     font-size: 1.5em;
     margin-bottom: 0.75em;
-    color: #111111;
+    color: #444;
+	font-weight: bold;
 }
 h3 {
     font-size: 1.5em;
