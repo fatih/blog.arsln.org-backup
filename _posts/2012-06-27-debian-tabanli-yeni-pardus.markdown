@@ -46,7 +46,7 @@ Son zamanlarda kamuya açık yerlerde bununla ilgili bir çok ipucu birikti. Bun
 
     Yukarıdaki listede onun da isminin yer alması, Tübitak'ın Debian forku ile ilgilinen kişilerin bilgi birikime başvurduğu anlaşılıyor. Acaba Cahit Cavit Vural, Tübitak'ın aylardır hazırladığı Debian forkunda çalışan yeni geliştiricilerinden biri miydi?
 
-3. **Özgürlükiçin.com'daki gizemli Debian tabanlı Pardus dağıtımı**. Tüm bunlar yaşanırken ozgurlukicin.com forumlarında ilginç bir olaya tanıklık edildi. Forumda AoKiji adında biri aşağıdaki gibi ilginç bir [anını](http://www.ozgurlukicin.org/forum/haberler/24628/?page=3#post165354)
+3. **Özgürlükiçin.com'daki gizemli Debian tabanlı Pardus dağıtımı**. Tüm bunlar yaşanırken ozgurlukicin.com forumlarında ilginç bir olaya tanıklık edildi. Forumda **AoKiji** adında biri aşağıdaki ilginç [anısını](http://www.ozgurlukicin.org/forum/haberler/24628/?page=3#post165354)
 paylaştı:
 
     "Birkaç gün önce pilot okulların birine işim düştü. aklıma hemen akıllı tahta yer alan pardus bir göz atmak geldi. açtık sistemi bir baktık. pardus ilk  açılışta grupla değilde windows yapısı altından işletim sistemini seçiyorsunuz. varsayılan "windows". ordan pardus  seçiyoruz.
@@ -58,7 +58,7 @@ paylaştı:
 
 Yukarıdaki yazılanları birleştirince bir çok şey aslında ortaya çıkıyor. Bildiğiniz gibi 30 küsür geliştirici son bir sene içinde Pardus projesinden ayrıldı ve projede bir kişi bile kalmadı. Fakat Ahmet Kaplan'ın her konuşmasında "Pardus bitmedi, çok güzel bir şekilde geri döneceğiz" demesi de kafaları iyi karıştırmıştı.
 
-Tübitak muhtmelen son 1-2 aydır Debian/Ubuntu tabanlı bir dağıtım üzerinde çalışıyor (benim tahminim Debian üzerinde, Ubuntu upstream ile iyi anlaşamıyor). Fakat bunu henüz şimdi açıklamayacağı için tüm bilgiler de burnu açık havada kalıyor.
+Tübitak muhtemelen son 1-2 aydır Debian/Ubuntu tabanlı bir dağıtım üzerinde çalışıyor (benim tahminim Debian üzerinde, Ubuntu upstream ile iyi anlaşamıyor). Fakat bunu henüz şimdi açıklamayacağı için tüm bilgiler de burnu açık havada kalıyor.
 
 Pardus markası 2-3 ay içinde çok farklı bir anlamda kullanılacak. Yıllarca oluşturulmuş ve kamunun bildiği bir markayı doğrudan kullanmak Tübitak'ın da işine yarayacaktır. Ayrıca Kamu bilindik bir isimle iş yapacağı için içi rahat olacaktır. Fakat Erkan Tekman ve ekibinin yıllarca oluşturduğu teknolojiden hiç bir iz,eser bulunmayacaktır. Yani dışarıdaki yüzlerce Debian forkundan biri olacaktır. Adı Pardus olacak, ama bizim bildiğimiz Pardus'tan çok farklı bir ürün ortaya çıkacaktır.
 
