@@ -7,6 +7,13 @@ title: Debian tabanlı yeni Pardus
 ---
 
 
+![Debian Tabanlı Yeni Pardus](http://arsln.org/image/debian_tabanli_pardus.jpg)
+
+_Necdet Yücel tarafından
+[çekilen](http://nyucel.blogspot.com/2012/06/etkilesimli-tahtalarda-pardus-logolu.html) Debian tabanlı Pardus konsol ekranı_
+
+******
+
 Yavaş yavaş bazı bilgiler gün ışığına çıkmaya başladı herhalde. Başlıkta yazdığım gibi önümüzdeki 1-2 ay içinde çıkacak olan Pardus, **Debian** tabanlı bir dağıtım olacaktır. Eski bir Pardus geliştiricisi olarak o kadar emeğin, teknolojinin sona erdirilmesini tabi ki üzülerek izleyeceğim. Ama konumuz bu değil(bu yazı açısından), konumuz Debian tabanlı Pardus'a ilişkin bulgular.
 
 ## Pardus'un Debian tabanlı olmasına ilişkin üç önemli bulgu
