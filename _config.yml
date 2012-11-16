@@ -1,3 +1,4 @@
+
 title: "Fatih Arslan"
 url: "http://blog.arsln.org"
 author: "Fatih Arslan"
@@ -11,7 +12,9 @@ paginate_files:
 
 #permalink: /:year/:month/:day/:title
 permalink: /:title/
-markdown: rdiscount
+markdown: kramdown
+kramdown:
+  use_coderay: true
 pygments: true
 
 exclude:
