@@ -3,7 +3,7 @@ layout: page
 title: Hakkımda
 ---
 
-<img src="/images/fatih_arslan.jpg" align="left" style="margin-right:30px; margin-top:7px;"> Merhaba, adım Fatih.  Hacettepe Elektrik-Elektronik Müh. mezunuyum. 2005 yılından beri Linux ve Açık kaynak dünyası ile ilgileniyorum. Ağustos 2010 - Nisan 2012 tarihleri arasında Türkiye'nin en büyük açık kaynak projelerinden biri olan TÜBİTAK bünyesindeki [Pardus](http://www.pardus.org.tr/) projesinde çalıştım. 
+<img src="/images/fatih_arslan.png" align="left" style="margin-right:30px; margin-top:7px;"> Merhaba, adım Fatih.  Hacettepe Elektrik-Elektronik Müh. mezunuyum. 2005 yılından beri Linux ve Açık kaynak dünyası ile ilgileniyorum. Ağustos 2010 - Nisan 2012 tarihleri arasında Türkiye'nin en büyük açık kaynak projelerinden biri olan TÜBİTAK bünyesindeki [Pardus](http://www.pardus.org.tr/) projesinde çalıştım. 
 
 Nisan 2012'den beri de [Cardtek](http://www.cardtek.com/) bünyesinde gömülü sistemler ve temel finansal uygulamaların geliştirilmesi ve bakımıyla ilgileniyorum.
 
