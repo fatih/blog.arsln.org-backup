@@ -100,8 +100,8 @@ Visual moda herhangi bir kod parçasını seçip `:Gist`  yazdığınızda otoma
 olarak eklenir. Yine -p ile dilerseniz "secret" olarak yollama imkanınız var.
 `:help gist-vim` ile daha fazla bilgiye ulaşabilirsiniz.
 
-(Bonus: `:Gist -p` ile gizli markdown dosyalarınız için gizli bir Gist
-oluşturup ön izleme yapabili)
+(Bonus: `:Gist -p` ile markdown dosyalarınız için gizli bir Gist oluşturup ön
+izleme yapabilirsiniz)
 
 ## [gundo](<https://github.com/sjl/gundo.vim)
 
