@@ -133,8 +133,8 @@ Bu da çok sade ama en çok işime yarayan eklentilerden biri. Herhangi bir kod
 parçasını `comment` etmek için kullanıyorum. İki tane kısa yolu var biri
 kapatıyor diğeri de açıyor
 
-    ,cc
-    ,c<space>
+* `,cc`
+* `,c<space>`
 
 Güzel olan ise ön tanımlı olarak bir çok dili otomatik olarak tanıyor ve ona
 göre `comment` ediyor kodu. Yani python kodlarının önüne `#` koyuyor, c,cpp
