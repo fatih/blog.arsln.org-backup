@@ -280,7 +280,7 @@ açabiliyorum.
 
 (Bonus: Macvim altında mouse ile normal dosya yöneticisi gibi gezebiliyorsunuz!)
 
-## [powerline] (https://github.com/Lokaltog/vim-powerline)
+## [powerline](https://github.com/Lokaltog/vim-powerline)
 
 Powerline için çok söze gerek yok, **Insert, Normal, Recording, Visual, Tagbar,
 Nerdtree, Ctrlp, Gundo,vs..** gibi envai çeşit mod için farklı renklendirme
