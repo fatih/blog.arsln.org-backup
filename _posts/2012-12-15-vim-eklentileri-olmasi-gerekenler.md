@@ -23,8 +23,8 @@ mevcut vimrc'de).
 [github.com/farslan/dotfiles](https://github.com/farslan/dotfiles)
 
 Yazıya başlamadan önce bir ayrıntıyı değineyim. Vim'de kısa yolları modife etmek çok
-kolay, bunun için de <leader> diye bir özellik de mevcut. `vimrc` de böyle bir
-değişken tanımlayıp bir karakter atayabiliyorsunuz (örneğin benim <leader> tuşu
+kolay, bunun için de **leader** diye bir özellik de mevcut. `vimrc` de böyle bir
+değişken tanımlayıp bir karakter atayabiliyorsunuz (örneğin benim **leader** tuşu
 `,` karakteri.) 
 
 Kullandığım eklentiler ile hep bu tuş ile kullanıyorum, bu yüzden de
