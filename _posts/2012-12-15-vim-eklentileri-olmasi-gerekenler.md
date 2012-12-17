@@ -103,7 +103,7 @@ olarak eklenir. Yine -p ile dilerseniz "secret" olarak yollama imkanınız var.
 (Bonus: `:Gist -p` ile markdown dosyalarınız için gizli bir Gist oluşturup ön
 izleme yapabilirsiniz)
 
-## [gundo](<https://github.com/sjl/gundo.vim)
+## [gundo](https://github.com/sjl/gundo.vim)
 
 Vim 7.x serisi ile beraber **"undo"** özelliği gelmişti. Şimdi bu undo özelliği
 bildiğimiz geri alma özelliklerinden farklı. Eğer vim/vimrc'de `set undofile`
