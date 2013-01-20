@@ -6,11 +6,21 @@ status: publish
 title: Blog altyapısı olarak Jekyll kullanmak
 ---
 
-Blogumu RSS'den takip edenler muhtemelen değişimi görmemiştir (RSS'deki bozukluk dışında). Bundan iki ay önce Dreamhost sunucuların genelini etkileyen bir saldırı sonucunda hasar gördü. Merak edenler için: [Dreamhost Sites Hacked](http://discussion.dreamhost.com/thread-134262.html). Sabah kalktığımda bu manzara ile karşılaştığımda artık Wordpress'i terketmenin zamanı geldiğini anlamıştım. 
+Blogumu RSS'den takip edenler muhtemelen değişimi görmemiştir (RSS'deki bozukluk
+dışında). Bundan iki ay önce Dreamhost sunucuların genelini etkileyen bir
+saldırı sonucunda hasar gördü. Merak edenler için: [Dreamhost Sites
+Hacked](http://discussion.dreamhost.com/thread-134262.html). Sabah kalktığımda
+bu manzara ile karşılaştığımda artık Wordpress'i terketmenin zamanı geldiğini
+anlamıştım. 
 
-[Wordpress](http://www.wordpress.org) artık işimi görmemeye başlamıştı. Her ay güncellenmesi, durmadan ihtiyacımın olmadığı özellikleri eklemesi, güvenlik açıkların artması, her geçen gün daha da hantalaşması,vs.. Uzun zamandır bu hantal yapıdan kurtulmayı düşünüyordum. Çünkü Wordpress benim için sadece basit bir blog arayüzünden fazlası değildir. Sunduğu özellikler böyle bir açık kaynak kodlu proje için muazzam olsa da benim için gereksiz bir yükten başka bir şey değildi. Yukarıda anlatığım durum gerçekleşince ben de soluğu [Jekyll](https://github.com/mojombo/jekyll)'de buldum. 
-
-<!--more-->
+[Wordpress](http://www.wordpress.org) artık işimi görmemeye başlamıştı. Her ay
+güncellenmesi, durmadan ihtiyacımın olmadığı özellikleri eklemesi, güvenlik
+açıkların artması, her geçen gün daha da hantalaşması,vs.. Uzun zamandır bu
+hantal yapıdan kurtulmayı düşünüyordum. Çünkü Wordpress benim için sadece basit
+bir blog arayüzünden fazlası değildir. Sunduğu özellikler böyle bir açık kaynak
+kodlu proje için muazzam olsa da benim için gereksiz bir yükten başka bir şey
+değildi. Yukarıda anlatığım durum gerçekleşince ben de soluğu
+[Jekyll](https://github.com/mojombo/jekyll)'de buldum. 
 
 
 Jekyll nedir?

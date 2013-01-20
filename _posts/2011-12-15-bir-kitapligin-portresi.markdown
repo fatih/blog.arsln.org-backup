@@ -18,8 +18,6 @@ Bundan bir buçuk ay öncesinde [The New Yorker](http://www.newyorker.com/) derg
 
 [![](http://arsln.org/wp-content/uploads/kitaplik-500x326.jpg)](http://arsln.org/wp-content/uploads/kitaplik.jpg)
 
-<!--more-->
-
 Kayınbabasını öldükten sonra bu kitaplar miras kalıyor kendisine. Fakat bu büyüklükte bir kitaplığı ve haliyle kitapları saklayacak yeri olmayınca bunlarla neler yapabileceğini düşünmeye başlıyor.
 
 Bundan yaklaşık iki yıl önce kitaplar ve kitaplıklar hakkında bir yazı yazmıştım: [Kitaplar üzerine](http://blog.arsln.org/kitaplar-uzerine/). Bu yazıyı [Rands](http://www.randsinrepose.com/)'ın "_Kitaplıklar insanların özelliklerini, ilgi alanlarını ve kısacası hayatını sergileyen anıtlar haline gelmiştir. Yabancı bir eve girdiğimde ilk yaptığım iş kitaplığına bir göz atmak. Böylelikle anında bir çözümleme yapabiliyorum._" yorumu üzerine yazmıştım. 

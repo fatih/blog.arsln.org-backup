@@ -9,16 +9,28 @@ title: Pardus'tan ayrılışım ve sonrası
 
 Kısa Özet
 ---------
-TÜBİTAK'da yer aldığım Pardus projesinden istifa ettim iki hafta önce. Tam 20 ay ( ~1.5 yıl) severek çalışmış, iyi insanlar tanımış, bir çok güzel bilgi öğrenmiş, ama üzgün ve hevesi kırılmış biri olarak ayrıldım. Neden mi?
+TÜBİTAK'da yer aldığım Pardus projesinden istifa ettim iki hafta önce. Tam 20 ay
+( ~1.5 yıl) severek çalışmış, iyi insanlar tanımış, bir çok güzel bilgi
+öğrenmiş, ama üzgün ve hevesi kırılmış biri olarak ayrıldım. Neden mi?
 
 
 Uzun Hikaye (geçmişe dair)
 --------------------------
-Nerden nasıl başlasam sözlerime bir türlü bilemedim. Bu yazılanları büyük bir hüzünle yazdığımı belirteyim. İnsanoğlu hayallerle büyür ama bu hayaller tam gerçekleştiği sandığınız anda kül olup uçtuğunu geç fark ediyor.  En iyisi ben  kaseti en başa sarıp o şekilde size hikeyimi anlatayım.
+Nerden nasıl başlasam sözlerime bir türlü bilemedim. Bu yazılanları büyük bir
+hüzünle yazdığımı belirteyim. İnsanoğlu hayallerle büyür ama bu hayaller tam
+gerçekleştiği sandığınız anda kül olup uçtuğunu geç fark ediyor.  En iyisi ben
+kaseti en başa sarıp o şekilde size hikeyimi anlatayım.
 
-Yıl 2010. Hacettepe'den mezun olmama iki ay kala Pardus projesine iş başvuruşunda bulunmuştum. 2008 yılında staj yapmıştım ve böylelikle de ekibin bir çok kısmını kısmen de olsa tanıyordum. Linux ile maceram ise 2005 yıllarına dayanıyor. İşim güçüm Linux idi, okulda insanlara Linux'u anlatırdım, Linux kullanır, Linux CD'si dağıtırdım(_Maviportal_), kişisel blogumda belgeler yazardım, insanlarla tartışırdım. Bundan daha keyifli bir şey yoktu benim için. Akşam okuldan geldiğim gibi Archlinux ile ilgili gelişmeleri takip eder, şu an hangi teknolojiler, hangi paketlerde ne özellikler mevcut, sistemde ne gibi değişiklikler olacak diye adım adım takip ederdim. Seviyordum çünkü.
+Yıl 2010. Hacettepe'den mezun olmama iki ay kala Pardus projesine iş
+başvuruşunda bulunmuştum. 2008 yılında staj yapmıştım ve böylelikle de ekibin
+bir çok kısmını kısmen de olsa tanıyordum. Linux ile maceram ise 2005 yıllarına
+dayanıyor. İşim güçüm Linux idi, okulda insanlara Linux'u anlatırdım, Linux
+kullanır, Linux CD'si dağıtırdım(_Maviportal_), kişisel blogumda belgeler
+yazardım, insanlarla tartışırdım. Bundan daha keyifli bir şey yoktu benim için.
+Akşam okuldan geldiğim gibi Archlinux ile ilgili gelişmeleri takip eder, şu an
+hangi teknolojiler, hangi paketlerde ne özellikler mevcut, sistemde ne gibi
+değişiklikler olacak diye adım adım takip ederdim. Seviyordum çünkü.
 
-<!--more-->
 
 Hal böyle olunca Pardus'ta işe başlamak da hayallerimden biriydi. Nitekim öyle de olmuştu. Erkan Tekman'dan kabul mektubunu alınca bölümün önünde sevinçten zıpladığımı, gözlerimin güneş misali parladığı o an orada olanlar bilir. Akşam üstü bunu aileme söyledim ve 2010 Ağustos ayında ise resmen Pardus ekibinde işe başlamıştım.
 

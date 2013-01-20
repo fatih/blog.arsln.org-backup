@@ -26,8 +26,6 @@ Bu veri tiplerinin her birinin bellekte tuttukları miktar da farklıdır. Aşa�
 
 [![C veri tipleri](http://arsln.org/wp-content/uploads/data_types_c.jpg)](http://arsln.org/wp-content/uploads/data_types_c.jpg)
 
-<!--more-->
-
 Gördüğünüz gibi her veri tipinin büyüklüğü farklı olabiliyor. Ayrıca aldıkları önekler (_short ve long_) sayesinde bunları küçültüp veya büyütebilirsiniz. 
 
 _"char"_ veri tipi ise ailemizin en küçük veri tipi diyebiliriz. Kendisi aslında tıpkı _"int"_ gibidir, yanı tam sayılar için tasarlanmıştır. Bu yüzden tam sayı hesaplamaları için de kullanabiliriz. Fakat C dili ile kod yazarken de C'nin dahili olarak desteklemesi gereken belirli bir karakter kümesi olması gerekiyor. Yoksa dünyada herkes kafasına göre bir karakter seti kullanabilirdi (hiragana, kiril, arapça, türkçe,vs..). Bu yüzden C standardında ASCII karakter seti kullanılınıyor. Her bir karakter de birer tam sayı olarak kaydediliyor. Örneğin **"A" harfi ASCII'ye göre "65" sayısına** denk geliyor. Hangi harfin hangi sayıya denk geldiğini [ASCII tablosundan](http://www.asciitable.com/) bakabilirsiniz.
