@@ -1,5 +1,5 @@
 <!doctype html>
-  <head>
+<head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <title>{% if page.title %} {{ page.title }} - {% endif %}{{ site.title }}</title>
@@ -13,89 +13,89 @@
     <link rel="shortcut icon" href="/favicon.ico">
     <link type="text/css" rel="stylesheet" media="screen, projection" href="/css/screen.css" /> 
     <link type="text/css" rel="stylesheet" media="all" href="/css/custom.css" />
-	<link href='http://fonts.googleapis.com/css?family=Habibi|Asap:400,700,400italic,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
-	<!--<link href='http://fonts.googleapis.com/css?family=Bree+Serif|Noticia+Text:402,400italic,700,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>-->
-  </head>
-  <body>
+    <link href='http://fonts.googleapis.com/css?family=Habibi|Asap:400,700,400italic,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    <!--<link href='http://fonts.googleapis.com/css?family=Bree+Serif|Noticia+Text:402,400italic,700,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>-->
+</head>
+<body>
     <div class="container">
-      <header class="span-21 last" id="header">
+        <header class="span-21 last" id="header">
         <a href="{{ site.url }}" rel="home bookmark">{{ site.title }}</a>
-      </header>
+        </header>
 
-      <div class="span-16" id="content">
-        {{ content }}
-      </div>
-      <div class="span-5 last" id="sidebar">
-        <div class="sidebarbox"> 
-          <h4>Sayfalar</h4> 
-          <ul id="pages">
-	        <li>
-              <a rel="bookmark" title="Ana Sayfa" href="{{ site.url }}/">Ana Sayfa</a>
-            </li>
-            <li>
-              <a rel="bookmark" title="Hakkımda" href="{{ site.url }}/about">Hakkımda</a>
-            </li>
-            <li>
-              <a rel="bookmark" title="Arşiv" href="{{ site.url }}/archives" id="archives">Arşiv</a> 
-            </li>
-          </ul>
+        <div class="span-16" id="content">
+            {{ content }}
         </div>
-        <div class="sidebarbox"> 
-          <h4>Üye ol</h4> 
-          <ul> 
-            <li> 
-              <a title="RSS Feed" href="http://feeds.feedburner.com/arsln" class="icon-link" id="feed-link">RSS</a> 
-            </li> 
-          </ul> 
-        </div> 
-        <div class="sidebarbox"> 
-          <h4>Enfüs</h4> 
-          <ul> 
-            <li> 
-              <a rel="bookmark" title="Twitter" href="http://twitter.com/ftharsln" class="icon-link" id="twitter-link">Twitter</a> 
-            </li> 
-            <li> 
-              <a rel="bookmark" title="GitHub" href="http://github.com/farslan" class="icon-link" id="github-link">GitHub</a> 
-            </li> 
-            <li> 
-              <a rel="bookmark" title="Stackoverflow" href="http://stackoverflow.com/users/462233/fatih-arslan" class="icon-link" id="stackoverflow-link">Stackoverflow</a> 
-            </li> 
-          </ul> 
+        <div class="span-5 last" id="sidebar">
+            <div class="sidebarbox"> 
+                <h4>Sayfalar</h4> 
+                <ul id="pages">
+                    <li>
+                    <a rel="bookmark" title="Ana Sayfa" href="{{ site.url }}/">Ana Sayfa</a>
+                    </li>
+                    <li>
+                    <a rel="bookmark" title="Hakkımda" href="{{ site.url }}/about">Hakkımda</a>
+                    </li>
+                    <li>
+                    <a rel="bookmark" title="Arşiv" href="{{ site.url }}/archives" id="archives">Arşiv</a> 
+                    </li>
+                </ul>
+            </div>
+            <div class="sidebarbox"> 
+                <h4>Üye ol</h4> 
+                <ul> 
+                    <li> 
+                    <a title="RSS Feed" href="http://feeds.feedburner.com/arsln" class="icon-link" id="feed-link">RSS</a> 
+                    </li> 
+                </ul> 
+            </div> 
+            <div class="sidebarbox"> 
+                <h4>Enfüs</h4> 
+                <ul> 
+                    <li> 
+                    <a rel="bookmark" title="Twitter" href="http://twitter.com/ftharsln" class="icon-link" id="twitter-link">Twitter</a> 
+                    </li> 
+                    <li> 
+                    <a rel="bookmark" title="GitHub" href="http://github.com/farslan" class="icon-link" id="github-link">GitHub</a> 
+                    </li> 
+                    <li> 
+                    <a rel="bookmark" title="Stackoverflow" href="http://stackoverflow.com/users/462233/fatih-arslan" class="icon-link" id="stackoverflow-link">Stackoverflow</a> 
+                    </li> 
+                </ul> 
+            </div>
+            <div class="sidebarbox"> 
+                <h4>İletişim</h4> 
+                <ul> 
+                    <li> 
+                    <a rel="bookmark" title="Email" href="mailto:&#098;&#108;&#111;&#103;&#064;&#097;&#114;&#115;&#108;&#110;&#046;&#111;&#114;&#103;" class="icon-link" id="gmail-link">Gmail</a> 
+                    </li> 
+                </ul> 
+            </div> 
         </div>
-        <div class="sidebarbox"> 
-          <h4>İletişim</h4> 
-          <ul> 
-            <li> 
-              <a rel="bookmark" title="Email" href="mailto:&#098;&#108;&#111;&#103;&#064;&#097;&#114;&#115;&#108;&#110;&#046;&#111;&#114;&#103;" class="icon-link" id="gmail-link">Gmail</a> 
-            </li> 
-          </ul> 
-        </div> 
-      </div>
 
-      <footer class="span-21 last" id="footer">
-      <span class="byline author vcard"><span class="fn">Fatih Arslan</span>. <a href="http://github.com/mojombo/jekyll" title="The Jekyll (static site generator) code repository" rel="external" target="_blank">Jekyll</a> altyapısı ile güçlendirilmiştir.</span>
-      </footer>
+        <footer class="span-21 last" id="footer">
+        <span class="byline author vcard"><span class="fn">Fatih Arslan</span>. <a href="http://github.com/mojombo/jekyll" title="The Jekyll (static site generator) code repository" rel="external" target="_blank">Jekyll</a> altyapısı ile güçlendirilmiştir.</span>
+        </footer>
     </div>
 
     <script src="/js/highlight.pack.js"></script>
     <script>hljs.initHighlightingOnLoad();</script>
 
     {% include disqus.html %}
-  </body>
+</body>
 
- <script type="text/javascript">
+<script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-6087388-3']);
-  _gaq.push(['_trackPageview']);
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-6087388-3']);
+    _gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+    (function() {
+     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+     })();
 
-</script>
+ </script>
 
 
 </html>
