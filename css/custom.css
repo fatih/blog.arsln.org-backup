@@ -1,12 +1,14 @@
 body {
     text-align: center;
+    background: transparent url("../images/pattern/noise2.png");
 }
+
 .container {
     margin: 10px auto;
 }
 
 #header {
-    font-size: 4em;
+    font-size: 5em;
     padding: 5px 0 50px;
     font-weight: bold;
     text-align: left;
