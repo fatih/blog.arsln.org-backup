@@ -3,11 +3,27 @@ layout: page
 title: Hakkımda
 ---
 
-<img src="/images/fatih_arslan.png" align="left" style="margin-right:30px; margin-top:7px;"> Merhaba, adım Fatih.  Hacettepe Elektrik-Elektronik Müh. mezunuyum. 2005 yılından beri Linux ve Açık kaynak dünyası ile ilgileniyorum. Ağustos 2010 - Nisan 2012 tarihleri arasında Türkiye'nin en büyük açık kaynak projelerinden biri olan TÜBİTAK bünyesindeki [Pardus](http://www.pardus.org.tr/) projesinde çalıştım. 
+<img src="/images/fatih_arslan.png" align="left" style="margin-right:30px;
+margin-top:7px;"> Merhaba, adım Fatih.  Hacettepe Elektrik-Elektronik Müh.
+mezunuyum. 2005 yılından beri Linux ve Açık kaynak dünyası ile ilgileniyorum.
+Ağustos 2010 - Nisan 2012 tarihleri arasında Türkiye'nin en büyük açık kaynak
+projelerinden biri olan TÜBİTAK bünyesindeki [Pardus](http://www.pardus.org.tr/)
+projesinde çalıştım. Nisan 2012 - Şubat 2013 tarihleri arasında
+[Cardtek](http://www.cardtek.com/) bünyesinde gömülü sistemler ve temel finansal
+uygulamaların geliştirilmesi ve bakımıyla ilgilendim. Şubat 2013'den beri de
+[Koding](http://www.koding.com) startup'ında çalışmaya başladım. Koding ilgili
+[yazdığım blog
+yazısını](http://blog.arsln.org/yeni-isim-yeni-gelismeler-koding/)
+okuyabilirsiniz.
 
-Nisan 2012'den beri de [Cardtek](http://www.cardtek.com/) bünyesinde gömülü sistemler ve temel finansal uygulamaların geliştirilmesi ve bakımıyla ilgileniyorum.
-
-Pardus projesinde giriş aygıtları (dokunmatik ekran, fare, klavye, vs.) ve ekran kartı sürücü altyapısı ile ilgilendim (X.org bileşeni). Otomatik ekran kartı sürücülerinin yapılandırılabilmesi için C++ ve QT ile [Panda](http://svn.pardus.org.tr/uludag/trunk/panda/) ve [Panda-kde](http://svn.pardus.org.tr/uludag/trunk/kde/panda-kde/) aracını yazdım. 300' yakın uygulamanın paket bakımını üstlendim. Ayrıca zaman zaman çeşitli iyileştirmeler ve yeni özellikler ekledim. Bunların bir kısmı şu şekilde:
+Pardus projesinde giriş aygıtları (dokunmatik ekran, fare, klavye, vs.) ve ekran
+kartı sürücü altyapısı ile ilgilendim (X.org bileşeni). Otomatik ekran kartı
+sürücülerinin yapılandırılabilmesi için C++ ve QT ile
+[Panda](http://svn.pardus.org.tr/uludag/trunk/panda/) ve
+[Panda-kde](http://svn.pardus.org.tr/uludag/trunk/kde/panda-kde/) aracını
+yazdım. 300' yakın uygulamanın paket bakımını üstlendim. Ayrıca zaman zaman
+çeşitli iyileştirmeler ve yeni özellikler ekledim. Bunların bir kısmı şu
+şekilde:
 
 * [kcmkeyboard](http://svn.pardus.org.tr/uludag/trunk/playground/fatih.arslan/kauth_kcmkeyboard/): KAuth kullanarak sistem klavye ayarlarını değiştiren bir yama
 * [kcmlocale](http://svn.pardus.org.tr/uludag/trunk/playground/fatih.arslan/kcmlocale/): KAuth kullanarak sistem yerelini değiştiren iyileştirme bütünü

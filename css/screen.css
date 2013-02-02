@@ -106,10 +106,10 @@ p img.right {
     margin: 1.5em 0 1.5em 1.5em;
 }
 a:focus, a:hover {
-    color: #874554;
+    color: #D45800;
 }
 a {
-    color: #874554;
+    color: #D45800;
     text-decoration: none;
 }
 .quote {
