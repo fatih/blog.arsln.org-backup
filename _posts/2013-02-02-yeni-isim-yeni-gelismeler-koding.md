@@ -26,7 +26,7 @@ Yaklaşık iki aydır Koding için iki tane uygulama yazdım ([Rails
 Dashboard](https://github.com/farslan/RailsDashboard.kdapp) ve [Django
 Dashboard](https://github.com/farslan/Django.kdapp)), iki tane uygulama
 geliştirmek üzereyim ve bunların üzerine uygulamaları yazarken kullandığımız KD
-Framework'un [teknik dokümantasyon
+Framework'un [teknik belgelendirme
 sürecini](https://github.com/farslan/koding-wiki) de başlatmış bulunmaktayım.
 Bunların hepsini akşamları boş zamanımda yapmaya çalıştım. Uzun ve yorucu bir
 süreçti (kabul), ama özellike Devrim abinin bu süreçteki tutumu ve yaklaşımı bu
