@@ -1,11 +1,9 @@
-
 title: "Fatih Arslan"
 url: "http://blog.arsln.org"
 author: "Fatih Arslan"
 email: "blog@arsln.org"
 description: "Fatih Arslan'ın kişisel blogu"
 
-auto: true
 paginate: 15
 paginate_files:
  - index.html
